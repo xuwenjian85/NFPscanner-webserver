@@ -1,0 +1,27 @@
+id	humancyc_M_refnet
+name	humancyc pathways - Modification
+network_sum	15
+description	Reference networks from humancyc database - Modification updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	D5M	D-myo-inositol-5-phosphate metabolism	Modification	143
+2	FA	fatty acid β-oxidation I	Modification	146
+3	FA	fatty acid β-oxidation VI (peroxisome)	Modification	147
+4	GDI	glutathione-mediated detoxification I	Modification	150
+5	NSPI	NAD salvage pathway II	Modification	154
+6	PPP	pentose phosphate pathway	Modification	156
+7	PPP(B	pentose phosphate pathway (non-oxidative branch)	Modification	157
+8	PDS	purine deoxyribonucleosides salvage	Modification	159
+9	PDP	pyrimidine deoxyribonucleotide phosphorylation	Modification	162
+10	SMS	sphingomyelin metabolism/ceramide salvage	Modification	165
+11	SAS1M	sphingosine and sphingosine-1-phosphate metabolism	Modification	166
+12	SOD(145M	superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism	Modification	168
+13	SOIPC	superpathway of inositol phosphate compounds	Modification	170
+14	SOPDS	superpathway of pyrimidine deoxyribonucleoside salvage	Modification	171
+15	TUI	tryptophan utilization II	Modification	174

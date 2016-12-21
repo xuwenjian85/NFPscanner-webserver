@@ -1,0 +1,19 @@
+id	kegg_GIP_refnet
+name	KEGG - Genetic Information Processing
+network_sum	7
+description	Reference networks from KEGG Pathway Database - Genetic Information Processing, updated by 2015/11/05
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/05
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	Aminoacyl-tRNA_biosynthesis	Aminoacyl-tRNA biosynthesis	Genetic Information Processing	5
+2	RNA_transport	RNA transport	Genetic Information Processing	6
+3	mRNA_surveillance_pathway	mRNA surveillance pathway	Genetic Information Processing	7
+4	Protein_processing_in_endoplasmic_reticulum	Protein processing in endoplasmic reticulum	Genetic Information Processing	10
+5	SNARE_interactions_in_vesicular_transport	SNARE interactions in vesicular transport	Genetic Information Processing	11
+6	RNA_degradation	RNA degradation	Genetic Information Processing	15
+7	Fanconi_anemia_pathway	Fanconi anemia pathway	Genetic Information Processing	22

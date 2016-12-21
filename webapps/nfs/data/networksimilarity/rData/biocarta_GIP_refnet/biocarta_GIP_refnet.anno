@@ -1,0 +1,31 @@
+id	biocarta_GIP_refnet
+name	biocarta pathways - Genetic Information Processing
+network_sum	19
+description	Reference networks from biocarta database - Genetic Information Processing updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	A95RIMACD	akap95 role in mitosis and chromosome dynamics	Genetic Information Processing	93
+2	BFPACCR	btg family proteins and cell cycle regulation	Genetic Information Processing	96
+3	C1AROTER	carm1 and regulation of the estrogen receptor	Genetic Information Processing	97
+4	CRODR	cdk regulation of dna replication	Genetic Information Processing	99
+5	CCG1CP	cell cycle: g1/s check point	Genetic Information Processing	100
+6	CCG2C	cell cycle: g2/m checkpoint	Genetic Information Processing	101
+7	CTCAS	cell to cell adhesion signaling	Genetic Information Processing	102
+8	CRBHAC	chromatin remodeling by hswi/snf atp-dependent complexes	Genetic Information Processing	103
+9	COGEBVDR	control of gene expression by vitamin d receptor	Genetic Information Processing	104
+10	CFMNF	ctcf: first multivalent nuclear factor	Genetic Information Processing	105
+11	CEDP	cyclin e destruction pathway	Genetic Information Processing	106
+12	CORINT	cycling of ran in nucleocytoplasmic transport	Genetic Information Processing	107
+13	CACCR	cyclins and cell cycle regulation	Genetic Information Processing	108
+14	DSRIGE	double stranded rna induced gene expression	Genetic Information Processing	111
+15	E21DP	e2f1 destruction pathway	Genetic Information Processing	112
+16	EPT	eukaryotic protein translation	Genetic Information Processing	113
+17	IREP	internal ribosome entry pathway	Genetic Information Processing	114
+18	RPIT	rna polymerase iii transcription	Genetic Information Processing	115
+19	TP2CSLGSTMOHT	the prc2 complex sets long-term gene silencing through modification of histone tails	Genetic Information Processing	116

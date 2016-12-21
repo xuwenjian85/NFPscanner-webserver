@@ -1,0 +1,28 @@
+id	nci_H_refnet
+name	nci pathways - Hormone
+network_sum	16
+description	Reference networks from nci database - Hormone updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	COARA	Coregulation of Androgen receptor activity	Hormone	103
+2	EESE	EGFR-dependent Endothelin signaling events	Hormone	104
+3	E	Endothelins	Hormone	105
+4	GRRN	Glucocorticoid receptor regulatory network	Hormone	106
+5	I1P	IGF1 pathway	Hormone	107
+6	IGT	Insulin-mediated glucose transport	Hormone	108
+7	IP	Insulin Pathway	Hormone	109
+8	LRME	LPA receptor mediated events	Hormone	111
+9	NAS	Nongenotropic Androgen signaling	Hormone	112
+10	PMERS	Plasma membrane estrogen receptor signaling	Hormone	113
+11	ROARA	Regulation of Androgen receptor activity	Hormone	115
+12	RARS	Retinoic acid receptors-mediated signaling	Hormone	116
+13	RARHWONR	RXR and RAR heterodimerization with other nuclear receptor	Hormone	117
+14	TA2RS	Thromboxane A2 receptor signaling	Hormone	118
+15	VNERAN	Validated nuclear estrogen receptor alpha network	Hormone	119
+16	VNERBN	Validated nuclear estrogen receptor beta network	Hormone	120

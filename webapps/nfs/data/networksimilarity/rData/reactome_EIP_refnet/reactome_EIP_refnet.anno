@@ -1,0 +1,18 @@
+id	reactome_EIP_refnet
+name	Reactome pathways - Enviromental Information Processing
+network_sum	6
+description	Reference networks from Reactome database - Enviromental Information Processing updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	R-HSA-3299685	Detoxification of Reactive Oxygen Species	Enviromental Information Processing	38
+2	R-HSA-2559583	Cellular Senescence	Enviromental Information Processing	37
+3	R-HSA-2262749	Cellular response to hypoxia	Enviromental Information Processing	36
+4	R-HSA-3371556	Cellular response to heat stress	Enviromental Information Processing	39
+5	R-HSA-1368108	BMAL1:CLOCK,NPAS2 activates circadian gene expression	Enviromental Information Processing	42
+6	R-HSA-109581	Apoptosis	Enviromental Information Processing	43

@@ -1,0 +1,73 @@
+ID	Description	Category	Edge Count	Node Count
+1	Angiotensin_II-stimulated_signaling_through_G_proteins_and_beta-arrestin	Cellular Processes	88	12
+2	Apoptosis signaling pathway	Cellular Processes	72	29
+3	Axon guidance mediated by netrin	Cellular Processes	46	9
+4	Axon guidance mediated by semaphorins	Cellular Processes	32	14
+5	Axon guidance mediated by Slit/Robo	Cellular Processes	34	13
+6	Beta1 adrenergic receptor signaling pathway	Cellular Processes	30	16
+7	Beta2 adrenergic receptor signaling pathway	Cellular Processes	30	16
+8	Beta3 adrenergic receptor signaling pathway	Cellular Processes	30	16
+9	Cadherin signaling pathway	Cellular Processes	2370	133
+10	Cortocotropin releasing factor receptor signaling pathway	Cellular Processes	94	18
+11	Cytoskeletal regulation by Rho GTPase	Cellular Processes	68	20
+12	EGF receptor signaling pathway	Cellular Processes	1142	38
+13	Endogenous_cannabinoid_signaling	Cellular Processes	188	25
+14	FAS signaling pathway	Cellular Processes	22	10
+15	FGF signaling pathway	Cellular Processes	630	28
+16	GABA-B_receptor_II_signaling	Cellular Processes	124	13
+17	Hedgehog signaling pathway	Cellular Processes	37	10
+18	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	Cellular Processes	1432	83
+19	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	Cellular Processes	720	45
+20	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction	Cellular Processes	78	16
+21	Histamine H1 receptor mediated signaling pathway	Cellular Processes	30	16
+22	Histamine H2 receptor mediated signaling pathway	Cellular Processes	30	16
+23	Integrin signalling pathway	Cellular Processes	8753	121
+24	PNAT	Cellular Processes	242	24
+25	Synaptic_vesicle_trafficking	Cellular Processes	278	20
+26	Inflammation mediated by chemokine and cytokine signaling pathway	Enviromental Information Processing	2206	83
+27	Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade	Enviromental Information Processing	39	9
+28	Insulin/IGF pathway-protein kinase B signaling cascade	Enviromental Information Processing	41	9
+29	JAK/STAT signaling pathway	Enviromental Information Processing	12	7
+30	Nicotine pharmacodynamics pathway	Enviromental Information Processing	78	19
+31	Nicotinic acetylcholine receptor signaling pathway	Enviromental Information Processing	698	52
+32	Notch signaling pathway	Enviromental Information Processing	78	12
+33	Opioid proenkephalin pathway	Enviromental Information Processing	106	20
+34	Opioid proopiomelanocortin pathway	Enviromental Information Processing	70	19
+35	Oxytocin receptor mediated signaling pathway	Enviromental Information Processing	30	16
+36	p53 pathway	Enviromental Information Processing	28	25
+37	P53 pathway feedback loops 1	Enviromental Information Processing	18	6
+38	p53 pathway feedback loops 2	Enviromental Information Processing	29	16
+39	PI3 kinase pathway	Enviromental Information Processing	182	28
+40	TGF-beta signaling pathway	Enviromental Information Processing	130	23
+41	Wnt signaling pathway	Enviromental Information Processing	2402	216
+42	DNA replication	Genetic Information Processing	20	5
+43	General transcription by RNA polymerase I	Genetic Information Processing	90	12
+44	General transcription regulation	Genetic Information Processing	734	33
+45	mRNA splicing	Genetic Information Processing	13	4
+46	Transcription regulation by bZIP transcription factor	Genetic Information Processing	892	36
+47	 5HT1 type receptor mediated signaling pathway	Organismal Systems	170	22
+48	 5HT2 type receptor mediated signaling pathway	Organismal Systems	164	21
+49	Activinbetasignaling_pathway	Organismal Systems	13	10
+50	Alpha adrenergic receptor signaling pathway	Organismal Systems	90	18
+51	Alzheimer disease-amyloid secretase pathway	Organismal Systems	42	16
+52	Alzheimer disease-presenilin pathway	Organismal Systems	573	71
+53	Angiogenesis	Organismal Systems	290	71
+54	B cell activation	Organismal Systems	122	39
+55	Blood coagulation	Organismal Systems	74	31
+56	Circadian clock system	Organismal Systems	32	9
+57	Enkephalin release	Organismal Systems	74	27
+58	Huntington disease	Organismal Systems	605	57
+59	Interferon-gamma signaling pathway	Organismal Systems	31	6
+60	Interleukin signaling pathway	Organismal Systems	822	39
+61	Ionotropic glutamate receptor pathway	Organismal Systems	48	19
+62	Metabotropic glutamate receptor group III pathway	Organismal Systems	120	19
+63	Metabotropic glutamate receptor group II pathway	Organismal Systems	68	19
+64	Metabotropic glutamate receptor group I pathway	Organismal Systems	98	18
+65	Muscarinic acetylcholine receptor 1 and 3 signaling pathway	Organismal Systems	60	17
+66	Muscarinic acetylcholine receptor 2 and 4 signaling pathway	Organismal Systems	60	17
+67	Parkinson disease	Organismal Systems	56	25
+68	PDGF signaling pathway	Organismal Systems	14	7
+69	Plasminogen activating cascade	Organismal Systems	34	12
+70	T cell activation	Organismal Systems	154	31
+71	Thyrotropin-releasing hormone receptor signaling pathway	Organismal Systems	186	21
+72	Toll receptor signaling pathway	Organismal Systems	37	22

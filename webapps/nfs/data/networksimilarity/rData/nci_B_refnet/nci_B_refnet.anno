@@ -1,0 +1,23 @@
+id	nci_B_refnet
+name	nci pathways - Brain
+network_sum	11
+description	Reference networks from nci database - Brain updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	AS	Alpha-synuclein signaling	Brain	1
+2	CRP	Circadian rhythm pathway	Brain	2
+3	EOBT	Effects of Botulinum toxin	Brain	3
+4	NSE	Netrin-mediated signaling events	Brain	4
+5	NFTRS	Neurotrophic factor-mediated Trk receptor signaling	Brain	5
+6	P75S	p75(NTR)-mediated signaling	Brain	6
+7	RSP	Reelin signaling pathway	Brain	7
+8	TRSMBP3AP	Trk receptor signaling mediated by PI3K and PLC-gamma	Brain	8
+9	TRSMBTMP	Trk receptor signaling mediated by the MAPK pathway	Brain	9
+10	VSTC	Visual signal transduction: Cones	Brain	10
+11	VSTR	Visual signal transduction: Rods	Brain	11

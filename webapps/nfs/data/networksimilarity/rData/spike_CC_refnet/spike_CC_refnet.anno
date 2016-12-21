@@ -1,0 +1,21 @@
+id	spike_CC_refnet
+name	spike pathways - Cell Cycle
+network_sum	9
+description	Reference networks from spike database - Cell Cycle updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	G1S	G1.S	Cell Cycle	1
+2	G2M	G2.M	Cell Cycle	2
+3	G2	GJB2	Cell Cycle	3
+4	M	mapk	Cell Cycle	4
+5	N	NFkB	Cell Cycle	5
+6	P53	p53	Cell Cycle	6
+7	RS	RAS.signaling	Cell Cycle	7
+8	TS	TLR_signaling	Cell Cycle	8
+9	WS	WNT.signaling	Cell Cycle	9

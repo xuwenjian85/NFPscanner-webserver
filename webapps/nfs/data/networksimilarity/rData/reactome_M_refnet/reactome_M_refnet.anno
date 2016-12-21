@@ -1,0 +1,24 @@
+id	reactome_M_refnet
+name	Reactome pathways - Metabolism
+network_sum	12
+description	Reference networks from Reactome database - Metabolism updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	Metabolism	81
+2	R-HSA-1475029	Reversible hydration of carbon dioxide	Metabolism	82
+3	R-HSA-1480926	O2/CO2 exchange in erythrocytes	Metabolism	83
+4	R-HSA-1362409	Mitochondrial iron-sulfur cluster biogenesis	Metabolism	80
+5	R-HSA-196854	Metabolism of vitamins and cofactors	Metabolism	88
+6	R-HSA-202131	Metabolism of nitric oxide	Metabolism	89
+7	R-HSA-556833	Metabolism of lipids and lipoproteins	Metabolism	93
+8	R-HSA-163685	Integration of energy metabolism	Metabolism	86
+9	R-HSA-1483249	Inositol phosphate metabolism	Metabolism	84
+10	R-HSA-2564830	Cytosolic iron-sulfur cluster assembly	Metabolism	92
+11	R-HSA-211859	Biological oxidations	Metabolism	90
+12	R-HSA-2161522	Abacavir transport and metabolism	Metabolism	91

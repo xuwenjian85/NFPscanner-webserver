@@ -1,0 +1,62 @@
+ID	Description	Category	Edge Count	Node Count
+1	Complement and coagulation cascades	Organismal Systems	102	69
+2	Platelet activation	Organismal Systems	345	130
+3	Toll-like receptor signaling pathway	Organismal Systems	226	106
+4	NOD-like receptor signaling pathway	Organismal Systems	92	57
+5	RIG-I-like receptor signaling pathway	Organismal Systems	69	70
+6	Cytosolic DNA-sensing pathway	Organismal Systems	31	64
+7	Natural killer cell mediated cytotoxicity	Organismal Systems	368	134
+8	Antigen processing and presentation	Organismal Systems	456	79
+9	T cell receptor signaling pathway	Organismal Systems	208	104
+10	B cell receptor signaling pathway	Organismal Systems	146	72
+11	Fc epsilon RI signaling pathway	Organismal Systems	163	70
+12	Fc gamma R-mediated phagocytosis	Organismal Systems	251	92
+13	Leukocyte transendothelial migration	Organismal Systems	865	118
+14	Intestinal immune network for IgA production	Organismal Systems	16	49
+15	Chemokine signaling pathway	Organismal Systems	1698	187
+16	Insulin secretion	Organismal Systems	99	85
+17	Insulin signaling pathway	Organismal Systems	417	139
+18	Glucagon signaling pathway	Organismal Systems	415	101
+19	Regulation of lipolysis in adipocytes	Organismal Systems	120	56
+20	Adipocytokine signaling pathway	Organismal Systems	210	70
+21	PPAR signaling pathway	Organismal Systems	251	69
+22	GnRH signaling pathway	Organismal Systems	228	91
+23	Ovarian steroidogenesis	Organismal Systems	50	50
+24	Estrogen signaling pathway	Organismal Systems	213	99
+25	Progesterone-mediated oocyte maturation	Organismal Systems	128	87
+26	Prolactin signaling pathway	Organismal Systems	195	72
+27	Oxytocin signaling pathway	Organismal Systems	443	158
+28	Thyroid hormone synthesis	Organismal Systems	112	71
+29	Thyroid hormone signaling pathway	Organismal Systems	367	118
+30	Melanogenesis	Organismal Systems	381	100
+31	Renin secretion	Organismal Systems	64	64
+32	Aldosterone synthesis and secretion	Organismal Systems	266	81
+33	Cardiac muscle contraction	Organismal Systems	24	78
+34	Adrenergic signaling in cardiomyocytes	Organismal Systems	873	148
+35	Vascular smooth muscle contraction	Organismal Systems	277	120
+36	Salivary secretion	Organismal Systems	34	89
+37	Gastric acid secretion	Organismal Systems	103	74
+38	Pancreatic secretion	Organismal Systems	18	96
+39	Bile secretion	Organismal Systems	26	71
+40	Fat digestion and absorption	Organismal Systems	16	41
+41	Vasopressin-regulated water reabsorption	Organismal Systems	46	44
+42	Aldosterone-regulated sodium reabsorption	Organismal Systems	41	39
+43	Endocrine and other factor-regulated calcium reabsorption	Organismal Systems	44	47
+44	Glutamatergic synapse	Organismal Systems	471	114
+45	GABAergic synapse	Organismal Systems	506	88
+46	Cholinergic synapse	Organismal Systems	564	111
+47	Dopaminergic synapse	Organismal Systems	592	129
+48	Serotonergic synapse	Organismal Systems	408	112
+49	Long-term potentiation	Organismal Systems	315	66
+50	Long-term depression	Organismal Systems	271	60
+51	Retrograde endocannabinoid signaling	Organismal Systems	531	101
+52	Synaptic vesicle cycle	Organismal Systems	37	63
+53	Neurotrophin signaling pathway	Organismal Systems	372	120
+54	Olfactory transduction	Organismal Systems	1216	406
+55	Taste transduction	Organismal Systems	61	52
+56	Inflammatory mediator regulation of TRP channels	Organismal Systems	134	98
+57	Dorso-ventral axis formation	Organismal Systems	14	27
+58	Axon guidance	Organismal Systems	300	127
+59	Osteoclast differentiation	Organismal Systems	241	131
+60	Circadian rhythm	Organismal Systems	101	31
+61	Circadian entrainment	Organismal Systems	1015	95

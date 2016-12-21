@@ -1,0 +1,23 @@
+ID	Description	Category	Edge Count	Node Count
+1	Nucleotide Excision Repair	Genetic Information Processing	754	49
+2	Base Excision Repair	Genetic Information Processing	42	11
+3	Synthesis of DNA	Genetic Information Processing	2828	95
+4	Regulation of DNA replication	Genetic Information Processing	2558	75
+5	M/G1 Transition	Genetic Information Processing	2829	82
+6	tRNA Aminoacylation	Genetic Information Processing	155	42
+7	Translation	Genetic Information Processing	13543	145
+8	RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription	Genetic Information Processing	5259	145
+9	RNA Polymerase II Transcription	Genetic Information Processing	4397	106
+10	Regulation of mRNA stability by proteins that bind AU-rich elements	Genetic Information Processing	2309	87
+11	Processing of Capped Intronless Pre-mRNA	Genetic Information Processing	290	23
+12	Processing of Capped Intron-Containing Pre-mRNA	Genetic Information Processing	14643	145
+13	Nonsense-Mediated Decay (NMD)	Genetic Information Processing	11321	107
+14	mRNA Capping	Genetic Information Processing	758	29
+15	Generic Transcription Pathway	Genetic Information Processing	1754	466
+16	Epigenetic regulation of gene expression	Genetic Information Processing	6353	117
+17	Deadenylation-dependent mRNA decay	Genetic Information Processing	532	48
+18	Unfolded Protein Response (UPR)	Genetic Information Processing	252	79
+19	Protein folding	Genetic Information Processing	1004	55
+20	Post-translational protein modification	Genetic Information Processing	1158	250
+21	Peptide hormone metabolism	Genetic Information Processing	216	82
+22	Mitochondrial protein import	Genetic Information Processing	629	52

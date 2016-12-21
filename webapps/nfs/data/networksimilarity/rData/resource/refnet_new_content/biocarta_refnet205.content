@@ -1,0 +1,206 @@
+ID	Description	Category	Edge Count	Node Count
+1	endocytotic role of ndk phosphins and dynamin	Cellular Processes	90	13
+2	er associated degradation (erad) pathway	Cellular Processes	30	6
+3	granzyme a mediated apoptosis pathway	Cellular Processes	35	9
+4	influence of ras and rho proteins on g1 to s transition	Cellular Processes	50	24
+5	intrinsic prothrombin activation pathway	Cellular Processes	63	21
+6	ion channels and their functional role in vascular endothelium	Cellular Processes	17	10
+7	keratinocyte differentiation	Cellular Processes	121	38
+8	lck and fyn tyrosine kinases in initiation of tcr activation	Cellular Processes	112	13
+9	lectin induced complement pathway	Cellular Processes	36	9
+10	mcalpain and friends in cell motility	Cellular Processes	470	41
+11	mechanism of protein import into the nucleus	Cellular Processes	90	12
+12	mechanisms of transcriptional repression by dna methylation	Cellular Processes	72	10
+13	melanocyte development and pigmentation pathway	Cellular Processes	21	13
+14	mets affect on macrophage differentiation	Cellular Processes	52	14
+15	multi-step regulation of transcription by pitx2	Cellular Processes	87	25
+16	nuclear receptors coordinate the activities of chromatin remodeling complexes and coactivators to facilitate initiation of transcription in carcinoma cells	Cellular Processes	40	8
+17	overview of telomerase protein component gene htert transcriptional regulation	Cellular Processes	16	10
+18	overview of telomerase rna component gene hterc transcriptional regulation	Cellular Processes	16	7
+19	platelet amyloid precursor protein pathway	Cellular Processes	34	12
+20	proteasome complex	Cellular Processes	421	23
+21	protein kinase a at the centrosome	Cellular Processes	101	12
+22	pten dependent cell cycle arrest and apoptosis	Cellular Processes	33	15
+23	ras-independent pathway in nk cell-mediated cytotoxicity	Cellular Processes	62	18
+24	regulation of bad phosphorylation	Cellular Processes	86	22
+25	regulation of cell cycle progression by plk3	Cellular Processes	45	18
+26	regulation of ck1/cdk5 by type 1 glutamate receptors	Cellular Processes	73	23
+27	regulation of eif-4e and p70s6 kinase	Cellular Processes	51	21
+28	regulation of eif2	Cellular Processes	31	11
+29	regulation of p27 phosphorylation during cell cycle progression	Cellular Processes	58	13
+30	regulation of pgc-1a	Cellular Processes	15	10
+31	regulation of spermatogenesis by crem	Cellular Processes	31	10
+32	regulation of splicing through sam68	Cellular Processes	24	10
+33	regulation of transcriptional activity by pml	Cellular Processes	30	10
+34	rho-selective guanine exchange factor akap13 mediates stress fiber formation	Cellular Processes	37	8
+35	role of mef2d in t-cell apoptosis	Cellular Processes	152	26
+36	role of mitochondria in apoptotic signaling	Cellular Processes	42	10
+37	role of nicotinic acetylcholine receptors in the regulation of apoptosis	Cellular Processes	53	17
+38	role of pi3k subunit p85 in regulation of actin organization and cell migration	Cellular Processes	63	16
+39	role of ran in mitotic spindle regulation	Cellular Processes	39	11
+40	spliceosomal assembly	Cellular Processes	35	8
+41	sumoylation as a mechanism to modulate ctbp-dependent gene responses	Cellular Processes	23	8
+42	telomeres telomerase cellular aging and immortality	Cellular Processes	30	12
+43	tsp-1 induced apoptosis in microvascular endothelial cell	Cellular Processes	14	7
+44	tumor suppressor arf inhibits ribosomal biogenesis	Cellular Processes	40	23
+45	ucalpain and friends in cell spread	Cellular Processes	312	24
+46	y branching of actin filaments	Cellular Processes	95	15
+47	apoptotic signaling in response to dna damage	Environmental Information Processing	30	13
+48	aspirin blocks signaling pathway involved in platelet activation	Environmental Information Processing	41	13
+49	cadmium induces dna synthesis and proliferation in macrophages	Environmental Information Processing	14	13
+50	calcium signaling by hbx of hepatitis b virus	Environmental Information Processing	25	12
+51	cardiac protection against ros	Environmental Information Processing	30	6
+52	caspase cascade in apoptosis	Environmental Information Processing	48	21
+53	ceramide signaling pathway	Environmental Information Processing	103	28
+54	chaperones modulate interferon signaling pathway	Environmental Information Processing	43	13
+55	chrebp regulation by carbohydrates and camp	Environmental Information Processing	81	19
+56	effects of calcineurin in keratinocyte differentiation	Environmental Information Processing	11	8
+57	fmlp induced chemokine gene expression in hmc-1 cells	Environmental Information Processing	56	23
+58	hiv-1 nef: negative effector of fas and tnf	Environmental Information Processing	169	28
+59	how does salmonella hijack a cell	Environmental Information Processing	59	11
+60	how progesterone initiates the oocyte maturation	Environmental Information Processing	94	23
+61	human cytomegalovirus and map kinase pathways	Environmental Information Processing	29	16
+62	hypoxia and p53 in the cardiovascular system	Environmental Information Processing	72	21
+63	hypoxia-inducible factor in the cardivascular system	Environmental Information Processing	76	16
+64	induction of apoptosis through dr3 and dr4/5 death receptors	Environmental Information Processing	102	19
+65	inhibition of cellular proliferation by gleevec	Environmental Information Processing	29	20
+66	mechanism of gene regulation by peroxisome proliferators via ppara	Environmental Information Processing	32	8
+67	nfkb activation by nontypeable hemophilus influenzae	Environmental Information Processing	51	22
+68	nitric oxide signaling pathway	Environmental Information Processing	47	11
+69	rb tumor suppressor/checkpoint signaling in response to dna damage	Environmental Information Processing	19	13
+70	stathmin and breast cancer resistance to antimicrotubule agents	Environmental Information Processing	58	14
+71	stress induction of hsp regulation	Environmental Information Processing	27	14
+72	tnf/stress related signaling	Environmental Information Processing	91	19
+73	transcription factor creb and its extracellular signals	Environmental Information Processing	52	18
+74	transcription regulation by methyltransferase of carm1	Environmental Information Processing	73	14
+75	west nile virus	Environmental Information Processing	11	7
+76	akap95 role in mitosis and chromosome dynamics	Genetic Information Processing	70	11
+77	btg family proteins and cell cycle regulation	Genetic Information Processing	12	9
+78	carm1 and regulation of the estrogen receptor	Genetic Information Processing	20	5
+79	cdk regulation of dna replication	Genetic Information Processing	264	18
+80	cell cycle: g1/s check point	Genetic Information Processing	104	25
+81	cell cycle: g2/m checkpoint	Genetic Information Processing	59	21
+82	cell to cell adhesion signaling	Genetic Information Processing	57	11
+83	chromatin remodeling by hswi/snf atp-dependent complexes	Genetic Information Processing	186	16
+84	control of gene expression by vitamin d receptor	Genetic Information Processing	184	27
+85	ctcf: first multivalent nuclear factor	Genetic Information Processing	32	16
+86	cyclin e destruction pathway	Genetic Information Processing	24	9
+87	cycling of ran in nucleocytoplasmic transport	Genetic Information Processing	41	9
+88	cyclins and cell cycle regulation	Genetic Information Processing	69	23
+89	double stranded rna induced gene expression	Genetic Information Processing	14	10
+90	e2f1 destruction pathway	Genetic Information Processing	25	10
+91	eukaryotic protein translation	Genetic Information Processing	108	13
+92	internal ribosome entry pathway	Genetic Information Processing	30	6
+93	rna polymerase iii transcription	Genetic Information Processing	42	7
+94	the prc2 complex sets long-term gene silencing through modification of histone tails	Genetic Information Processing	68	12
+95	actions of nitric oxide in the heart	Organismal System	56	22
+96	agrin in postsynaptic differentiation	Organismal System	202	23
+97	alk in cardiac myocytes	Organismal System	32	15
+98	alternative complement pathway	Organismal System	35	10
+99	b cell survival pathway	Organismal System	128	22
+100	bone remodeling	Organismal System	20	11
+101	classical complement pathway	Organismal System	50	11
+102	corticosteroids and cardioprotection	Organismal System	34	18
+103	downregulated of mta-3 in er-negative breast tumors	Organismal System	13	10
+104	extrinsic prothrombin activation pathway	Organismal System	26	13
+105	fibrinolysis pathway	Organismal System	30	14
+106	inactivation of gsk3 by akt causes accumulation of b-catenin in alveolar macrophages	Organismal System	138	32
+107	lissencephaly gene (lis1) in neuronal migration and development	Organismal System	14	9
+108	nfat and hypertrophy of the heart 	Organismal System	67	30
+109	regulators of bone mineralization	Organismal System	72	9
+110	repression of pain sensation by the transcriptional regulator dream	Organismal System	57	13
+111	reversal of insulin resistance by leptin	Organismal System	50	9
+112	role of brca1 brca2 and atr in cancer susceptibility	Organismal System	86	21
+113	role of egf receptor transactivation by gpcrs in cardiac hypertrophy	Organismal System	66	24
+114	role of ppar-gamma coactivators in obesity and thermogenesis	Organismal System	44	9
+115	segmentation clock	Organismal System	45	17
+116	skeletal muscle hypertrophy is regulated via akt-mtor pathway	Organismal System	54	24
+117	the co-stimulatory signal during t-cell activation	Organismal System	84	20
+118	the igf-1 receptor and longevity	Organismal System	25	12
+119	trefoil factors initiate mucosal healing	Organismal System	59	29
+120	vegf hypoxia and angiogenesis	Organismal System	69	24
+121	visual signal transduction	Organismal System	17	9
+122	yaci and bcma stimulation of b cell immune responses	Organismal System	46	8
+123	<U+00DF>-arrestins in gpcr desensitization	Signal Transduction	20	8
+124	acetylation and deacetylation of rela in nucleus	Signal Transduction	13	5
+125	activation of camp-dependent protein kinase pka	Signal Transduction	37	10
+126	activation of csk by camp-dependent protein kinase inhibits signaling through the t cell receptor	Signal Transduction	165	24
+127	adp-ribosylation factor	Signal Transduction	26	6
+128	akt signaling pathway	Signal Transduction	15	11
+129	angiotensin ii mediated activation of jnk pathway via pyk2 dependent signaling	Signal Transduction	61	27
+130	atm signaling pathway	Signal Transduction	45	16
+131	attenuation of gpcr signaling	Signal Transduction	60	11
+132	basic mechanisms of sumoylation	Signal Transduction	26	6
+133	bcr signaling pathway	Signal Transduction	91	27
+134	bioactive peptide induced signaling pathway	Signal Transduction	68	17
+135	brca1 dependent ub ligase activity	Signal Transduction	32	8
+136	ccr3 signaling in eosinophils	Signal Transduction	46	20
+137	cd40l signaling pathway	Signal Transduction	20	6
+138	cxcr4 signaling pathway	Signal Transduction	39	12
+139	cystic fibrosis transmembrane conductance regulator (cftr) and beta 2 adrenergic receptor (b2ar) pathway	Signal Transduction	133	14
+140	egf signaling pathway	Signal Transduction	40	17
+141	epo signaling pathway	Signal Transduction	24	9
+142	erk and pi-3 kinase are necessary for collagen binding in corneal epithelia	Signal Transduction	481	36
+143	erk1/erk2 mapk signaling pathway	Signal Transduction	47	22
+144	erythropoietin mediated neuroprotection through nf-kb	Signal Transduction	49	12
+145	fas signaling pathway (cd95)	Signal Transduction	75	20
+146	fc epsilon receptor i signaling in mast cells	Signal Transduction	89	28
+147	g-protein signaling through tubby proteins	Signal Transduction	12	4
+148	gamma-aminobutyric acid receptor life cycle pathway	Signal Transduction	96	11
+149	gata3 participate in activating the th2 cytokine genes expression	Signal Transduction	41	17
+150	growth hormone signaling pathway	Signal Transduction	46	18
+151	ifn alpha signaling pathway	Signal Transduction	46	9
+152	ifn gamma signaling pathway	Signal Transduction	25	6
+153	igf-1 signaling pathway	Signal Transduction	43	20
+154	il 2 signaling pathway	Signal Transduction	89	12
+155	il 3 signaling pathway	Signal Transduction	37	9
+156	il 4 signaling pathway	Signal Transduction	39	15
+157	il 6 signaling pathway	Signal Transduction	35	9
+158	il-10 anti-inflammatory signaling pathway	Signal Transduction	19	8
+159	il-2 receptor beta chain in t cell activation	Signal Transduction	139	38
+160	il-7 signal transduction	Signal Transduction	58	14
+161	il12 and stat4 dependent signaling pathway in th1 development	Signal Transduction	34	13
+162	il22 soluble receptor signaling pathway	Signal Transduction	22	6
+163	insulin signaling pathway	Signal Transduction	30	10
+164	integrin signaling pathway	Signal Transduction	581	39
+165	links between pyk2 and map kinases	Signal Transduction	54	23
+166	map kinase inactivation of smrt corepressor	Signal Transduction	27	14
+167	mapkinase signaling pathway	Signal Transduction	17	19
+168	mtor signaling pathway	Signal Transduction	60	23
+169	multiple antiapoptotic pathways from igf-1r signaling lead to bad phosphorylation	Signal Transduction	36	13
+170	nerve growth factor pathway (ngf)	Signal Transduction	35	17
+171	nf-kb signaling pathway	Signal Transduction	120	20
+172	p38 mapk signaling pathway	Signal Transduction	28	24
+173	p53 signaling pathway	Signal Transduction	35	13
+174	pdgf signaling pathway	Signal Transduction	52	24
+175	pertussis toxin-insensitive ccr5 signaling in macrophage	Signal Transduction	27	10
+176	phosphoinositides and their downstream targets	Signal Transduction	11	16
+177	phospholipase c-epsilon pathway	Signal Transduction	34	12
+178	phospholipids as signalling intermediaries	Signal Transduction	85	28
+179	phosphorylation of mek1 by cdk5/p35 down regulates the map kinase pathway	Signal Transduction	39	14
+180	pkc-catalyzed phosphorylation of inhibitory phosphoprotein of myosin phosphatase	Signal Transduction	34	13
+181	rac1 cell motility signaling pathway	Signal Transduction	21	18
+182	ras signaling pathway	Signal Transduction	18	18
+183	rho cell motility signaling pathway	Signal Transduction	22	14
+184	role of <U+00DF>-arrestins in the activation and targeting of map kinases	Signal Transduction	50	11
+185	role of erbb2 in signal transduction and oncology	Signal Transduction	62	23
+186	role of erk5 in neuronal survival pathway	Signal Transduction	34	19
+187	role of mal in rho-mediated activation of srf	Signal Transduction	36	19
+188	roles of <U+00DF> arrestin dependent recruitment of src kinases in gpcr signaling	Signal Transduction	22	12
+189	signal transduction through il1r	Signal Transduction	103	29
+190	signaling pathway from g-protein families	Signal Transduction	61	22
+191	sodd/tnfr1 signaling pathway	Signal Transduction	44	8
+192	sonic hedgehog receptor ptc1 regulates cell cycle	Signal Transduction	34	9
+193	sprouty regulation of tyrosine kinase signals	Signal Transduction	39	14
+194	sumoylation by ranbp2 regulates transcriptional repression	Signal Transduction	95	14
+195	t cell receptor signaling pathway	Signal Transduction	175	36
+196	tgf beta signaling pathway	Signal Transduction	61	17
+197	the information processing pathway at the ifn beta enhancer	Signal Transduction	441	22
+198	thrombin signaling and protease-activated receptors	Signal Transduction	45	16
+199	tnfr1 signaling pathway	Signal Transduction	104	17
+200	tnfr2 signaling pathway	Signal Transduction	56	9
+201	toll-like receptor pathway	Signal Transduction	140	33
+202	tpo signaling pathway	Signal Transduction	44	20
+203	trka receptor signaling pathway	Signal Transduction	26	11
+204	wnt lrp6 signalling	Signal Transduction	12	5
+205	wnt signaling pathway	Signal Transduction	115	28

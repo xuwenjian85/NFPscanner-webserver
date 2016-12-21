@@ -1,0 +1,109 @@
+ID	Description	Category	Edge Count	Node Count
+1	Aminoacyl-tRNA biosynthesis	Genetic Information Processing	14	66
+2	RNA transport	Genetic Information Processing	303	172
+3	mRNA surveillance pathway	Genetic Information Processing	156	91
+4	Protein processing in endoplasmic reticulum	Genetic Information Processing	78	169
+5	SNARE interactions in vesicular transport	Genetic Information Processing	42	34
+6	RNA degradation	Genetic Information Processing	73	77
+7	Fanconi anemia pathway	Genetic Information Processing	80	53
+8	Ras signaling pathway	Environmental Information Processing	1389	226
+9	Rap1 signaling pathway	Environmental Information Processing	1279	211
+10	MAPK signaling pathway	Environmental Information Processing	852	255
+11	ErbB signaling pathway	Environmental Information Processing	214	87
+12	Wnt signaling pathway	Environmental Information Processing	793	139
+13	Notch signaling pathway	Environmental Information Processing	142	48
+14	Hedgehog signaling pathway	Environmental Information Processing	130	51
+15	TGF-beta signaling pathway	Environmental Information Processing	225	84
+16	Hippo signaling pathway	Environmental Information Processing	592	154
+17	VEGF signaling pathway	Environmental Information Processing	190	61
+18	Jak-STAT signaling pathway	Environmental Information Processing	3205	156
+19	NF-kappa B signaling pathway	Environmental Information Processing	166	91
+20	TNF signaling pathway	Environmental Information Processing	150	110
+21	HIF-1 signaling pathway	Environmental Information Processing	287	103
+22	FoxO signaling pathway	Environmental Information Processing	443	134
+23	Calcium signaling pathway	Environmental Information Processing	494	179
+24	Phosphatidylinositol signaling system	Environmental Information Processing	2288	98
+25	Sphingolipid signaling pathway	Environmental Information Processing	267	120
+26	cAMP signaling pathway	Environmental Information Processing	656	199
+27	cGMP-PKG signaling pathway	Environmental Information Processing	415	167
+28	PI3K-Akt signaling pathway	Environmental Information Processing	2784	347
+29	AMPK signaling pathway	Environmental Information Processing	342	124
+30	mTOR signaling pathway	Environmental Information Processing	106	60
+31	Neuroactive ligand-receptor interaction	Environmental Information Processing	47	277
+32	Cytokine-cytokine receptor interaction	Environmental Information Processing	254	265
+33	ECM-receptor interaction	Environmental Information Processing	586	87
+34	Cell adhesion molecules (CAMs)	Environmental Information Processing	643	145
+35	Endocytosis	Cellular Processes	516	258
+36	Phagosome	Cellular Processes	247	155
+37	Regulation of autophagy	Cellular Processes	16	39
+38	Regulation of actin cytoskeleton	Cellular Processes	790	215
+39	Cell cycle	Cellular Processes	632	124
+40	Oocyte meiosis	Cellular Processes	401	112
+41	Apoptosis	Cellular Processes	180	85
+42	p53 signaling pathway	Cellular Processes	85	68
+43	Focal adhesion	Cellular Processes	1988	207
+44	Adherens junction	Cellular Processes	198	73
+45	Tight junction	Cellular Processes	953	138
+46	Gap junction	Cellular Processes	229	88
+47	Signaling pathways regulating pluripotency of stem cells	Cellular Processes	458	142
+48	Complement and coagulation cascades	Organismal Systems	102	69
+49	Platelet activation	Organismal Systems	345	130
+50	Toll-like receptor signaling pathway	Organismal Systems	226	106
+51	NOD-like receptor signaling pathway	Organismal Systems	92	57
+52	RIG-I-like receptor signaling pathway	Organismal Systems	69	70
+53	Cytosolic DNA-sensing pathway	Organismal Systems	31	64
+54	Natural killer cell mediated cytotoxicity	Organismal Systems	368	134
+55	Antigen processing and presentation	Organismal Systems	456	79
+56	T cell receptor signaling pathway	Organismal Systems	208	104
+57	B cell receptor signaling pathway	Organismal Systems	146	72
+58	Fc epsilon RI signaling pathway	Organismal Systems	163	70
+59	Fc gamma R-mediated phagocytosis	Organismal Systems	251	92
+60	Leukocyte transendothelial migration	Organismal Systems	865	118
+61	Intestinal immune network for IgA production	Organismal Systems	16	49
+62	Chemokine signaling pathway	Organismal Systems	1698	187
+63	Insulin secretion	Organismal Systems	99	85
+64	Insulin signaling pathway	Organismal Systems	417	139
+65	Glucagon signaling pathway	Organismal Systems	415	101
+66	Regulation of lipolysis in adipocytes	Organismal Systems	120	56
+67	Adipocytokine signaling pathway	Organismal Systems	210	70
+68	PPAR signaling pathway	Organismal Systems	251	69
+69	GnRH signaling pathway	Organismal Systems	228	91
+70	Ovarian steroidogenesis	Organismal Systems	50	50
+71	Estrogen signaling pathway	Organismal Systems	213	99
+72	Progesterone-mediated oocyte maturation	Organismal Systems	128	87
+73	Prolactin signaling pathway	Organismal Systems	195	72
+74	Oxytocin signaling pathway	Organismal Systems	443	158
+75	Thyroid hormone synthesis	Organismal Systems	112	71
+76	Thyroid hormone signaling pathway	Organismal Systems	367	118
+77	Melanogenesis	Organismal Systems	381	100
+78	Renin secretion	Organismal Systems	64	64
+79	Aldosterone synthesis and secretion	Organismal Systems	266	81
+80	Cardiac muscle contraction	Organismal Systems	24	78
+81	Adrenergic signaling in cardiomyocytes	Organismal Systems	873	148
+82	Vascular smooth muscle contraction	Organismal Systems	277	120
+83	Salivary secretion	Organismal Systems	34	89
+84	Gastric acid secretion	Organismal Systems	103	74
+85	Pancreatic secretion	Organismal Systems	18	96
+86	Bile secretion	Organismal Systems	26	71
+87	Fat digestion and absorption	Organismal Systems	16	41
+88	Vasopressin-regulated water reabsorption	Organismal Systems	46	44
+89	Aldosterone-regulated sodium reabsorption	Organismal Systems	41	39
+90	Endocrine and other factor-regulated calcium reabsorption	Organismal Systems	44	47
+91	Glutamatergic synapse	Organismal Systems	471	114
+92	GABAergic synapse	Organismal Systems	506	88
+93	Cholinergic synapse	Organismal Systems	564	111
+94	Dopaminergic synapse	Organismal Systems	592	129
+95	Serotonergic synapse	Organismal Systems	408	112
+96	Long-term potentiation	Organismal Systems	315	66
+97	Long-term depression	Organismal Systems	271	60
+98	Retrograde endocannabinoid signaling	Organismal Systems	531	101
+99	Synaptic vesicle cycle	Organismal Systems	37	63
+100	Neurotrophin signaling pathway	Organismal Systems	372	120
+101	Olfactory transduction	Organismal Systems	1216	406
+102	Taste transduction	Organismal Systems	61	52
+103	Inflammatory mediator regulation of TRP channels	Organismal Systems	134	98
+104	Dorso-ventral axis formation	Organismal Systems	14	27
+105	Axon guidance	Organismal Systems	300	127
+106	Osteoclast differentiation	Organismal Systems	241	131
+107	Circadian rhythm	Organismal Systems	101	31
+108	Circadian entrainment	Organismal Systems	1015	95

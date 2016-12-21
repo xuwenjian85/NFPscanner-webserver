@@ -1,0 +1,22 @@
+id	humancyc_D_refnet
+name	humancyc pathways - Degradation
+network_sum	10
+description	Reference networks from humancyc database - Degradation updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	22DI	2-oxobutanoate degradation I	Degradation	87
+2	33D	3-phosphoinositide degradation	Degradation	88
+3	ANDI	adenosine nucleotides degradation II	Degradation	91
+4	CSD(	chondroitin sulfate degradation (metazoa)	Degradation	94
+5	D(145D	D-myo-inositol (1,4,5)-trisphosphate degradation	Degradation	96
+6	G	glycolysis	Degradation	104
+7	NAAD	noradrenaline and adrenaline degradation	Degradation	115
+8	PNDI(	purine nucleotides degradation II (aerobic)	Degradation	120
+9	PDI	putrescine degradation III	Degradation	122
+10	TD	triacylglycerol degradation	Degradation	132

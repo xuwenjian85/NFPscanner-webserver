@@ -1,0 +1,24 @@
+ID	Description	Category	Edge Count	Node Count
+1	Visual phototransduction	Signal Transduction	532	86
+2	Signaling by Wnt	Signal Transduction	9809	314
+3	Signaling by VEGF	Signal Transduction	761	112
+4	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	Signal Transduction	866	93
+5	Signaling by TGF-beta Receptor Complex	Signal Transduction	721	71
+6	Signaling by SCF-KIT	Signal Transduction	1331	142
+7	Signaling by Rho GTPases	Signal Transduction	1926	120
+8	Signaling by PDGF	Signal Transduction	1419	181
+9	Signaling by NOTCH	Signal Transduction	1143	110
+10	Signaling by Leptin	Signal Transduction	133	26
+11	Signaling by Insulin receptor	Signal Transduction	1407	117
+12	Signaling by Hippo	Signal Transduction	68	20
+13	Signaling by Hedgehog	Signal Transduction	2353	64
+14	Signaling by GPCR	Signal Transduction	19993	1003
+15	Signaling by FGFR	Signal Transduction	2133	159
+16	Signaling by ERBB4	Signal Transduction	1440	153
+17	Signaling by ERBB2	Signal Transduction	1454	160
+18	Signaling by EGFR	Signal Transduction	1667	176
+19	Signaling by BMP	Signal Transduction	182	23
+20	Signaling by Activin	Signal Transduction	61	13
+21	PIP3 activates AKT signaling	Signal Transduction	946	98
+22	Integrin alphaIIb beta3 signaling	Signal Transduction	336	27
+23	DAG and IP3 signaling	Signal Transduction	118	30

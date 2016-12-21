@@ -1,0 +1,21 @@
+"algorithm" "parameters" "default_value"
+"1" "NFP" "algorithm" "APCLUSTER"
+"2" "NFP" "sim" "geneontology"
+"3" "NFP" "nperm" "10"
+"4" "ISORANK" "K" "10"
+"5" "ISORANK" "thresh" "0.0001"
+"6" "ISORANK" "alpha" "0.6"
+"7" "ISORANK" "beta" "0.5"
+"8" "ISORANK" "maxveclen" "1000k"
+"9" "GHOST" "hops" "4"
+"10" "GHOST" "nneighbors" "-1"
+"11" "GHOST" "searchiter" "10"
+"12" "GHOST" "ratio" "8"
+"13" "SPINAL" "alpha" "0.7"
+"14" "APCLUSTER" "q" NA
+"15" "APCLUSTER" "maxits" "1000"
+"16" "APCLUSTER" "convits" "100"
+"17" "APCLUSTER" "lam" "0.9"
+"18" "APCLUSTER" "nonoise" "FALSE"
+geneontologyData loaded.
+Refnet 1

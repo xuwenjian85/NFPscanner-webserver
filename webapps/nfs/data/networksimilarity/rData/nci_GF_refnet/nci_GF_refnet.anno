@@ -1,0 +1,34 @@
+id	nci_GF_refnet
+name	nci pathways - Growth factor
+network_sum	22
+description	Reference networks from nci database - Growth factor updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	A1SE	ALK1 signaling events	Growth factor	81
+2	A2SE	ALK2 signaling events	Growth factor	82
+3	ART2S	Angiopoietin receptor Tie2-mediated signaling	Growth factor	83
+4	BRS	BMP receptor signaling	Growth factor	84
+5	E1DS	ErbB1 downstream signaling	Growth factor	85
+6	E23SE	ErbB2/ErbB3 signaling events	Growth factor	86
+7	E4SE	ErbB4 signaling events	Growth factor	87
+8	ERSN	ErbB receptor signaling network	Growth factor	88
+9	FSP	FGF signaling pathway	Growth factor	89
+10	IOE1	Internalization of ErbB1	Growth factor	90
+11	PSP	PDGFR-alpha signaling pathway	Growth factor	91
+12	PSP	PDGFR-beta signaling pathway	Growth factor	92
+13	PRSN	PDGF receptor signaling network	Growth factor	93
+14	P1S	Plexin-D1 Signaling	Growth factor	94
+15	RONBCSATGT	Regulation of nuclear beta catenin signaling and target gene transcription	Growth factor	95
+16	SEMBHGFR(	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)	Growth factor	96
+17	SEMBV1AV2	Signaling events mediated by VEGFR1 and VEGFR2	Growth factor	97
+18	SERBRTK	Signaling events regulated by Ret tyrosine kinase	Growth factor	98
+19	TRS	TGF-beta receptor signaling	Growth factor	99
+20	VAVSN	VEGF and VEGFR signaling network	Growth factor	100
+21	V1SS	VEGFR1 specific signals	Growth factor	101
+22	V3SILE	VEGFR3 signaling in lymphatic endothelium	Growth factor	102

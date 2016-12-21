@@ -1,0 +1,14 @@
+ID	Description	Category	Edge Count	Node Count
+1	Endocytosis	Cellular Processes	516	258
+2	Phagosome	Cellular Processes	247	155
+3	Regulation of autophagy	Cellular Processes	16	39
+4	Regulation of actin cytoskeleton	Cellular Processes	790	215
+5	Cell cycle	Cellular Processes	632	124
+6	Oocyte meiosis	Cellular Processes	401	112
+7	Apoptosis	Cellular Processes	180	85
+8	p53 signaling pathway	Cellular Processes	85	68
+9	Focal adhesion	Cellular Processes	1988	207
+10	Adherens junction	Cellular Processes	198	73
+11	Tight junction	Cellular Processes	953	138
+12	Gap junction	Cellular Processes	229	88
+13	Signaling pathways regulating pluripotency of stem cells	Cellular Processes	458	142

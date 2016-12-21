@@ -1,0 +1,40 @@
+id	spike_refnet28
+name	Spike pathways - All
+network_sum	28
+description	Reference networks from Spike Database, updated on 2015/10/26
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/05
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	G1S	G1.S	Cell Cycle	1
+2	G2M	G2.M	Cell Cycle	2
+3	G2	GJB2	Cell Cycle	3
+4	M	mapk	Cell Cycle	4
+5	N	NFkB	Cell Cycle	5
+6	P53	p53	Cell Cycle	6
+7	RS	RAS.signaling	Cell Cycle	7
+8	TS	TLR_signaling	Cell Cycle	8
+9	WS	WNT.signaling	Cell Cycle	9
+10	A	ATM	DNA Damage Response	10
+11	BER	Base_Excision_Repair	DNA Damage Response	11
+12	DACR	DDR_and_Chromatin_Remodeling	DNA Damage Response	12
+13	DDIG1SC	DNA_damage_induced_G1.S_checkpoint	DNA Damage Response	13
+14	D	DSB	DNA Damage Response	14
+15	MR	Mismatch_repair	DNA Damage Response	15
+16	NER	Nucleotide_excision_repair	DNA Damage Response	16
+17	ROIC	Repair.of.Interstrand.Crosslinks	DNA Damage Response	17
+18	HAV	Hearing_and_Vision	Hearing Related Pathways	18
+19	HRS1I	Hearing.related.SIX1.Interactions	Hearing Related Pathways	19
+20	M3S	MYO3A_small	Hearing Related Pathways	20
+21	M7IITE	MYO7A.Interactions.In.The.Ear	Hearing Related Pathways	21
+22	N1SITE	NOTCH1.Sinaling.In.The.Ear	Hearing Related Pathways	22
+23	A	Apoptosis	Programmed Cell Death	23
+24	AAA	Apoptosis_anti_apoptosis	Programmed Cell Death	24
+25	AITE	Apoptosis_In_The_Ear	Programmed Cell Death	25
+26	A	autophagy	Programmed Cell Death	26
+27	CC	Caspases_Cascade	Programmed Cell Death	27
+28	DF	DAPk_family	Programmed Cell Death	28

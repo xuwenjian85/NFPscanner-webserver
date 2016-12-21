@@ -1,0 +1,35 @@
+id	reactome_ST_refnet
+name	Reactome pathways - Signal Transduction
+network_sum	23
+description	Reference networks from Reactome database - Signal Transduction updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	R-HSA-2187338	Visual phototransduction	Signal Transduction	129
+2	R-HSA-195721	Signaling by Wnt	Signal Transduction	126
+3	R-HSA-194138	Signaling by VEGF	Signal Transduction	124
+4	R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	Signal Transduction	130
+5	R-HSA-170834	Signaling by TGF-beta Receptor Complex	Signal Transduction	120
+6	R-HSA-1433557	Signaling by SCF-KIT	Signal Transduction	115
+7	R-HSA-194315	Signaling by Rho GTPases	Signal Transduction	125
+8	R-HSA-186797	Signaling by PDGF	Signal Transduction	122
+9	R-HSA-157118	Signaling by NOTCH	Signal Transduction	118
+10	R-HSA-2586552	Signaling by Leptin	Signal Transduction	131
+11	R-HSA-74752	Signaling by Insulin receptor	Signal Transduction	138
+12	R-HSA-2028269	Signaling by Hippo	Signal Transduction	128
+13	R-HSA-5358351	Signaling by Hedgehog	Signal Transduction	134
+14	R-HSA-372790	Signaling by GPCR	Signal Transduction	133
+15	R-HSA-190236	Signaling by FGFR	Signal Transduction	123
+16	R-HSA-1236394	Signaling by ERBB4	Signal Transduction	113
+17	R-HSA-1227986	Signaling by ERBB2	Signal Transduction	112
+18	R-HSA-177929	Signaling by EGFR	Signal Transduction	121
+19	R-HSA-201451	Signaling by BMP	Signal Transduction	127
+20	R-HSA-1502540	Signaling by Activin	Signal Transduction	117
+21	R-HSA-1257604	PIP3 activates AKT signaling	Signal Transduction	114
+22	R-HSA-354192	Integrin alphaIIb beta3 signaling	Signal Transduction	132
+23	R-HSA-1489509	DAG and IP3 signaling	Signal Transduction	116

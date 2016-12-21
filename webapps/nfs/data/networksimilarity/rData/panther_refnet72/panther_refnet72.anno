@@ -1,0 +1,84 @@
+id	panther_refnet72
+name	panther pathways - All
+network_sum	72
+description	Reference networks from panther Database, updated on 2015/10/26
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/05
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	A	Angiotensin_II-stimulated_signaling_through_G_proteins_and_beta-arrestin	Cellular Processes	1
+2	ASP	Apoptosis signaling pathway	Cellular Processes	2
+3	AGMBN	Axon guidance mediated by netrin	Cellular Processes	3
+4	AGMBS	Axon guidance mediated by semaphorins	Cellular Processes	4
+5	AGMBS	Axon guidance mediated by Slit/Robo	Cellular Processes	5
+6	B1ARSP	Beta1 adrenergic receptor signaling pathway	Cellular Processes	6
+7	B2ARSP	Beta2 adrenergic receptor signaling pathway	Cellular Processes	7
+8	B3ARSP	Beta3 adrenergic receptor signaling pathway	Cellular Processes	8
+9	CSP	Cadherin signaling pathway	Cellular Processes	9
+10	CRFRSP	Cortocotropin releasing factor receptor signaling pathway	Cellular Processes	11
+11	CRBRG	Cytoskeletal regulation by Rho GTPase	Cellular Processes	12
+12	ERSP	EGF receptor signaling pathway	Cellular Processes	13
+13	E	Endogenous_cannabinoid_signaling	Cellular Processes	14
+14	FSP	FAS signaling pathway	Cellular Processes	15
+15	FSP	FGF signaling pathway	Cellular Processes	16
+16	G	GABA-B_receptor_II_signaling	Cellular Processes	17
+17	HSP	Hedgehog signaling pathway	Cellular Processes	19
+18	HGSPAAGAMP	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	Cellular Processes	20
+19	HGSPAAGAMP	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	Cellular Processes	21
+20	HGSPOSP	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction	Cellular Processes	22
+21	HH1RMSP	Histamine H1 receptor mediated signaling pathway	Cellular Processes	23
+22	HH2RMSP	Histamine H2 receptor mediated signaling pathway	Cellular Processes	24
+23	ISP	Integrin signalling pathway	Cellular Processes	25
+24	P	PNAT	Cellular Processes	27
+25	S	Synaptic_vesicle_trafficking	Cellular Processes	28
+26	IMBCACSP	Inflammation mediated by chemokine and cytokine signaling pathway	Enviromental Information Processing	31
+27	IPAPKKKC	Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade	Enviromental Information Processing	32
+28	IPKBSC	Insulin/IGF pathway-protein kinase B signaling cascade	Enviromental Information Processing	33
+29	JSP	JAK/STAT signaling pathway	Enviromental Information Processing	34
+30	NPP	Nicotine pharmacodynamics pathway	Enviromental Information Processing	35
+31	NARSP	Nicotinic acetylcholine receptor signaling pathway	Enviromental Information Processing	36
+32	NSP	Notch signaling pathway	Enviromental Information Processing	37
+33	OPP	Opioid proenkephalin pathway	Enviromental Information Processing	38
+34	OPP	Opioid proopiomelanocortin pathway	Enviromental Information Processing	39
+35	ORMSP	Oxytocin receptor mediated signaling pathway	Enviromental Information Processing	41
+36	P53P	p53 pathway	Enviromental Information Processing	43
+37	P53PFL11	P53 pathway feedback loops 1	Enviromental Information Processing	45
+38	P53PFL22	p53 pathway feedback loops 2	Enviromental Information Processing	46
+39	P3KP	PI3 kinase pathway	Enviromental Information Processing	47
+40	TSP	TGF-beta signaling pathway	Enviromental Information Processing	49
+41	WSP	Wnt signaling pathway	Enviromental Information Processing	51
+42	DR	DNA replication	Genetic Information Processing	52
+43	GTBRPI	General transcription by RNA polymerase I	Genetic Information Processing	53
+44	GTR	General transcription regulation	Genetic Information Processing	54
+45	MS	mRNA splicing	Genetic Information Processing	55
+46	TRBBTF	Transcription regulation by bZIP transcription factor	Genetic Information Processing	56
+47	551TRMSP	 5HT1 type receptor mediated signaling pathway	Organismal Systems	57
+48	552TRMSP	 5HT2 type receptor mediated signaling pathway	Organismal Systems	58
+49	A	Activinbetasignaling_pathway	Organismal Systems	60
+50	AARSP	Alpha adrenergic receptor signaling pathway	Organismal Systems	62
+51	ADSP	Alzheimer disease-amyloid secretase pathway	Organismal Systems	63
+52	ADP	Alzheimer disease-presenilin pathway	Organismal Systems	64
+53	A	Angiogenesis	Organismal Systems	65
+54	BCA	B cell activation	Organismal Systems	66
+55	BC	Blood coagulation	Organismal Systems	67
+56	CCS	Circadian clock system	Organismal Systems	68
+57	ER	Enkephalin release	Organismal Systems	69
+58	HD	Huntington disease	Organismal Systems	70
+59	ISP	Interferon-gamma signaling pathway	Organismal Systems	71
+60	ISP	Interleukin signaling pathway	Organismal Systems	72
+61	IGRP	Ionotropic glutamate receptor pathway	Organismal Systems	73
+62	MGRGIP	Metabotropic glutamate receptor group III pathway	Organismal Systems	74
+63	MGRGIP	Metabotropic glutamate receptor group II pathway	Organismal Systems	75
+64	MGRGIP	Metabotropic glutamate receptor group I pathway	Organismal Systems	76
+65	MAR11A33SP	Muscarinic acetylcholine receptor 1 and 3 signaling pathway	Organismal Systems	77
+66	MAR22A44SP	Muscarinic acetylcholine receptor 2 and 4 signaling pathway	Organismal Systems	78
+67	PD	Parkinson disease	Organismal Systems	79
+68	PSP	PDGF signaling pathway	Organismal Systems	80
+69	PAC	Plasminogen activating cascade	Organismal Systems	81
+70	TCA	T cell activation	Organismal Systems	82
+71	THRSP	Thyrotropin-releasing hormone receptor signaling pathway	Organismal Systems	83
+72	TRSP	Toll receptor signaling pathway	Organismal Systems	84

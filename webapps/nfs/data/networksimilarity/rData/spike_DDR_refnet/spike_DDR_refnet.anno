@@ -1,0 +1,20 @@
+id	spike_DDR_refnet
+name	spike pathways - DNA Damage Response
+network_sum	8
+description	Reference networks from spike database - DNA Damage Response updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	A	ATM	DNA Damage Response	10
+2	BER	Base_Excision_Repair	DNA Damage Response	11
+3	DACR	DDR_and_Chromatin_Remodeling	DNA Damage Response	12
+4	DDIG1SC	DNA_damage_induced_G1.S_checkpoint	DNA Damage Response	13
+5	D	DSB	DNA Damage Response	14
+6	MR	Mismatch_repair	DNA Damage Response	15
+7	NER	Nucleotide_excision_repair	DNA Damage Response	16
+8	ROIC	Repair.of.Interstrand.Crosslinks	DNA Damage Response	17

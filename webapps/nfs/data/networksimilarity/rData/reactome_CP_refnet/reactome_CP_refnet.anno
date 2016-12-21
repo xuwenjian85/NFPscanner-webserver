@@ -1,0 +1,35 @@
+id	reactome_CP_refnet
+name	Reactome pathways - Cellular Processes
+network_sum	23
+description	Reference networks from Reactome database - Cellular Processes updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	R-HSA-1500620	Meiosis	Cellular Processes	1
+2	R-HSA-73886	Chromosome Maintenance	Cellular Processes	4
+3	R-HSA-69278	Cell Cycle, Mitotic	Cellular Processes	2
+4	R-HSA-69620	Cell Cycle Checkpoints	Cellular Processes	3
+5	R-HSA-391160	Signal regulatory protein (SIRP) family interactions	Cellular Processes	7
+6	R-HSA-373753	Nephrin interactions	Cellular Processes	5
+7	R-HSA-376172	DSCAM interactions	Cellular Processes	6
+8	R-HSA-446728	Cell junction organization	Cellular Processes	8
+9	R-HSA-3247509	Chromatin modifying enzymes	Cellular Processes	9
+10	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	Cellular Processes	12
+11	R-HSA-452723	Transcriptional regulation of pluripotent stem cells	Cellular Processes	14
+12	R-HSA-1181150	Signaling by NODAL	Cellular Processes	10
+13	R-HSA-186712	Regulation of beta-cell development	Cellular Processes	11
+14	R-HSA-525793	Myogenesis	Cellular Processes	15
+15	R-HSA-422475	Axon guidance	Cellular Processes	13
+16	R-HSA-3000171	Non-integrin membrane-ECM interactions	Cellular Processes	23
+17	R-HSA-3000157	Laminin interactions	Cellular Processes	22
+18	R-HSA-216083	Integrin cell surface interactions	Cellular Processes	21
+19	R-HSA-1566948	Elastic fibre formation	Cellular Processes	19
+20	R-HSA-3000178	ECM proteoglycans	Cellular Processes	24
+21	R-HSA-1474228	Degradation of the extracellular matrix	Cellular Processes	17
+22	R-HSA-1474290	Collagen formation	Cellular Processes	18
+23	R-HSA-1592230	Mitochondrial biogenesis	Cellular Processes	26

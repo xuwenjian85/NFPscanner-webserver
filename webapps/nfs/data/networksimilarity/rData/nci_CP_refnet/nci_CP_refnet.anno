@@ -1,0 +1,21 @@
+id	nci_CP_refnet
+name	nci pathways - Cellular Processes
+network_sum	9
+description	Reference networks from nci database - Cellular Processes updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	ROT	Regulation of Telomerase	Cellular Processes	1
+2	CCIA	Caspase Cascade in Apoptosis	Cellular Processes	2
+3	F(95SP	FAS (CD95) signaling pathway	Cellular Processes	3
+4	P75S	p75(NTR)-mediated signaling	Cellular Processes	4
+5	TRSP	TNF receptor signaling pathway 	Cellular Processes	5
+6	TSP	TRAIL signaling pathway	Cellular Processes	6
+7	H1TFN	HIF-1-alpha transcription factor network	Cellular Processes	7
+8	H2TFN	HIF-2-alpha transcription factor network	Cellular Processes	8
+9	HAOHROH1	Hypoxic and oxygen homeostasis regulation of HIF-1-alpha	Cellular Processes	9

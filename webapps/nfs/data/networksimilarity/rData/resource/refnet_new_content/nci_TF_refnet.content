@@ -1,0 +1,28 @@
+ID	Description	Category	Edge Count	Node Count
+1	Alternative NF-kappaB pathway	Transcription factor	11	6
+2	AP-1 transcription factor network	Transcription factor	187	70
+3	ATF-2 transcription factor network	Transcription factor	114	59
+4	Atypical NF-kappaB pathway	Transcription factor	39	14
+5	Canonical NF-kappaB pathway	Transcription factor	86	23
+6	C-MYB transcription factor network	Transcription factor	134	78
+7	C-MYC pathway	Transcription factor	164	25
+8	Direct p53 effectors	Transcription factor	182	129
+9	E2F transcription factor network	Transcription factor	155	63
+10	Endogenous TLR signaling	Transcription factor	207	26
+11	FOXA1 transcription factor network	Transcription factor	54	34
+12	FOXA2 and FOXA3 transcription factor networks	Transcription factor	39	35
+13	FOXM1 transcription factor network	Transcription factor	58	38
+14	FoxO family signaling	Transcription factor	62	32
+15	HIF-1-alpha transcription factor network	Transcription factor	146	64
+16	HIF-2-alpha transcription factor network	Transcription factor	60	28
+17	Hypoxic and oxygen homeostasis regulation of HIF-1-alpha	Transcription factor	51	16
+18	p53 pathway	Transcription factor	102	47
+19	Regulation of cytoplasmic and nuclear SMAD2/3 signaling	Transcription factor	44	17
+20	Regulation of nuclear SMAD2/3 signaling	Transcription factor	427	70
+21	Syndecan-1-mediated signaling events	Transcription factor	66	32
+22	Syndecan-2-mediated signaling events	Transcription factor	88	36
+23	Syndecan-3-mediated signaling events	Transcription factor	66	21
+24	Syndecan-4-mediated signaling events	Transcription factor	62	30
+25	Validated targets of C-MYC transcriptional activation	Transcription factor	310	79
+26	Validated targets of C-MYC transcriptional repression	Transcription factor	197	64
+27	Validated transcriptional targets of AP1 family members Fra1 and Fra2	Transcription factor	113	37

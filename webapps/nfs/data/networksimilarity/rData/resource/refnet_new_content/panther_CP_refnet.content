@@ -1,0 +1,26 @@
+ID	Description	Category	Edge Count	Node Count
+1	Angiotensin_II-stimulated_signaling_through_G_proteins_and_beta-arrestin	Cellular Processes	88	12
+2	Apoptosis signaling pathway	Cellular Processes	72	29
+3	Axon guidance mediated by netrin	Cellular Processes	46	9
+4	Axon guidance mediated by semaphorins	Cellular Processes	32	14
+5	Axon guidance mediated by Slit/Robo	Cellular Processes	34	13
+6	Beta1 adrenergic receptor signaling pathway	Cellular Processes	30	16
+7	Beta2 adrenergic receptor signaling pathway	Cellular Processes	30	16
+8	Beta3 adrenergic receptor signaling pathway	Cellular Processes	30	16
+9	Cadherin signaling pathway	Cellular Processes	2370	133
+10	Cortocotropin releasing factor receptor signaling pathway	Cellular Processes	94	18
+11	Cytoskeletal regulation by Rho GTPase	Cellular Processes	68	20
+12	EGF receptor signaling pathway	Cellular Processes	1142	38
+13	Endogenous_cannabinoid_signaling	Cellular Processes	188	25
+14	FAS signaling pathway	Cellular Processes	22	10
+15	FGF signaling pathway	Cellular Processes	630	28
+16	GABA-B_receptor_II_signaling	Cellular Processes	124	13
+17	Hedgehog signaling pathway	Cellular Processes	37	10
+18	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	Cellular Processes	1432	83
+19	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	Cellular Processes	720	45
+20	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction	Cellular Processes	78	16
+21	Histamine H1 receptor mediated signaling pathway	Cellular Processes	30	16
+22	Histamine H2 receptor mediated signaling pathway	Cellular Processes	30	16
+23	Integrin signalling pathway	Cellular Processes	8753	121
+24	PNAT	Cellular Processes	242	24
+25	Synaptic_vesicle_trafficking	Cellular Processes	278	20

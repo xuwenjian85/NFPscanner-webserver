@@ -1,0 +1,12 @@
+ID	Description	Category	Edge Count	Node Count
+1	Arf1 pathway	Ras superfamily	112	19
+2	Arf6 downstream pathway	Ras superfamily	30	13
+3	Arf6 signaling events	Ras superfamily	104	31
+4	Arf6 trafficking events	Ras superfamily	166	40
+5	CDC42 signaling events	Ras superfamily	197	64
+6	RAC1 signaling pathway	Ras superfamily	286	55
+7	Regulation of CDC42 activity	Ras superfamily	39	30
+8	Regulation of RAC1 activity	Ras superfamily	82	38
+9	Regulation of Ras family activation	Ras superfamily	127	29
+10	Regulation of RhoA activity	Ras superfamily	90	46
+11	RhoA signaling pathway	Ras superfamily	56	29

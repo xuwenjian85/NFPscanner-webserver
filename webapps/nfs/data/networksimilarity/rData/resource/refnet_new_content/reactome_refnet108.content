@@ -1,0 +1,109 @@
+ID	Description	Category	Edge Count	Node Count
+1	Meiosis	Cellular Processes	6449	116
+2	Chromosome Maintenance	Cellular Processes	4200	98
+3	Cell Cycle, Mitotic	Cellular Processes	26562	477
+4	Cell Cycle Checkpoints	Cellular Processes	3259	118
+5	Signal regulatory protein (SIRP) family interactions	Cellular Processes	36	13
+6	Nephrin interactions	Cellular Processes	115	22
+7	DSCAM interactions	Cellular Processes	29	10
+8	Cell junction organization	Cellular Processes	308	63
+9	Chromatin modifying enzymes	Cellular Processes	8778	217
+10	Transcriptional regulation of white adipocyte differentiation	Cellular Processes	2071	78
+11	Transcriptional regulation of pluripotent stem cells	Cellular Processes	129	21
+12	Signaling by NODAL	Cellular Processes	115	19
+13	Regulation of beta-cell development	Cellular Processes	36	32
+14	Myogenesis	Cellular Processes	344	30
+15	Axon guidance	Cellular Processes	3970	324
+16	Non-integrin membrane-ECM interactions	Cellular Processes	183	40
+17	Laminin interactions	Cellular Processes	242	23
+18	Integrin cell surface interactions	Cellular Processes	323	66
+19	Elastic fibre formation	Cellular Processes	162	35
+20	ECM proteoglycans	Cellular Processes	192	52
+21	Degradation of the extracellular matrix	Cellular Processes	247	83
+22	Collagen formation	Cellular Processes	912	86
+23	Mitochondrial biogenesis	Cellular Processes	259	54
+24	Detoxification of Reactive Oxygen Species	Enviromental Information Processing	39	25
+25	Cellular Senescence	Enviromental Information Processing	8807	188
+26	Cellular response to hypoxia	Enviromental Information Processing	215	25
+27	Cellular response to heat stress	Enviromental Information Processing	154	38
+28	BMAL1:CLOCK,NPAS2 activates circadian gene expression	Enviromental Information Processing	154	36
+29	Apoptosis	Enviromental Information Processing	2400	148
+30	Nucleotide Excision Repair	Genetic Information Processing	754	49
+31	Base Excision Repair	Genetic Information Processing	42	11
+32	Synthesis of DNA	Genetic Information Processing	2828	95
+33	Regulation of DNA replication	Genetic Information Processing	2558	75
+34	M/G1 Transition	Genetic Information Processing	2829	82
+35	tRNA Aminoacylation	Genetic Information Processing	155	42
+36	Translation	Genetic Information Processing	13543	145
+37	RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription	Genetic Information Processing	5259	145
+38	RNA Polymerase II Transcription	Genetic Information Processing	4397	106
+39	Regulation of mRNA stability by proteins that bind AU-rich elements	Genetic Information Processing	2309	87
+40	Processing of Capped Intronless Pre-mRNA	Genetic Information Processing	290	23
+41	Processing of Capped Intron-Containing Pre-mRNA	Genetic Information Processing	14643	145
+42	Nonsense-Mediated Decay (NMD)	Genetic Information Processing	11321	107
+43	mRNA Capping	Genetic Information Processing	758	29
+44	Generic Transcription Pathway	Genetic Information Processing	1754	466
+45	Epigenetic regulation of gene expression	Genetic Information Processing	6353	117
+46	Deadenylation-dependent mRNA decay	Genetic Information Processing	532	48
+47	Unfolded Protein Response (UPR)	Genetic Information Processing	252	79
+48	Protein folding	Genetic Information Processing	1004	55
+49	Post-translational protein modification	Genetic Information Processing	1158	250
+50	Peptide hormone metabolism	Genetic Information Processing	216	82
+51	Mitochondrial protein import	Genetic Information Processing	629	52
+52	The citric acid (TCA) cycle and respiratory electron transport	Metabolism	3382	145
+53	Reversible hydration of carbon dioxide	Metabolism	42	12
+54	O2/CO2 exchange in erythrocytes	Metabolism	12	7
+55	Mitochondrial iron-sulfur cluster biogenesis	Metabolism	28	6
+56	Metabolism of vitamins and cofactors	Metabolism	110	80
+57	Metabolism of nitric oxide	Metabolism	73	19
+58	Metabolism of lipids and lipoproteins	Metabolism	6001	550
+59	Integration of energy metabolism	Metabolism	820	99
+60	Inositol phosphate metabolism	Metabolism	346	46
+61	Cytosolic iron-sulfur cluster assembly	Metabolism	22	9
+62	Biological oxidations	Metabolism	1122	147
+63	Abacavir transport and metabolism	Metabolism	18	10
+64	Platelet homeostasis	Organismal Systems	495	78
+65	Platelet Adhesion to exposed collagen	Organismal Systems	38	13
+66	Platelet activation, signaling and aggregation	Organismal Systems	1351	125
+67	Formation of Fibrin Clot (Clotting Cascade)	Organismal Systems	124	32
+68	Factors involved in megakaryocyte development and platelet production	Organismal Systems	398	120
+69	Dissolution of Fibrin Clot	Organismal Systems	46	13
+70	Cell surface interactions at the vascular wall	Organismal Systems	250	94
+71	Innate Immune System	Organismal Systems	5894	536
+72	Cytokine Signaling in Immune system	Organismal Systems	3371	286
+73	Adaptive Immune System	Organismal Systems	17449	595
+74	Striated Muscle Contraction	Organismal Systems	878	31
+75	Smooth Muscle Contraction	Organismal Systems	376	24
+76	Transmission across Chemical Synapses	Organismal Systems	2137	198
+77	Fertilization	Organismal Systems	123	23
+78	Visual phototransduction	Signal Transduction	532	86
+79	Signaling by Wnt	Signal Transduction	9809	314
+80	Signaling by VEGF	Signal Transduction	761	112
+81	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	Signal Transduction	866	93
+82	Signaling by TGF-beta Receptor Complex	Signal Transduction	721	71
+83	Signaling by SCF-KIT	Signal Transduction	1331	142
+84	Signaling by Rho GTPases	Signal Transduction	1926	120
+85	Signaling by PDGF	Signal Transduction	1419	181
+86	Signaling by NOTCH	Signal Transduction	1143	110
+87	Signaling by Leptin	Signal Transduction	133	26
+88	Signaling by Insulin receptor	Signal Transduction	1407	117
+89	Signaling by Hippo	Signal Transduction	68	20
+90	Signaling by Hedgehog	Signal Transduction	2353	64
+91	Signaling by GPCR	Signal Transduction	19993	1003
+92	Signaling by FGFR	Signal Transduction	2133	159
+93	Signaling by ERBB4	Signal Transduction	1440	153
+94	Signaling by ERBB2	Signal Transduction	1454	160
+95	Signaling by EGFR	Signal Transduction	1667	176
+96	Signaling by BMP	Signal Transduction	182	23
+97	Signaling by Activin	Signal Transduction	61	13
+98	PIP3 activates AKT signaling	Signal Transduction	946	98
+99	Integrin alphaIIb beta3 signaling	Signal Transduction	336	27
+100	DAG and IP3 signaling	Signal Transduction	118	30
+101	Potassium Channels	Transport Processes	684	79
+102	SLC-mediated transmembrane transport	Transport Processes	2792	222
+103	Iron uptake and transport	Transport Processes	558	38
+104	Ion channel transport	Transport Processes	2902	163
+105	Aquaporin-mediated transport	Transport Processes	297	44
+106	ABC-family proteins mediated transport	Transport Processes	82	15
+107	Membrane Trafficking	Transport Processes	2630	172
+108	Binding and Uptake of Ligands by Scavenger Receptors	Transport Processes	109	39

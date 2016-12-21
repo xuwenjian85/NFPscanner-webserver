@@ -1,0 +1,58 @@
+id	humancyc_refnet46
+name	humancyc pathways - All
+network_sum	46
+description	Reference networks from humancyc Database, updated on 2015/10/26
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/05
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	11HBI(	1D-myo-inositol hexakisphosphate biosynthesis II (mammalian)	biosynthesis	2
+2	33B	3-phosphoinositide biosynthesis	biosynthesis	4
+3	CBI	CDP-diacylglycerol biosynthesis I	biosynthesis	15
+4	CBI	choline biosynthesis III	biosynthesis	20
+5	D(134B	D-myo-inositol (1,3,4)-trisphosphate biosynthesis	biosynthesis	29
+6	D(145B	D-myo-inositol (1,4,5)-trisphosphate biosynthesis	biosynthesis	31
+7	DB	dolichyl-diphosphooligosaccharide biosynthesis	biosynthesis	34
+8	G	gluconeogenesis	biosynthesis	40
+9	G	glycogenolysis	biosynthesis	42
+10	GRDNB	guanosine ribonucleotides de novo biosynthesis	biosynthesis	43
+11	IPB	inositol pyrophosphates biosynthesis	biosynthesis	46
+12	PBI(	phosphatidylglycerol biosynthesis II (non-plastidic)	biosynthesis	59
+13	PDDNBI	pyrimidine deoxyribonucleotides de novo biosynthesis II	biosynthesis	62
+14	SBI(	stearate biosynthesis I (animals)	biosynthesis	68
+15	SOCB	superpathway of cholesterol biosynthesis	biosynthesis	69
+16	SOGBI(M	superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	biosynthesis	70
+17	SOPRDNB	superpathway of pyrimidine ribonucleotides de novo biosynthesis	biosynthesis	72
+18	TB	triacylglycerol biosynthesis	biosynthesis	80
+19	UACDNB	UTP and CTP de novo biosynthesis	biosynthesis	84
+20		γ-glutamyl cycle	biosynthesis	86
+21	22DI	2-oxobutanoate degradation I	Degradation	87
+22	33D	3-phosphoinositide degradation	Degradation	88
+23	ANDI	adenosine nucleotides degradation II	Degradation	91
+24	CSD(	chondroitin sulfate degradation (metazoa)	Degradation	94
+25	D(145D	D-myo-inositol (1,4,5)-trisphosphate degradation	Degradation	96
+26	G	glycolysis	Degradation	104
+27	NAAD	noradrenaline and adrenaline degradation	Degradation	115
+28	PNDI(	purine nucleotides degradation II (aerobic)	Degradation	120
+29	PDI	putrescine degradation III	Degradation	122
+30	TD	triacylglycerol degradation	Degradation	132
+31	D5M	D-myo-inositol-5-phosphate metabolism	Modification	143
+32	FA	fatty acid β-oxidation I	Modification	146
+33	FA	fatty acid β-oxidation VI (peroxisome)	Modification	147
+34	GDI	glutathione-mediated detoxification I	Modification	150
+35	NSPI	NAD salvage pathway II	Modification	154
+36	PPP	pentose phosphate pathway	Modification	156
+37	PPP(B	pentose phosphate pathway (non-oxidative branch)	Modification	157
+38	PDS	purine deoxyribonucleosides salvage	Modification	159
+39	PDP	pyrimidine deoxyribonucleotide phosphorylation	Modification	162
+40	SMS	sphingomyelin metabolism/ceramide salvage	Modification	165
+41	SAS1M	sphingosine and sphingosine-1-phosphate metabolism	Modification	166
+42	SOD(145M	superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism	Modification	168
+43	SOIPC	superpathway of inositol phosphate compounds	Modification	170
+44	SOPDS	superpathway of pyrimidine deoxyribonucleoside salvage	Modification	171
+45	TUI	tryptophan utilization II	Modification	174
+46	BSP	BMP Signalling Pathway	Signal Transduction	177

@@ -1,0 +1,28 @@
+ID	Description	Category	Edge Count	Node Count
+1	Ras signaling pathway	Environmental Information Processing	1389	226
+2	Rap1 signaling pathway	Environmental Information Processing	1279	211
+3	MAPK signaling pathway	Environmental Information Processing	852	255
+4	ErbB signaling pathway	Environmental Information Processing	214	87
+5	Wnt signaling pathway	Environmental Information Processing	793	139
+6	Notch signaling pathway	Environmental Information Processing	142	48
+7	Hedgehog signaling pathway	Environmental Information Processing	130	51
+8	TGF-beta signaling pathway	Environmental Information Processing	225	84
+9	Hippo signaling pathway	Environmental Information Processing	592	154
+10	VEGF signaling pathway	Environmental Information Processing	190	61
+11	Jak-STAT signaling pathway	Environmental Information Processing	3205	156
+12	NF-kappa B signaling pathway	Environmental Information Processing	166	91
+13	TNF signaling pathway	Environmental Information Processing	150	110
+14	HIF-1 signaling pathway	Environmental Information Processing	287	103
+15	FoxO signaling pathway	Environmental Information Processing	443	134
+16	Calcium signaling pathway	Environmental Information Processing	494	179
+17	Phosphatidylinositol signaling system	Environmental Information Processing	2288	98
+18	Sphingolipid signaling pathway	Environmental Information Processing	267	120
+19	cAMP signaling pathway	Environmental Information Processing	656	199
+20	cGMP-PKG signaling pathway	Environmental Information Processing	415	167
+21	PI3K-Akt signaling pathway	Environmental Information Processing	2784	347
+22	AMPK signaling pathway	Environmental Information Processing	342	124
+23	mTOR signaling pathway	Environmental Information Processing	106	60
+24	Neuroactive ligand-receptor interaction	Environmental Information Processing	47	277
+25	Cytokine-cytokine receptor interaction	Environmental Information Processing	254	265
+26	ECM-receptor interaction	Environmental Information Processing	586	87
+27	Cell adhesion molecules (CAMs)	Environmental Information Processing	643	145

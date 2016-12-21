@@ -1,0 +1,9 @@
+ID	Description	Category	Edge Count	Node Count
+1	ATM	DNA Damage Response	460	272
+2	Base_Excision_Repair	DNA Damage Response	662	336
+3	DDR_and_Chromatin_Remodeling	DNA Damage Response	829	418
+4	DNA_damage_induced_G1.S_checkpoint	DNA Damage Response	853	427
+5	DSB	DNA Damage Response	944	455
+6	Mismatch_repair	DNA Damage Response	1327	602
+7	Nucleotide_excision_repair	DNA Damage Response	1517	674
+8	Repair.of.Interstrand.Crosslinks	DNA Damage Response	1627	706

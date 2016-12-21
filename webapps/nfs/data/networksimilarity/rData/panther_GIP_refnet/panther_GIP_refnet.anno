@@ -1,0 +1,17 @@
+id	panther_GIP_refnet
+name	panther pathways - Genetic Information Processing
+network_sum	5
+description	Reference networks from panther database - Genetic Information Processing updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	DR	DNA replication	Genetic Information Processing	52
+2	GTBRPI	General transcription by RNA polymerase I	Genetic Information Processing	53
+3	GTR	General transcription regulation	Genetic Information Processing	54
+4	MS	mRNA splicing	Genetic Information Processing	55
+5	TRBBTF	Transcription regulation by bZIP transcription factor	Genetic Information Processing	56

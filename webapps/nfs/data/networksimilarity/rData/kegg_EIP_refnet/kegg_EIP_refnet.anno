@@ -1,0 +1,39 @@
+id	kegg_EIP_refnet
+name	KEGG - Environmental Information Processing
+network_sum	27
+description	Reference networks from KEGG Pathway Database - Environmental Information Processing, updated by 2015/11/05
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/05
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	Ras_signaling_pathway	Ras signaling pathway	Environmental Information Processing	24
+2	Rap1_signaling_pathway	Rap1 signaling pathway	Environmental Information Processing	25
+3	MAPK_signaling_pathway	MAPK signaling pathway	Environmental Information Processing	26
+4	ErbB_signaling_pathway	ErbB signaling pathway	Environmental Information Processing	27
+5	Wnt_signaling_pathway	Wnt signaling pathway	Environmental Information Processing	28
+6	Notch_signaling_pathway	Notch signaling pathway	Environmental Information Processing	29
+7	Hedgehog_signaling_pathway	Hedgehog signaling pathway	Environmental Information Processing	30
+8	TGF-beta_signaling_pathway	TGF-beta signaling pathway	Environmental Information Processing	31
+9	Hippo_signaling_pathway	Hippo signaling pathway	Environmental Information Processing	32
+10	VEGF_signaling_pathway	VEGF signaling pathway	Environmental Information Processing	33
+11	Jak-STAT_signaling_pathway	Jak-STAT signaling pathway	Environmental Information Processing	34
+12	NF-kappa_B_signaling_pathway	NF-kappa B signaling pathway	Environmental Information Processing	35
+13	TNF_signaling_pathway	TNF signaling pathway	Environmental Information Processing	36
+14	HIF-1_signaling_pathway	HIF-1 signaling pathway	Environmental Information Processing	37
+15	FoxO_signaling_pathway	FoxO signaling pathway	Environmental Information Processing	38
+16	Calcium_signaling_pathway	Calcium signaling pathway	Environmental Information Processing	39
+17	Phosphatidylinositol_signaling_system	Phosphatidylinositol signaling system	Environmental Information Processing	40
+18	Sphingolipid_signaling_pathway	Sphingolipid signaling pathway	Environmental Information Processing	41
+19	cAMP_signaling_pathway	cAMP signaling pathway	Environmental Information Processing	42
+20	cGMP-PKG_signaling_pathway	cGMP-PKG signaling pathway	Environmental Information Processing	43
+21	PI3K-Akt_signaling_pathway	PI3K-Akt signaling pathway	Environmental Information Processing	44
+22	AMPK_signaling_pathway	AMPK signaling pathway	Environmental Information Processing	45
+23	mTOR_signaling_pathway	mTOR signaling pathway	Environmental Information Processing	46
+24	Neuroactive_ligand-receptor_interaction	Neuroactive ligand-receptor interaction	Environmental Information Processing	47
+25	Cytokine-cytokine_receptor_interaction	Cytokine-cytokine receptor interaction	Environmental Information Processing	48
+26	ECM-receptor_interaction	ECM-receptor interaction	Environmental Information Processing	49
+27	Cell_adhesion_molecules_(CAMs)	Cell adhesion molecules (CAMs)	Environmental Information Processing	50

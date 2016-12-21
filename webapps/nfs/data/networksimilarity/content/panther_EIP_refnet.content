@@ -1,0 +1,17 @@
+ID	Description	Category	Edge Count	Node Count
+1	Inflammation mediated by chemokine and cytokine signaling pathway	Enviromental Information Processing	2206	83
+2	Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade	Enviromental Information Processing	39	9
+3	Insulin/IGF pathway-protein kinase B signaling cascade	Enviromental Information Processing	41	9
+4	JAK/STAT signaling pathway	Enviromental Information Processing	12	7
+5	Nicotine pharmacodynamics pathway	Enviromental Information Processing	78	19
+6	Nicotinic acetylcholine receptor signaling pathway	Enviromental Information Processing	698	52
+7	Notch signaling pathway	Enviromental Information Processing	78	12
+8	Opioid proenkephalin pathway	Enviromental Information Processing	106	20
+9	Opioid proopiomelanocortin pathway	Enviromental Information Processing	70	19
+10	Oxytocin receptor mediated signaling pathway	Enviromental Information Processing	30	16
+11	p53 pathway	Enviromental Information Processing	28	25
+12	P53 pathway feedback loops 1	Enviromental Information Processing	18	6
+13	p53 pathway feedback loops 2	Enviromental Information Processing	29	16
+14	PI3 kinase pathway	Enviromental Information Processing	182	28
+15	TGF-beta signaling pathway	Enviromental Information Processing	130	23
+16	Wnt signaling pathway	Enviromental Information Processing	2402	216

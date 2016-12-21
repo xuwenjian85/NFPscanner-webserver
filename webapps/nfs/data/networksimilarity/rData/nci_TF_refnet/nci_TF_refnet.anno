@@ -1,0 +1,39 @@
+id	nci_TF_refnet
+name	nci pathways - Transcription factor
+network_sum	27
+description	Reference networks from nci database - Transcription factor updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	ANP	Alternative NF-kappaB pathway	Transcription factor	155
+2	A1TFN	AP-1 transcription factor network	Transcription factor	156
+3	A2TFN	ATF-2 transcription factor network	Transcription factor	157
+4	ANP	Atypical NF-kappaB pathway	Transcription factor	158
+5	CNP	Canonical NF-kappaB pathway	Transcription factor	159
+6	CTFN	C-MYB transcription factor network	Transcription factor	160
+7	CP	C-MYC pathway	Transcription factor	161
+8	DP53E	Direct p53 effectors	Transcription factor	162
+9	E2TFN	E2F transcription factor network	Transcription factor	163
+10	ETS	Endogenous TLR signaling	Transcription factor	164
+11	F1TFN	FOXA1 transcription factor network	Transcription factor	165
+12	F2AF3TFN	FOXA2 and FOXA3 transcription factor networks	Transcription factor	166
+13	F1TFN	FOXM1 transcription factor network	Transcription factor	167
+14	FFS	FoxO family signaling	Transcription factor	168
+15	H1TFN	HIF-1-alpha transcription factor network	Transcription factor	169
+16	H2TFN	HIF-2-alpha transcription factor network	Transcription factor	170
+17	HAOHROH1	Hypoxic and oxygen homeostasis regulation of HIF-1-alpha	Transcription factor	171
+18	P53P	p53 pathway	Transcription factor	172
+19	ROCANS23S	Regulation of cytoplasmic and nuclear SMAD2/3 signaling	Transcription factor	173
+20	RONS23S	Regulation of nuclear SMAD2/3 signaling	Transcription factor	174
+21	S1SE	Syndecan-1-mediated signaling events	Transcription factor	175
+22	S2SE	Syndecan-2-mediated signaling events	Transcription factor	176
+23	S3SE	Syndecan-3-mediated signaling events	Transcription factor	177
+24	S4SE	Syndecan-4-mediated signaling events	Transcription factor	178
+25	VTOCTA	Validated targets of C-MYC transcriptional activation	Transcription factor	179
+26	VTOCTR	Validated targets of C-MYC transcriptional repression	Transcription factor	180
+27	VTTOA1FMF1AF2	Validated transcriptional targets of AP1 family members Fra1 and Fra2	Transcription factor	181

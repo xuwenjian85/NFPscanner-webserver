@@ -1,0 +1,37 @@
+id	panther_CP_refnet
+name	panther pathways - Cellular Processes
+network_sum	25
+description	Reference networks from panther database - Cellular Processes updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	A	Angiotensin_II-stimulated_signaling_through_G_proteins_and_beta-arrestin	Cellular Processes	1
+2	ASP	Apoptosis signaling pathway	Cellular Processes	2
+3	AGMBN	Axon guidance mediated by netrin	Cellular Processes	3
+4	AGMBS	Axon guidance mediated by semaphorins	Cellular Processes	4
+5	AGMBS	Axon guidance mediated by Slit/Robo	Cellular Processes	5
+6	B1ARSP	Beta1 adrenergic receptor signaling pathway	Cellular Processes	6
+7	B2ARSP	Beta2 adrenergic receptor signaling pathway	Cellular Processes	7
+8	B3ARSP	Beta3 adrenergic receptor signaling pathway	Cellular Processes	8
+9	CSP	Cadherin signaling pathway	Cellular Processes	9
+10	CRFRSP	Cortocotropin releasing factor receptor signaling pathway	Cellular Processes	11
+11	CRBRG	Cytoskeletal regulation by Rho GTPase	Cellular Processes	12
+12	ERSP	EGF receptor signaling pathway	Cellular Processes	13
+13	E	Endogenous_cannabinoid_signaling	Cellular Processes	14
+14	FSP	FAS signaling pathway	Cellular Processes	15
+15	FSP	FGF signaling pathway	Cellular Processes	16
+16	G	GABA-B_receptor_II_signaling	Cellular Processes	17
+17	HSP	Hedgehog signaling pathway	Cellular Processes	19
+18	HGSPAAGAMP	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	Cellular Processes	20
+19	HGSPAAGAMP	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	Cellular Processes	21
+20	HGSPOSP	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction	Cellular Processes	22
+21	HH1RMSP	Histamine H1 receptor mediated signaling pathway	Cellular Processes	23
+22	HH2RMSP	Histamine H2 receptor mediated signaling pathway	Cellular Processes	24
+23	ISP	Integrin signalling pathway	Cellular Processes	25
+24	P	PNAT	Cellular Processes	27
+25	S	Synaptic_vesicle_trafficking	Cellular Processes	28

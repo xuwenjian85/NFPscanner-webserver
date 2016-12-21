@@ -1,0 +1,84 @@
+ID	Description	Category	Edge Count	Node Count
+1	<U+00DF>-arrestins in gpcr desensitization	Signal Transduction	20	8
+2	acetylation and deacetylation of rela in nucleus	Signal Transduction	13	5
+3	activation of camp-dependent protein kinase pka	Signal Transduction	37	10
+4	activation of csk by camp-dependent protein kinase inhibits signaling through the t cell receptor	Signal Transduction	165	24
+5	adp-ribosylation factor	Signal Transduction	26	6
+6	akt signaling pathway	Signal Transduction	15	11
+7	angiotensin ii mediated activation of jnk pathway via pyk2 dependent signaling	Signal Transduction	61	27
+8	atm signaling pathway	Signal Transduction	45	16
+9	attenuation of gpcr signaling	Signal Transduction	60	11
+10	basic mechanisms of sumoylation	Signal Transduction	26	6
+11	bcr signaling pathway	Signal Transduction	91	27
+12	bioactive peptide induced signaling pathway	Signal Transduction	68	17
+13	brca1 dependent ub ligase activity	Signal Transduction	32	8
+14	ccr3 signaling in eosinophils	Signal Transduction	46	20
+15	cd40l signaling pathway	Signal Transduction	20	6
+16	cxcr4 signaling pathway	Signal Transduction	39	12
+17	cystic fibrosis transmembrane conductance regulator (cftr) and beta 2 adrenergic receptor (b2ar) pathway	Signal Transduction	133	14
+18	egf signaling pathway	Signal Transduction	40	17
+19	epo signaling pathway	Signal Transduction	24	9
+20	erk and pi-3 kinase are necessary for collagen binding in corneal epithelia	Signal Transduction	481	36
+21	erk1/erk2 mapk signaling pathway	Signal Transduction	47	22
+22	erythropoietin mediated neuroprotection through nf-kb	Signal Transduction	49	12
+23	fas signaling pathway (cd95)	Signal Transduction	75	20
+24	fc epsilon receptor i signaling in mast cells	Signal Transduction	89	28
+25	g-protein signaling through tubby proteins	Signal Transduction	12	4
+26	gamma-aminobutyric acid receptor life cycle pathway	Signal Transduction	96	11
+27	gata3 participate in activating the th2 cytokine genes expression	Signal Transduction	41	17
+28	growth hormone signaling pathway	Signal Transduction	46	18
+29	ifn alpha signaling pathway	Signal Transduction	46	9
+30	ifn gamma signaling pathway	Signal Transduction	25	6
+31	igf-1 signaling pathway	Signal Transduction	43	20
+32	il 2 signaling pathway	Signal Transduction	89	12
+33	il 3 signaling pathway	Signal Transduction	37	9
+34	il 4 signaling pathway	Signal Transduction	39	15
+35	il 6 signaling pathway	Signal Transduction	35	9
+36	il-10 anti-inflammatory signaling pathway	Signal Transduction	19	8
+37	il-2 receptor beta chain in t cell activation	Signal Transduction	139	38
+38	il-7 signal transduction	Signal Transduction	58	14
+39	il12 and stat4 dependent signaling pathway in th1 development	Signal Transduction	34	13
+40	il22 soluble receptor signaling pathway	Signal Transduction	22	6
+41	insulin signaling pathway	Signal Transduction	30	10
+42	integrin signaling pathway	Signal Transduction	581	39
+43	links between pyk2 and map kinases	Signal Transduction	54	23
+44	map kinase inactivation of smrt corepressor	Signal Transduction	27	14
+45	mapkinase signaling pathway	Signal Transduction	17	19
+46	mtor signaling pathway	Signal Transduction	60	23
+47	multiple antiapoptotic pathways from igf-1r signaling lead to bad phosphorylation	Signal Transduction	36	13
+48	nerve growth factor pathway (ngf)	Signal Transduction	35	17
+49	nf-kb signaling pathway	Signal Transduction	120	20
+50	p38 mapk signaling pathway	Signal Transduction	28	24
+51	p53 signaling pathway	Signal Transduction	35	13
+52	pdgf signaling pathway	Signal Transduction	52	24
+53	pertussis toxin-insensitive ccr5 signaling in macrophage	Signal Transduction	27	10
+54	phosphoinositides and their downstream targets	Signal Transduction	11	16
+55	phospholipase c-epsilon pathway	Signal Transduction	34	12
+56	phospholipids as signalling intermediaries	Signal Transduction	85	28
+57	phosphorylation of mek1 by cdk5/p35 down regulates the map kinase pathway	Signal Transduction	39	14
+58	pkc-catalyzed phosphorylation of inhibitory phosphoprotein of myosin phosphatase	Signal Transduction	34	13
+59	rac1 cell motility signaling pathway	Signal Transduction	21	18
+60	ras signaling pathway	Signal Transduction	18	18
+61	rho cell motility signaling pathway	Signal Transduction	22	14
+62	role of <U+00DF>-arrestins in the activation and targeting of map kinases	Signal Transduction	50	11
+63	role of erbb2 in signal transduction and oncology	Signal Transduction	62	23
+64	role of erk5 in neuronal survival pathway	Signal Transduction	34	19
+65	role of mal in rho-mediated activation of srf	Signal Transduction	36	19
+66	roles of <U+00DF> arrestin dependent recruitment of src kinases in gpcr signaling	Signal Transduction	22	12
+67	signal transduction through il1r	Signal Transduction	103	29
+68	signaling pathway from g-protein families	Signal Transduction	61	22
+69	sodd/tnfr1 signaling pathway	Signal Transduction	44	8
+70	sonic hedgehog receptor ptc1 regulates cell cycle	Signal Transduction	34	9
+71	sprouty regulation of tyrosine kinase signals	Signal Transduction	39	14
+72	sumoylation by ranbp2 regulates transcriptional repression	Signal Transduction	95	14
+73	t cell receptor signaling pathway	Signal Transduction	175	36
+74	tgf beta signaling pathway	Signal Transduction	61	17
+75	the information processing pathway at the ifn beta enhancer	Signal Transduction	441	22
+76	thrombin signaling and protease-activated receptors	Signal Transduction	45	16
+77	tnfr1 signaling pathway	Signal Transduction	104	17
+78	tnfr2 signaling pathway	Signal Transduction	56	9
+79	toll-like receptor pathway	Signal Transduction	140	33
+80	tpo signaling pathway	Signal Transduction	44	20
+81	trka receptor signaling pathway	Signal Transduction	26	11
+82	wnt lrp6 signalling	Signal Transduction	12	5
+83	wnt signaling pathway	Signal Transduction	115	28

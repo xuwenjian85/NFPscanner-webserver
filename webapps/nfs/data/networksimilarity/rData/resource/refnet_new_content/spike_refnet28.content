@@ -1,0 +1,29 @@
+ID	Description	Category	Edge Count	Node Count
+1	G1.S	Cell Cycle	944	455
+2	G2.M	Cell Cycle	1054	490
+3	GJB2	Cell Cycle	1102	511
+4	mapk	Cell Cycle	1292	596
+5	NFkB	Cell Cycle	1443	650
+6	p53	Cell Cycle	1529	681
+7	RAS.signaling	Cell Cycle	1724	745
+8	TLR_signaling	Cell Cycle	2207	880
+9	WNT.signaling	Cell Cycle	2140	836
+10	ATM	DNA Damage Response	460	272
+11	Base_Excision_Repair	DNA Damage Response	662	336
+12	DDR_and_Chromatin_Remodeling	DNA Damage Response	829	418
+13	DNA_damage_induced_G1.S_checkpoint	DNA Damage Response	853	427
+14	DSB	DNA Damage Response	944	455
+15	Mismatch_repair	DNA Damage Response	1327	602
+16	Nucleotide_excision_repair	DNA Damage Response	1517	674
+17	Repair.of.Interstrand.Crosslinks	DNA Damage Response	1627	706
+18	Hearing_and_Vision	Hearing Related Pathways	1254	575
+19	Hearing.related.SIX1.Interactions	Hearing Related Pathways	1119	519
+20	MYO3A_small	Hearing Related Pathways	1406	632
+21	MYO7A.Interactions.In.The.Ear	Hearing Related Pathways	1417	638
+22	NOTCH1.Sinaling.In.The.Ear	Hearing Related Pathways	1453	657
+23	Apoptosis	Programmed Cell Death	158	74
+24	Apoptosis_anti_apoptosis	Programmed Cell Death	282	131
+25	Apoptosis_In_The_Ear	Programmed Cell Death	353	189
+26	autophagy	Programmed Cell Death	584	308
+27	Caspases_Cascade	Programmed Cell Death	707	360
+28	DAPk_family	Programmed Cell Death	735	380

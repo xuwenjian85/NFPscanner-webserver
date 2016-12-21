@@ -1,0 +1,43 @@
+id	nci_CA_refnet
+name	nci pathways - Cell adhesion
+network_sum	31
+description	Reference networks from nci database - Cell adhesion updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	A47IS	a4b7 Integrin signaling	Cell adhesion	12
+2	A61AA64IS	a6b1 and a6b4 Integrin signaling	Cell adhesion	13
+3	A4B1ISE	Alpha4 beta1 integrin signaling events	Cell adhesion	14
+4	A6B4II	Alpha6 beta4 integrin-ligand interactions	Cell adhesion	15
+5	A9B1ISE	Alpha9 beta1 integrin signaling events	Cell adhesion	16
+6	A2IS	amb2 Integrin signaling	Cell adhesion	18
+7	B1ICSI	Beta1 integrin cell surface interactions	Cell adhesion	19
+8	B2ICSI	Beta2 integrin cell surface interactions	Cell adhesion	20
+9	B3ICSI	Beta3 integrin cell surface interactions	Cell adhesion	21
+10	B5B6B7AB8ICSI	Beta5 beta6 beta7 and beta8 integrin cell surface interactions	Cell adhesion	22
+11	DOBC	Degradation of beta catenin	Cell adhesion	23
+12	ESIK	E-cadherin signaling in keratinocytes	Cell adhesion	25
+13	ESITNAJ	E-cadherin signaling in the nascent adherens junction	Cell adhesion	26
+14	E2FS	EPHA2 forward signaling	Cell adhesion	27
+15	EFS	EPHA forward signaling	Cell adhesion	28
+16	EFS	EPHB forward signaling	Cell adhesion	29
+17	EBRS	Ephrin B reverse signaling	Cell adhesion	31
+18	G11N	Glypican 1 network	Cell adhesion	32
+19	IFCSI	Integrin family cell surface interactions	Cell adhesion	35
+20	IKS	Integrin-linked kinase signaling	Cell adhesion	36
+21	IIA	Integrins in angiogenesis	Cell adhesion	37
+22	NSE	N-cadherin signaling events	Cell adhesion	38
+23	NAP	Nectin adhesion pathway	Cell adhesion	39
+24	N1SITKP	Nephrin/Neph1 signaling in the kidney podocyte	Cell adhesion	40
+25	NHN	Notch-mediated HES/HEY network	Cell adhesion	41
+26	NSP	Notch signaling pathway	Cell adhesion	42
+27	OE	Osteopontin-mediated events	Cell adhesion	43
+28	PROAJSAD	Posttranslational regulation of adherens junction stability and dissassembly	Cell adhesion	44
+29	SEMBFAK	Signaling events mediated by focal adhesion kinase	Cell adhesion	45
+30	SAEOTEAJ	Stabilization and expansion of the E-cadherin adherens junction	Cell adhesion	46
+31	UPA(AUS	Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling	Cell adhesion	47

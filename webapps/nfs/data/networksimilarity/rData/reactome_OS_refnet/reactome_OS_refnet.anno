@@ -1,0 +1,26 @@
+id	reactome_OS_refnet
+name	Reactome pathways - Organismal Systems
+network_sum	14
+description	Reference networks from Reactome database - Organismal Systems updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	R-HSA-418346	Platelet homeostasis	Organismal Systems	98
+2	R-HSA-75892	Platelet Adhesion to exposed collagen	Organismal Systems	100
+3	R-HSA-76002	Platelet activation, signaling and aggregation	Organismal Systems	101
+4	R-HSA-140877	Formation of Fibrin Clot (Clotting Cascade)	Organismal Systems	96
+5	R-HSA-983231	Factors involved in megakaryocyte development and platelet production	Organismal Systems	102
+6	R-HSA-75205	Dissolution of Fibrin Clot	Organismal Systems	99
+7	R-HSA-202733	Cell surface interactions at the vascular wall	Organismal Systems	97
+8	R-HSA-168249	Innate Immune System	Organismal Systems	106
+9	R-HSA-1280215	Cytokine Signaling in Immune system	Organismal Systems	104
+10	R-HSA-1280218	Adaptive Immune System	Organismal Systems	105
+11	R-HSA-390522	Striated Muscle Contraction	Organismal Systems	107
+12	R-HSA-445355	Smooth Muscle Contraction	Organismal Systems	108
+13	R-HSA-112315	Transmission across Chemical Synapses	Organismal Systems	110
+14	R-HSA-1187000	Fertilization	Organismal Systems	111

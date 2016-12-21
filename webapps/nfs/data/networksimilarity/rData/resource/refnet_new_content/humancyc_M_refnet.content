@@ -1,0 +1,16 @@
+ID	Description	Category	Edge Count	Node Count
+1	D-myo-inositol-5-phosphate metabolism	Modification	41	19
+2	fatty acid ¦Â-oxidation I	Modification	24	11
+3	fatty acid ¦Â-oxidation VI (peroxisome)	Modification	32	12
+4	glutathione-mediated detoxification I	Modification	78	23
+5	NAD salvage pathway II	Modification	29	10
+6	pentose phosphate pathway	Modification	24	10
+7	pentose phosphate pathway (non-oxidative branch)	Modification	19	6
+8	purine deoxyribonucleosides salvage	Modification	24	12
+9	pyrimidine deoxyribonucleotide phosphorylation	Modification	28	11
+10	sphingomyelin metabolism/ceramide salvage	Modification	30	8
+11	sphingosine and sphingosine-1-phosphate metabolism	Modification	16	8
+12	superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism	Modification	82	20
+13	superpathway of inositol phosphate compounds	Modification	400	68
+14	superpathway of pyrimidine deoxyribonucleoside salvage	Modification	47	17
+15	tryptophan utilization II	Modification	19	20

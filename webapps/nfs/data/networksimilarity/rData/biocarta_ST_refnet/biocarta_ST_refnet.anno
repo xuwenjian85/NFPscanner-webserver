@@ -1,0 +1,95 @@
+id	biocarta_ST_refnet
+name	biocarta pathways - Signal Transduction
+network_sum	83
+description	Reference networks from biocarta database - Signal Transduction updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	BIGD	ß-arrestins in gpcr desensitization	Signal Transduction	154
+2	AADORIN	acetylation and deacetylation of rela in nucleus	Signal Transduction	155
+3	AOCPKP	activation of camp-dependent protein kinase pka	Signal Transduction	156
+4	AOCBCPKISTTTCR	activation of csk by camp-dependent protein kinase inhibits signaling through the t cell receptor	Signal Transduction	157
+5	AF	adp-ribosylation factor	Signal Transduction	159
+6	ASP	akt signaling pathway	Signal Transduction	161
+7	AIMAOJPVP2DS	angiotensin ii mediated activation of jnk pathway via pyk2 dependent signaling	Signal Transduction	162
+8	ASP	atm signaling pathway	Signal Transduction	163
+9	AOGS	attenuation of gpcr signaling	Signal Transduction	164
+10	BMOS	basic mechanisms of sumoylation	Signal Transduction	165
+11	BSP	bcr signaling pathway	Signal Transduction	166
+12	BPISP	bioactive peptide induced signaling pathway	Signal Transduction	167
+13	B1DULA	brca1 dependent ub ligase activity	Signal Transduction	168
+14	C3SIE	ccr3 signaling in eosinophils	Signal Transduction	171
+15	C40SP	cd40l signaling pathway	Signal Transduction	172
+16	C4SP	cxcr4 signaling pathway	Signal Transduction	173
+17	CFTCR(AB22AR(2P	cystic fibrosis transmembrane conductance regulator (cftr) and beta 2 adrenergic receptor (b2ar) pathway	Signal Transduction	174
+18	ESP	egf signaling pathway	Signal Transduction	176
+19	ESP	epo signaling pathway	Signal Transduction	177
+20	EAP3KANFCBICE	erk and pi-3 kinase are necessary for collagen binding in corneal epithelia	Signal Transduction	178
+21	E12MSP	erk1/erk2 mapk signaling pathway	Signal Transduction	179
+22	EMNTN	erythropoietin mediated neuroprotection through nf-kb	Signal Transduction	180
+23	FSP(95	fas signaling pathway (cd95)	Signal Transduction	181
+24	FERISIMC	fc epsilon receptor i signaling in mast cells	Signal Transduction	182
+25	GSTTP	g-protein signaling through tubby proteins	Signal Transduction	183
+26	GARLCP	gamma-aminobutyric acid receptor life cycle pathway	Signal Transduction	185
+27	G3PIATT2CGE	gata3 participate in activating the th2 cytokine genes expression	Signal Transduction	186
+28	GHSP	growth hormone signaling pathway	Signal Transduction	187
+29	IASP	ifn alpha signaling pathway	Signal Transduction	188
+30	IGSP	ifn gamma signaling pathway	Signal Transduction	189
+31	I1SP	igf-1 signaling pathway	Signal Transduction	190
+32	I22SP	il 2 signaling pathway	Signal Transduction	191
+33	I33SP	il 3 signaling pathway	Signal Transduction	192
+34	I44SP	il 4 signaling pathway	Signal Transduction	193
+35	I66SP	il 6 signaling pathway	Signal Transduction	194
+36	I10ASP	il-10 anti-inflammatory signaling pathway	Signal Transduction	195
+37	I2RBCITCA	il-2 receptor beta chain in t cell activation	Signal Transduction	196
+38	I7ST	il-7 signal transduction	Signal Transduction	197
+39	I12AS4DSPIT1D	il12 and stat4 dependent signaling pathway in th1 development	Signal Transduction	198
+40	I22SRSP	il22 soluble receptor signaling pathway	Signal Transduction	199
+41	ISP	insulin signaling pathway	Signal Transduction	200
+42	ISP	integrin signaling pathway	Signal Transduction	201
+43	LBP2AMK	links between pyk2 and map kinases	Signal Transduction	203
+44	MKIOSC	map kinase inactivation of smrt corepressor	Signal Transduction	204
+45	MSP	mapkinase signaling pathway	Signal Transduction	205
+46	MSP	mtor signaling pathway	Signal Transduction	206
+47	MAPFI1SLTBP	multiple antiapoptotic pathways from igf-1r signaling lead to bad phosphorylation	Signal Transduction	207
+48	NGFP(	nerve growth factor pathway (ngf)	Signal Transduction	208
+49	NSP	nf-kb signaling pathway	Signal Transduction	209
+50	P38MSP	p38 mapk signaling pathway	Signal Transduction	210
+51	P53SP	p53 signaling pathway	Signal Transduction	211
+52	PSP	pdgf signaling pathway	Signal Transduction	212
+53	PTC5SIM	pertussis toxin-insensitive ccr5 signaling in macrophage	Signal Transduction	213
+54	PATDT	phosphoinositides and their downstream targets	Signal Transduction	214
+55	PCP	phospholipase c-epsilon pathway	Signal Transduction	217
+56	PASI	phospholipids as signalling intermediaries	Signal Transduction	218
+57	POM1BC535DRTMKP	phosphorylation of mek1 by cdk5/p35 down regulates the map kinase pathway	Signal Transduction	219
+58	PPOIPOMP	pkc-catalyzed phosphorylation of inhibitory phosphoprotein of myosin phosphatase	Signal Transduction	220
+59	R1CMSP	rac1 cell motility signaling pathway	Signal Transduction	222
+60	RSP	ras signaling pathway	Signal Transduction	223
+61	RCMSP	rho cell motility signaling pathway	Signal Transduction	224
+62	ROBITAATOMK	role of ß-arrestins in the activation and targeting of map kinases	Signal Transduction	225
+63	ROE2ISTAO	role of erbb2 in signal transduction and oncology	Signal Transduction	226
+64	ROE5INSP	role of erk5 in neuronal survival pathway	Signal Transduction	227
+65	ROMIRAOS	role of mal in rho-mediated activation of srf	Signal Transduction	228
+66	ROBADROSKIGS	roles of ß arrestin dependent recruitment of src kinases in gpcr signaling	Signal Transduction	229
+67	STTI1	signal transduction through il1r	Signal Transduction	230
+68	SPFGF	signaling pathway from g-protein families	Signal Transduction	231
+69	S1SP	sodd/tnfr1 signaling pathway	Signal Transduction	232
+70	SHRP1RCC	sonic hedgehog receptor ptc1 regulates cell cycle	Signal Transduction	233
+71	SROTKS	sprouty regulation of tyrosine kinase signals	Signal Transduction	234
+72	SBR2RTR	sumoylation by ranbp2 regulates transcriptional repression	Signal Transduction	236
+73	TCRSP	t cell receptor signaling pathway	Signal Transduction	237
+74	TBSP	tgf beta signaling pathway	Signal Transduction	238
+75	TIPPATIBE	the information processing pathway at the ifn beta enhancer	Signal Transduction	239
+76	TSAPR	thrombin signaling and protease-activated receptors	Signal Transduction	240
+77	T1SP	tnfr1 signaling pathway	Signal Transduction	241
+78	T2SP	tnfr2 signaling pathway	Signal Transduction	242
+79	TRP	toll-like receptor pathway	Signal Transduction	243
+80	TSP	tpo signaling pathway	Signal Transduction	244
+81	TRSP	trka receptor signaling pathway	Signal Transduction	245
+82	WL6S	wnt lrp6 signalling	Signal Transduction	246
+83	WSP	wnt signaling pathway	Signal Transduction	247

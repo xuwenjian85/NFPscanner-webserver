@@ -1,0 +1,25 @@
+id	kegg_CP_refnet
+name	KEGG - Cellular Processes
+network_sum	13
+description	Reference networks from KEGG Pathway Database - Cellular Processes, updated by 2015/11/05
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/05
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	Endocytosis	Endocytosis	Cellular Processes	51
+2	Phagosome	Phagosome	Cellular Processes	52
+3	Regulation_of_autophagy	Regulation of autophagy	Cellular Processes	55
+4	Regulation_of_actin_cytoskeleton	Regulation of actin cytoskeleton	Cellular Processes	56
+5	Cell_cycle	Cell cycle	Cellular Processes	57
+6	Oocyte_meiosis	Oocyte meiosis	Cellular Processes	58
+7	Apoptosis	Apoptosis	Cellular Processes	59
+8	p53_signaling_pathway	p53 signaling pathway	Cellular Processes	60
+9	Focal_adhesion	Focal adhesion	Cellular Processes	61
+10	Adherens_junction	Adherens junction	Cellular Processes	62
+11	Tight_junction	Tight junction	Cellular Processes	63
+12	Gap_junction	Gap junction	Cellular Processes	64
+13	Signaling_pathways_regulating_pluripotency_of_stem_cells	Signaling pathways regulating pluripotency of stem cells	Cellular Processes	65

@@ -1,0 +1,20 @@
+id	reactome_TP_refnet
+name	Reactome pathways - Transport Processes
+network_sum	8
+description	Reference networks from Reactome database - Transport Processes updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	R-HSA-1296071	Potassium Channels	Transport Processes	139
+2	R-HSA-425407	SLC-mediated transmembrane transport	Transport Processes	141
+3	R-HSA-917937	Iron uptake and transport	Transport Processes	144
+4	R-HSA-983712	Ion channel transport	Transport Processes	145
+5	R-HSA-445717	Aquaporin-mediated transport	Transport Processes	142
+6	R-HSA-382556	ABC-family proteins mediated transport	Transport Processes	140
+7	R-HSA-199991	Membrane Trafficking	Transport Processes	146
+8	R-HSA-2173782	Binding and Uptake of Ligands by Scavenger Receptors	Transport Processes	147

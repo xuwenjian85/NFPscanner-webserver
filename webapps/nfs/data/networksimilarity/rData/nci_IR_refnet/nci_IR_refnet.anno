@@ -1,0 +1,23 @@
+id	nci_IR_refnet
+name	nci pathways - Immune response
+network_sum	11
+description	Reference networks from nci database - Immune response updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	BSP	BCR signaling pathway	Immune response	10
+2	CNTIL	Calcineurin-regulated NFAT-dependent transcription in lymphocytes	Immune response	11
+3	CSITC4TP	Calcium signaling in the CD4+ TCR pathway	Immune response	12
+4	DSIN00C8TC	Downstream signaling in naïve CD8+ T cells	Immune response	14
+5	ETS	Endogenous TLR signaling	Immune response	15
+6	FRISIMC	Fc-epsilon receptor I signaling in mast cells	Immune response	16
+7	JSITC4TP	JNK signaling in the CD4+ TCR pathway	Immune response	17
+8	RSITC4TP	Ras signaling in the CD4+ TCR pathway	Immune response	18
+9	ROCNSIL	Role of Calcineurin-dependent NFAT signaling in lymphocytes	Immune response	19
+10	TSIN00C4TC	TCR signaling in naïve CD4+ T cells	Immune response	20
+11	TSIN00C8TC	TCR signaling in naïve CD8+ T cells	Immune response	21

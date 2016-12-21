@@ -1,0 +1,58 @@
+id	biocarta_CP_refnet
+name	biocarta pathways - Cellular Processes
+network_sum	46
+description	Reference networks from biocarta database - Cellular Processes updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	ERONPAD	endocytotic role of ndk phosphins and dynamin	Cellular Processes	1
+2	EAD(P	er associated degradation (erad) pathway	Cellular Processes	2
+3	GAMAP	granzyme a mediated apoptosis pathway	Cellular Processes	4
+4	IORARPOG1TST	influence of ras and rho proteins on g1 to s transition	Cellular Processes	5
+5	IPAP	intrinsic prothrombin activation pathway	Cellular Processes	6
+6	ICATFRIVE	ion channels and their functional role in vascular endothelium	Cellular Processes	7
+7	KD	keratinocyte differentiation	Cellular Processes	8
+8	LAFTKIIOTA	lck and fyn tyrosine kinases in initiation of tcr activation	Cellular Processes	9
+9	LICP	lectin induced complement pathway	Cellular Processes	10
+10	MAFICM	mcalpain and friends in cell motility	Cellular Processes	11
+11	MOPIITN	mechanism of protein import into the nucleus	Cellular Processes	12
+12	MOTRBDM	mechanisms of transcriptional repression by dna methylation	Cellular Processes	13
+13	MDAPP	melanocyte development and pigmentation pathway	Cellular Processes	14
+14	MAOMD	mets affect on macrophage differentiation	Cellular Processes	15
+15	MROTBP2	multi-step regulation of transcription by pitx2	Cellular Processes	16
+16	NRCTAOCRCACTFIOTICC	nuclear receptors coordinate the activities of chromatin remodeling complexes and coactivators to facilitate initiation of transcription in carcinoma cells	Cellular Processes	18
+17	OOTPCGHTR	overview of telomerase protein component gene htert transcriptional regulation	Cellular Processes	20
+18	OOTRCGHTR	overview of telomerase rna component gene hterc transcriptional regulation	Cellular Processes	21
+19	PAPPP	platelet amyloid precursor protein pathway	Cellular Processes	23
+20	PC	proteasome complex	Cellular Processes	25
+21	PKAATC	protein kinase a at the centrosome	Cellular Processes	26
+22	PDCCAAA	pten dependent cell cycle arrest and apoptosis	Cellular Processes	27
+23	RPINCC	ras-independent pathway in nk cell-mediated cytotoxicity	Cellular Processes	28
+24	ROBP	regulation of bad phosphorylation	Cellular Processes	29
+25	ROCCPBP3	regulation of cell cycle progression by plk3	Cellular Processes	30
+26	ROC15BT11GR	regulation of ck1/cdk5 by type 1 glutamate receptors	Cellular Processes	31
+27	ROE4AP706K	regulation of eif-4e and p70s6 kinase	Cellular Processes	32
+28	ROE2	regulation of eif2	Cellular Processes	33
+29	ROP27PDCCP	regulation of p27 phosphorylation during cell cycle progression	Cellular Processes	34
+30	ROP1	regulation of pgc-1a	Cellular Processes	35
+31	ROSBC	regulation of spermatogenesis by crem	Cellular Processes	36
+32	ROSTS68	regulation of splicing through sam68	Cellular Processes	37
+33	ROTABP	regulation of transcriptional activity by pml	Cellular Processes	38
+34	RGEFA13MSFF	rho-selective guanine exchange factor akap13 mediates stress fiber formation	Cellular Processes	39
+35	ROM2ITA	role of mef2d in t-cell apoptosis	Cellular Processes	40
+36	ROMIAS	role of mitochondria in apoptotic signaling	Cellular Processes	41
+37	RONARITROA	role of nicotinic acetylcholine receptors in the regulation of apoptosis	Cellular Processes	42
+38	ROP3SP85IROAOACM	role of pi3k subunit p85 in regulation of actin organization and cell migration	Cellular Processes	44
+39	RORIMSR	role of ran in mitotic spindle regulation	Cellular Processes	45
+40	SA	spliceosomal assembly	Cellular Processes	46
+41	SAAMTMCGR	sumoylation as a mechanism to modulate ctbp-dependent gene responses	Cellular Processes	48
+42	TTCAAI	telomeres telomerase cellular aging and immortality	Cellular Processes	49
+43	T1IAIMEC	tsp-1 induced apoptosis in microvascular endothelial cell	Cellular Processes	51
+44	TSAIRB	tumor suppressor arf inhibits ribosomal biogenesis	Cellular Processes	52
+45	UAFICS	ucalpain and friends in cell spread	Cellular Processes	53
+46	YBOAF	y branching of actin filaments	Cellular Processes	54

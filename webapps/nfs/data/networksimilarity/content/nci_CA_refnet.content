@@ -1,0 +1,32 @@
+ID	Description	Category	Edge Count	Node Count
+1	a4b7 Integrin signaling	Cell adhesion	14	7
+2	a6b1 and a6b4 Integrin signaling	Cell adhesion	100	32
+3	Alpha4 beta1 integrin signaling events	Cell adhesion	158	29
+4	Alpha6 beta4 integrin-ligand interactions	Cell adhesion	64	11
+5	Alpha9 beta1 integrin signaling events	Cell adhesion	94	25
+6	amb2 Integrin signaling	Cell adhesion	98	27
+7	Beta1 integrin cell surface interactions	Cell adhesion	383	58
+8	Beta2 integrin cell surface interactions	Cell adhesion	142	29
+9	Beta3 integrin cell surface interactions	Cell adhesion	183	38
+10	Beta5 beta6 beta7 and beta8 integrin cell surface interactions	Cell adhesion	67	17
+11	Degradation of beta catenin	Cell adhesion	43	10
+12	E-cadherin signaling in keratinocytes	Cell adhesion	77	19
+13	E-cadherin signaling in the nascent adherens junction	Cell adhesion	166	34
+14	EPHA2 forward signaling	Cell adhesion	58	16
+15	EPHA forward signaling	Cell adhesion	83	24
+16	EPHB forward signaling	Cell adhesion	71	33
+17	Ephrin B reverse signaling	Cell adhesion	47	24
+18	Glypican 1 network	Cell adhesion	72	26
+19	Integrin family cell surface interactions	Cell adhesion	46	26
+20	Integrin-linked kinase signaling	Cell adhesion	107	43
+21	Integrins in angiogenesis	Cell adhesion	269	58
+22	N-cadherin signaling events	Cell adhesion	135	31
+23	Nectin adhesion pathway	Cell adhesion	114	28
+24	Nephrin/Neph1 signaling in the kidney podocyte	Cell adhesion	96	20
+25	Notch-mediated HES/HEY network	Cell adhesion	123	43
+26	Notch signaling pathway	Cell adhesion	182	51
+27	Osteopontin-mediated events	Cell adhesion	100	30
+28	Posttranslational regulation of adherens junction stability and dissassembly	Cell adhesion	255	45
+29	Signaling events mediated by focal adhesion kinase	Cell adhesion	304	53
+30	Stabilization and expansion of the E-cadherin adherens junction	Cell adhesion	226	42
+31	Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling	Cell adhesion	180	38

@@ -1,0 +1,120 @@
+id	reactome_refnet108
+name	Reactome pathways - All
+network_sum	108
+description	Reference networks from Reactome Database, updated by 2015/11/05
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/05
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	R-HSA-1500620	Meiosis	Cellular Processes	1
+2	R-HSA-73886	Chromosome Maintenance	Cellular Processes	4
+3	R-HSA-69278	Cell Cycle, Mitotic	Cellular Processes	2
+4	R-HSA-69620	Cell Cycle Checkpoints	Cellular Processes	3
+5	R-HSA-391160	Signal regulatory protein (SIRP) family interactions	Cellular Processes	7
+6	R-HSA-373753	Nephrin interactions	Cellular Processes	5
+7	R-HSA-376172	DSCAM interactions	Cellular Processes	6
+8	R-HSA-446728	Cell junction organization	Cellular Processes	8
+9	R-HSA-3247509	Chromatin modifying enzymes	Cellular Processes	9
+10	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	Cellular Processes	12
+11	R-HSA-452723	Transcriptional regulation of pluripotent stem cells	Cellular Processes	14
+12	R-HSA-1181150	Signaling by NODAL	Cellular Processes	10
+13	R-HSA-186712	Regulation of beta-cell development	Cellular Processes	11
+14	R-HSA-525793	Myogenesis	Cellular Processes	15
+15	R-HSA-422475	Axon guidance	Cellular Processes	13
+16	R-HSA-3000171	Non-integrin membrane-ECM interactions	Cellular Processes	23
+17	R-HSA-3000157	Laminin interactions	Cellular Processes	22
+18	R-HSA-216083	Integrin cell surface interactions	Cellular Processes	21
+19	R-HSA-1566948	Elastic fibre formation	Cellular Processes	19
+20	R-HSA-3000178	ECM proteoglycans	Cellular Processes	24
+21	R-HSA-1474228	Degradation of the extracellular matrix	Cellular Processes	17
+22	R-HSA-1474290	Collagen formation	Cellular Processes	18
+23	R-HSA-1592230	Mitochondrial biogenesis	Cellular Processes	26
+24	R-HSA-3299685	Detoxification of Reactive Oxygen Species	Enviromental Information Processing	38
+25	R-HSA-2559583	Cellular Senescence	Enviromental Information Processing	37
+26	R-HSA-2262749	Cellular response to hypoxia	Enviromental Information Processing	36
+27	R-HSA-3371556	Cellular response to heat stress	Enviromental Information Processing	39
+28	R-HSA-1368108	BMAL1:CLOCK,NPAS2 activates circadian gene expression	Enviromental Information Processing	42
+29	R-HSA-109581	Apoptosis	Enviromental Information Processing	43
+30	R-HSA-5696398	Nucleotide Excision Repair	Genetic Information Processing	47
+31	R-HSA-73884	Base Excision Repair	Genetic Information Processing	49
+32	R-HSA-69239	Synthesis of DNA	Genetic Information Processing	53
+33	R-HSA-69304	Regulation of DNA replication	Genetic Information Processing	54
+34	R-HSA-68874	M/G1 Transition	Genetic Information Processing	52
+35	R-HSA-379724	tRNA Aminoacylation	Genetic Information Processing	59
+36	R-HSA-72766	Translation	Genetic Information Processing	67
+37	R-HSA-504046	RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription	Genetic Information Processing	63
+38	R-HSA-73857	RNA Polymerase II Transcription	Genetic Information Processing	68
+39	R-HSA-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	Genetic Information Processing	62
+40	R-HSA-75067	Processing of Capped Intronless Pre-mRNA	Genetic Information Processing	69
+41	R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	Genetic Information Processing	65
+42	R-HSA-927802	Nonsense-Mediated Decay (NMD)	Genetic Information Processing	71
+43	R-HSA-72086	mRNA Capping	Genetic Information Processing	64
+44	R-HSA-212436	Generic Transcription Pathway	Genetic Information Processing	58
+45	R-HSA-212165	Epigenetic regulation of gene expression	Genetic Information Processing	57
+46	R-HSA-429914	Deadenylation-dependent mRNA decay	Genetic Information Processing	61
+47	R-HSA-381119	Unfolded Protein Response (UPR)	Genetic Information Processing	74
+48	R-HSA-391251	Protein folding	Genetic Information Processing	76
+49	R-HSA-597592	Post-translational protein modification	Genetic Information Processing	78
+50	R-HSA-2980736	Peptide hormone metabolism	Genetic Information Processing	73
+51	R-HSA-1268020	Mitochondrial protein import	Genetic Information Processing	72
+52	R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	Metabolism	81
+53	R-HSA-1475029	Reversible hydration of carbon dioxide	Metabolism	82
+54	R-HSA-1480926	O2/CO2 exchange in erythrocytes	Metabolism	83
+55	R-HSA-1362409	Mitochondrial iron-sulfur cluster biogenesis	Metabolism	80
+56	R-HSA-196854	Metabolism of vitamins and cofactors	Metabolism	88
+57	R-HSA-202131	Metabolism of nitric oxide	Metabolism	89
+58	R-HSA-556833	Metabolism of lipids and lipoproteins	Metabolism	93
+59	R-HSA-163685	Integration of energy metabolism	Metabolism	86
+60	R-HSA-1483249	Inositol phosphate metabolism	Metabolism	84
+61	R-HSA-2564830	Cytosolic iron-sulfur cluster assembly	Metabolism	92
+62	R-HSA-211859	Biological oxidations	Metabolism	90
+63	R-HSA-2161522	Abacavir transport and metabolism	Metabolism	91
+64	R-HSA-418346	Platelet homeostasis	Organismal Systems	98
+65	R-HSA-75892	Platelet Adhesion to exposed collagen	Organismal Systems	100
+66	R-HSA-76002	Platelet activation, signaling and aggregation	Organismal Systems	101
+67	R-HSA-140877	Formation of Fibrin Clot (Clotting Cascade)	Organismal Systems	96
+68	R-HSA-983231	Factors involved in megakaryocyte development and platelet production	Organismal Systems	102
+69	R-HSA-75205	Dissolution of Fibrin Clot	Organismal Systems	99
+70	R-HSA-202733	Cell surface interactions at the vascular wall	Organismal Systems	97
+71	R-HSA-168249	Innate Immune System	Organismal Systems	106
+72	R-HSA-1280215	Cytokine Signaling in Immune system	Organismal Systems	104
+73	R-HSA-1280218	Adaptive Immune System	Organismal Systems	105
+74	R-HSA-390522	Striated Muscle Contraction	Organismal Systems	107
+75	R-HSA-445355	Smooth Muscle Contraction	Organismal Systems	108
+76	R-HSA-112315	Transmission across Chemical Synapses	Organismal Systems	110
+77	R-HSA-1187000	Fertilization	Organismal Systems	111
+78	R-HSA-2187338	Visual phototransduction	Signal Transduction	129
+79	R-HSA-195721	Signaling by Wnt	Signal Transduction	126
+80	R-HSA-194138	Signaling by VEGF	Signal Transduction	124
+81	R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	Signal Transduction	130
+82	R-HSA-170834	Signaling by TGF-beta Receptor Complex	Signal Transduction	120
+83	R-HSA-1433557	Signaling by SCF-KIT	Signal Transduction	115
+84	R-HSA-194315	Signaling by Rho GTPases	Signal Transduction	125
+85	R-HSA-186797	Signaling by PDGF	Signal Transduction	122
+86	R-HSA-157118	Signaling by NOTCH	Signal Transduction	118
+87	R-HSA-2586552	Signaling by Leptin	Signal Transduction	131
+88	R-HSA-74752	Signaling by Insulin receptor	Signal Transduction	138
+89	R-HSA-2028269	Signaling by Hippo	Signal Transduction	128
+90	R-HSA-5358351	Signaling by Hedgehog	Signal Transduction	134
+91	R-HSA-372790	Signaling by GPCR	Signal Transduction	133
+92	R-HSA-190236	Signaling by FGFR	Signal Transduction	123
+93	R-HSA-1236394	Signaling by ERBB4	Signal Transduction	113
+94	R-HSA-1227986	Signaling by ERBB2	Signal Transduction	112
+95	R-HSA-177929	Signaling by EGFR	Signal Transduction	121
+96	R-HSA-201451	Signaling by BMP	Signal Transduction	127
+97	R-HSA-1502540	Signaling by Activin	Signal Transduction	117
+98	R-HSA-1257604	PIP3 activates AKT signaling	Signal Transduction	114
+99	R-HSA-354192	Integrin alphaIIb beta3 signaling	Signal Transduction	132
+100	R-HSA-1489509	DAG and IP3 signaling	Signal Transduction	116
+101	R-HSA-1296071	Potassium Channels	Transport Processes	139
+102	R-HSA-425407	SLC-mediated transmembrane transport	Transport Processes	141
+103	R-HSA-917937	Iron uptake and transport	Transport Processes	144
+104	R-HSA-983712	Ion channel transport	Transport Processes	145
+105	R-HSA-445717	Aquaporin-mediated transport	Transport Processes	142
+106	R-HSA-382556	ABC-family proteins mediated transport	Transport Processes	140
+107	R-HSA-199991	Membrane Trafficking	Transport Processes	146
+108	R-HSA-2173782	Binding and Uptake of Ligands by Scavenger Receptors	Transport Processes	147

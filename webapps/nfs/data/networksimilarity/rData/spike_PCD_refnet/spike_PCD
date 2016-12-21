@@ -1,0 +1,18 @@
+id	spike_PCD_refnet
+name	spike pathways - Programmed Cell Death
+network_sum	6
+description	Reference networks from spike database - Programmed Cell Death updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	A	Apoptosis	Programmed Cell Death	23
+2	AAA	Apoptosis_anti_apoptosis	Programmed Cell Death	24
+3	AITE	Apoptosis_In_The_Ear	Programmed Cell Death	25
+4	A	autophagy	Programmed Cell Death	26
+5	CC	Caspases_Cascade	Programmed Cell Death	27
+6	DF	DAPk_family	Programmed Cell Death	28

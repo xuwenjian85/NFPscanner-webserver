@@ -1,0 +1,27 @@
+ID	Description	Category	Edge Count	Node Count
+1	 5HT1 type receptor mediated signaling pathway	Organismal Systems	170	22
+2	 5HT2 type receptor mediated signaling pathway	Organismal Systems	164	21
+3	Activinbetasignaling_pathway	Organismal Systems	13	10
+4	Alpha adrenergic receptor signaling pathway	Organismal Systems	90	18
+5	Alzheimer disease-amyloid secretase pathway	Organismal Systems	42	16
+6	Alzheimer disease-presenilin pathway	Organismal Systems	573	71
+7	Angiogenesis	Organismal Systems	290	71
+8	B cell activation	Organismal Systems	122	39
+9	Blood coagulation	Organismal Systems	74	31
+10	Circadian clock system	Organismal Systems	32	9
+11	Enkephalin release	Organismal Systems	74	27
+12	Huntington disease	Organismal Systems	605	57
+13	Interferon-gamma signaling pathway	Organismal Systems	31	6
+14	Interleukin signaling pathway	Organismal Systems	822	39
+15	Ionotropic glutamate receptor pathway	Organismal Systems	48	19
+16	Metabotropic glutamate receptor group III pathway	Organismal Systems	120	19
+17	Metabotropic glutamate receptor group II pathway	Organismal Systems	68	19
+18	Metabotropic glutamate receptor group I pathway	Organismal Systems	98	18
+19	Muscarinic acetylcholine receptor 1 and 3 signaling pathway	Organismal Systems	60	17
+20	Muscarinic acetylcholine receptor 2 and 4 signaling pathway	Organismal Systems	60	17
+21	Parkinson disease	Organismal Systems	56	25
+22	PDGF signaling pathway	Organismal Systems	14	7
+23	Plasminogen activating cascade	Organismal Systems	34	12
+24	T cell activation	Organismal Systems	154	31
+25	Thyrotropin-releasing hormone receptor signaling pathway	Organismal Systems	186	21
+26	Toll receptor signaling pathway	Organismal Systems	37	22

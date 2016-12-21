@@ -1,0 +1,2 @@
+!Alpha: 0.900000!Shared Interactions vs Total Sequence Similarity: 0 0.000000
+!Global Score: 0.000000000000

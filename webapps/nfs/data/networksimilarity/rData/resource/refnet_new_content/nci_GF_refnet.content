@@ -1,0 +1,23 @@
+ID	Description	Category	Edge Count	Node Count
+1	ALK1 signaling events	Growth factor	148	25
+2	ALK2 signaling events	Growth factor	39	11
+3	Angiopoietin receptor Tie2-mediated signaling	Growth factor	154	48
+4	BMP receptor signaling	Growth factor	109	25
+5	ErbB1 downstream signaling	Growth factor	551	97
+6	ErbB2/ErbB3 signaling events	Growth factor	154	36
+7	ErbB4 signaling events	Growth factor	146	35
+8	ErbB receptor signaling network	Growth factor	73	15
+9	FGF signaling pathway	Growth factor	156	50
+10	Internalization of ErbB1	Growth factor	146	33
+11	PDGFR-alpha signaling pathway	Growth factor	40	21
+12	PDGFR-beta signaling pathway	Growth factor	741	105
+13	PDGF receptor signaling network	Growth factor	20	6
+14	Plexin-D1 Signaling	Growth factor	75	24
+15	Regulation of nuclear beta catenin signaling and target gene transcription	Growth factor	238	70
+16	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)	Growth factor	372	75
+17	Signaling events mediated by VEGFR1 and VEGFR2	Growth factor	267	65
+18	Signaling events regulated by Ret tyrosine kinase	Growth factor	213	39
+19	TGF-beta receptor signaling	Growth factor	361	48
+20	VEGF and VEGFR signaling network	Growth factor	44	10
+21	VEGFR1 specific signals	Growth factor	81	28
+22	VEGFR3 signaling in lymphatic endothelium	Growth factor	102	24

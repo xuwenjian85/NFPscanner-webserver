@@ -1,0 +1,23 @@
+id	nci_RS_refnet
+name	nci pathways - Ras superfamily
+network_sum	11
+description	Reference networks from nci database - Ras superfamily updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	A1P	Arf1 pathway	Ras superfamily	133
+2	A6DP	Arf6 downstream pathway	Ras superfamily	134
+3	A6SE	Arf6 signaling events	Ras superfamily	135
+4	A6TE	Arf6 trafficking events	Ras superfamily	136
+5	C42SE	CDC42 signaling events	Ras superfamily	137
+6	R1SP	RAC1 signaling pathway	Ras superfamily	138
+7	ROC42A	Regulation of CDC42 activity	Ras superfamily	139
+8	ROR1A	Regulation of RAC1 activity	Ras superfamily	140
+9	RORFA	Regulation of Ras family activation	Ras superfamily	141
+10	RORA	Regulation of RhoA activity	Ras superfamily	142
+11	RSP	RhoA signaling pathway	Ras superfamily	143

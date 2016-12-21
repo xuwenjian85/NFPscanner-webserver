@@ -1,0 +1,47 @@
+ID	Description	Category	Edge Count	Node Count
+1	endocytotic role of ndk phosphins and dynamin	Cellular Processes	90	13
+2	er associated degradation (erad) pathway	Cellular Processes	30	6
+3	granzyme a mediated apoptosis pathway	Cellular Processes	35	9
+4	influence of ras and rho proteins on g1 to s transition	Cellular Processes	50	24
+5	intrinsic prothrombin activation pathway	Cellular Processes	63	21
+6	ion channels and their functional role in vascular endothelium	Cellular Processes	17	10
+7	keratinocyte differentiation	Cellular Processes	121	38
+8	lck and fyn tyrosine kinases in initiation of tcr activation	Cellular Processes	112	13
+9	lectin induced complement pathway	Cellular Processes	36	9
+10	mcalpain and friends in cell motility	Cellular Processes	470	41
+11	mechanism of protein import into the nucleus	Cellular Processes	90	12
+12	mechanisms of transcriptional repression by dna methylation	Cellular Processes	72	10
+13	melanocyte development and pigmentation pathway	Cellular Processes	21	13
+14	mets affect on macrophage differentiation	Cellular Processes	52	14
+15	multi-step regulation of transcription by pitx2	Cellular Processes	87	25
+16	nuclear receptors coordinate the activities of chromatin remodeling complexes and coactivators to facilitate initiation of transcription in carcinoma cells	Cellular Processes	40	8
+17	overview of telomerase protein component gene htert transcriptional regulation	Cellular Processes	16	10
+18	overview of telomerase rna component gene hterc transcriptional regulation	Cellular Processes	16	7
+19	platelet amyloid precursor protein pathway	Cellular Processes	34	12
+20	proteasome complex	Cellular Processes	421	23
+21	protein kinase a at the centrosome	Cellular Processes	101	12
+22	pten dependent cell cycle arrest and apoptosis	Cellular Processes	33	15
+23	ras-independent pathway in nk cell-mediated cytotoxicity	Cellular Processes	62	18
+24	regulation of bad phosphorylation	Cellular Processes	86	22
+25	regulation of cell cycle progression by plk3	Cellular Processes	45	18
+26	regulation of ck1/cdk5 by type 1 glutamate receptors	Cellular Processes	73	23
+27	regulation of eif-4e and p70s6 kinase	Cellular Processes	51	21
+28	regulation of eif2	Cellular Processes	31	11
+29	regulation of p27 phosphorylation during cell cycle progression	Cellular Processes	58	13
+30	regulation of pgc-1a	Cellular Processes	15	10
+31	regulation of spermatogenesis by crem	Cellular Processes	31	10
+32	regulation of splicing through sam68	Cellular Processes	24	10
+33	regulation of transcriptional activity by pml	Cellular Processes	30	10
+34	rho-selective guanine exchange factor akap13 mediates stress fiber formation	Cellular Processes	37	8
+35	role of mef2d in t-cell apoptosis	Cellular Processes	152	26
+36	role of mitochondria in apoptotic signaling	Cellular Processes	42	10
+37	role of nicotinic acetylcholine receptors in the regulation of apoptosis	Cellular Processes	53	17
+38	role of pi3k subunit p85 in regulation of actin organization and cell migration	Cellular Processes	63	16
+39	role of ran in mitotic spindle regulation	Cellular Processes	39	11
+40	spliceosomal assembly	Cellular Processes	35	8
+41	sumoylation as a mechanism to modulate ctbp-dependent gene responses	Cellular Processes	23	8
+42	telomeres telomerase cellular aging and immortality	Cellular Processes	30	12
+43	tsp-1 induced apoptosis in microvascular endothelial cell	Cellular Processes	14	7
+44	tumor suppressor arf inhibits ribosomal biogenesis	Cellular Processes	40	23
+45	ucalpain and friends in cell spread	Cellular Processes	312	24
+46	y branching of actin filaments	Cellular Processes	95	15

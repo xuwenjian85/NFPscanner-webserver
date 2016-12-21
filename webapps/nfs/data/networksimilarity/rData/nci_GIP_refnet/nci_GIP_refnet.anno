@@ -1,0 +1,52 @@
+id	nci_GIP_refnet
+name	nci pathways - Genetic Information Processing
+network_sum	40
+description	Reference networks from nci database - Genetic Information Processing updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	A9B1ISE	Alpha9 beta1 integrin signaling events	Genetic Information Processing	22
+2	ANP	Alternative NF-kappaB pathway	Genetic Information Processing	23
+3	A1TFN	AP-1 transcription factor network	Genetic Information Processing	24
+4	A2TFN	ATF-2 transcription factor network	Genetic Information Processing	25
+5	AP	ATM pathway	Genetic Information Processing	26
+6	ASP	ATR signaling pathway	Genetic Information Processing	27
+7	ANP	Atypical NF-kappaB pathway	Genetic Information Processing	28
+8	AAS	Aurora A signaling	Genetic Information Processing	29
+9	ABS	Aurora B signaling	Genetic Information Processing	30
+10	ACS	Aurora C signaling	Genetic Information Processing	31
+11	B1SE	BARD1 signaling events	Genetic Information Processing	32
+12	CNP	Canonical NF-kappaB pathway	Genetic Information Processing	33
+13	CTFN	C-MYB transcription factor network	Genetic Information Processing	34
+14	CP	C-MYC pathway	Genetic Information Processing	35
+15	DP53E	Direct p53 effectors	Genetic Information Processing	36
+16	DPINEJ	DNA-PK pathway in nonhomologous end joining	Genetic Information Processing	37
+17	E2TFN	E2F transcription factor network	Genetic Information Processing	38
+18	FAP	Fanconi anemia pathway	Genetic Information Processing	39
+19	F1TFN	FOXA1 transcription factor network	Genetic Information Processing	40
+20	F2AF3TFN	FOXA2 and FOXA3 transcription factor networks	Genetic Information Processing	41
+21	F1TFN	FOXM1 transcription factor network	Genetic Information Processing	42
+22	FFS	FoxO family signaling	Genetic Information Processing	43
+23	IP	IFN-gamma pathway	Genetic Information Processing	44
+24	MSP	mTOR signaling pathway	Genetic Information Processing	45
+25	P53P	p53 pathway	Genetic Information Processing	46
+26	P73TFN	p73 transcription factor network	Genetic Information Processing	47
+27	P1TSE	PAR1-mediated thrombin signaling events	Genetic Information Processing	48
+28	P4TSE	PAR4-mediated thrombin signaling events	Genetic Information Processing	49
+29	P1SE	PLK1 signaling events	Genetic Information Processing	50
+30	RONS23S	Regulation of nuclear SMAD2/3 signaling	Genetic Information Processing	53
+31	RORP	Regulation of retinoblastoma protein	Genetic Information Processing	54
+32	SEMBHCI	Signaling events mediated by HDAC Class I	Genetic Information Processing	55
+33	SEMBHCI	Signaling events mediated by HDAC Class II	Genetic Information Processing	56
+34	SEMBHCI	Signaling events mediated by HDAC Class III	Genetic Information Processing	57
+35	SBR2RTR	Sumoylation by RanBP2 regulates transcriptional repression	Genetic Information Processing	58
+36	VTOCTA	Validated targets of C-MYC transcriptional activation	Genetic Information Processing	59
+37	VTOCTR	Validated targets of C-MYC transcriptional repression	Genetic Information Processing	60
+38	VTTOA1FMF1AF2	Validated transcriptional targets of AP1 family members Fra1 and Fra2	Genetic Information Processing	61
+39	VTTOD63I	Validated transcriptional targets of deltaNp63 isoforms	Genetic Information Processing	62
+40	VTTOT63I	Validated transcriptional targets of TAp63 isoforms	Genetic Information Processing	63

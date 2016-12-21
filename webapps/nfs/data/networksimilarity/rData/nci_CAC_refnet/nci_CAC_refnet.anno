@@ -1,0 +1,37 @@
+id	nci_CAC_refnet
+name	nci pathways - Cytokine and chemokine
+network_sum	25
+description	Reference networks from nci database - Cytokine and chemokine updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	C4040S	CD40/CD40L signaling	Cytokine and chemokine	48
+2	C3SE	CXCR3-mediated signaling events	Cytokine and chemokine	49
+3	C4SE	CXCR4-mediated signaling events	Cytokine and chemokine	50
+4	ESP	EPO signaling pathway	Cytokine and chemokine	51
+5	F(95SP	FAS (CD95) signaling pathway	Cytokine and chemokine	52
+6	GSE	GMCSF-mediated signaling events	Cytokine and chemokine	53
+7	H1NNEOFAT	HIV-1 Nef: Negative effector of Fas and TNF-alpha	Cytokine and chemokine	54
+8	IP	IFN-gamma pathway	Cytokine and chemokine	55
+9	I12SE	IL12-mediated signaling events	Cytokine and chemokine	56
+10	I12SMBS4	IL12 signaling mediated by STAT4	Cytokine and chemokine	57
+11	I1SE	IL1-mediated signaling events	Cytokine and chemokine	58
+12	I23SE	IL23-mediated signaling events	Cytokine and chemokine	59
+13	I27SE	IL27-mediated signaling events	Cytokine and chemokine	60
+14	I2SE	IL2-mediated signaling events	Cytokine and chemokine	61
+15	I2SEMBP3	IL2 signaling events mediated by PI3K	Cytokine and chemokine	62
+16	I2SEMBS5	IL2 signaling events mediated by STAT5	Cytokine and chemokine	63
+17	I3SE	IL3-mediated signaling events	Cytokine and chemokine	64
+18	I4SE	IL4-mediated signaling events	Cytokine and chemokine	65
+19	I5SE	IL5-mediated signaling events	Cytokine and chemokine	66
+20	I6SE	IL6-mediated signaling events	Cytokine and chemokine	67
+21	I8AC1SE	IL8- and CXCR1-mediated signaling events	Cytokine and chemokine	68
+22	I8AC2SE	IL8- and CXCR2-mediated signaling events	Cytokine and chemokine	69
+23	SEMBSCFR(	Signaling events mediated by Stem cell factor receptor (c-Kit)	Cytokine and chemokine	70
+24	TRSP	TNF receptor signaling pathway 	Cytokine and chemokine	71
+25	TSP	TRAIL signaling pathway	Cytokine and chemokine	72

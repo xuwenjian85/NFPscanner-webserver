@@ -1,0 +1,47 @@
+ID	Description	Category	Edge Count	Node Count
+1	1D-myo-inositol hexakisphosphate biosynthesis II (mammalian)	biosynthesis	47	15
+2	3-phosphoinositide biosynthesis	biosynthesis	111	27
+3	CDP-diacylglycerol biosynthesis I	biosynthesis	72	18
+4	choline biosynthesis III	biosynthesis	14	9
+5	D-myo-inositol (1,3,4)-trisphosphate biosynthesis	biosynthesis	52	15
+6	D-myo-inositol (1,4,5)-trisphosphate biosynthesis	biosynthesis	115	25
+7	dolichyl-diphosphooligosaccharide biosynthesis	biosynthesis	22	9
+8	gluconeogenesis	biosynthesis	21	16
+9	glycogenolysis	biosynthesis	18	9
+10	guanosine ribonucleotides de novo biosynthesis	biosynthesis	15	12
+11	inositol pyrophosphates biosynthesis	biosynthesis	25	6
+12	phosphatidylglycerol biosynthesis II (non-plastidic)	biosynthesis	74	19
+13	pyrimidine deoxyribonucleotides de novo biosynthesis II	biosynthesis	14	11
+14	stearate biosynthesis I (animals)	biosynthesis	14	9
+15	superpathway of cholesterol biosynthesis	biosynthesis	34	25
+16	superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	biosynthesis	20	12
+17	superpathway of pyrimidine ribonucleotides de novo biosynthesis	biosynthesis	38	13
+18	triacylglycerol biosynthesis	biosynthesis	160	27
+19	UTP and CTP de novo biosynthesis	biosynthesis	36	12
+20	¦Ã-glutamyl cycle	biosynthesis	33	11
+21	2-oxobutanoate degradation I	Degradation	22	6
+22	3-phosphoinositide degradation	Degradation	81	21
+23	adenosine nucleotides degradation II	Degradation	11	8
+24	chondroitin sulfate degradation (metazoa)	Degradation	19	6
+25	D-myo-inositol (1,4,5)-trisphosphate degradation	Degradation	12	13
+26	glycolysis	Degradation	34	20
+27	noradrenaline and adrenaline degradation	Degradation	24	11
+28	purine nucleotides degradation II (aerobic)	Degradation	22	12
+29	putrescine degradation III	Degradation	16	10
+30	triacylglycerol degradation	Degradation	30	13
+31	D-myo-inositol-5-phosphate metabolism	Modification	41	19
+32	fatty acid ¦Â-oxidation I	Modification	24	11
+33	fatty acid ¦Â-oxidation VI (peroxisome)	Modification	32	12
+34	glutathione-mediated detoxification I	Modification	78	23
+35	NAD salvage pathway II	Modification	29	10
+36	pentose phosphate pathway	Modification	24	10
+37	pentose phosphate pathway (non-oxidative branch)	Modification	19	6
+38	purine deoxyribonucleosides salvage	Modification	24	12
+39	pyrimidine deoxyribonucleotide phosphorylation	Modification	28	11
+40	sphingomyelin metabolism/ceramide salvage	Modification	30	8
+41	sphingosine and sphingosine-1-phosphate metabolism	Modification	16	8
+42	superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism	Modification	82	20
+43	superpathway of inositol phosphate compounds	Modification	400	68
+44	superpathway of pyrimidine deoxyribonucleoside salvage	Modification	47	17
+45	tryptophan utilization II	Modification	19	20
+46	BMP Signalling Pathway	Signal Transduction	12	6

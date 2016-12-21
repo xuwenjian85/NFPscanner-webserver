@@ -1,0 +1,12 @@
+ID	Description	Category	Edge Count	Node Count
+1	Alpha-synuclein signaling	Brain	50	30
+2	Circadian rhythm pathway	Brain	31	10
+3	Effects of Botulinum toxin	Brain	28	8
+4	Netrin-mediated signaling events	Brain	109	29
+5	Neurotrophic factor-mediated Trk receptor signaling	Brain	402	51
+6	p75(NTR)-mediated signaling	Brain	290	59
+7	Reelin signaling pathway	Brain	170	28
+8	Trk receptor signaling mediated by PI3K and PLC-gamma	Brain	92	25
+9	Trk receptor signaling mediated by the MAPK pathway	Brain	40	28
+10	Visual signal transduction: Cones	Brain	35	13
+11	Visual signal transduction: Rods	Brain	55	15

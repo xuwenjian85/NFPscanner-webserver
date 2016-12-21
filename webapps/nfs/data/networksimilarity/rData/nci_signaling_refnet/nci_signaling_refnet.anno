@@ -1,0 +1,193 @@
+id	nci_signaling_refnet
+name	NCI Signaling Pathways
+network_sum	181
+description	Reference networks from NCI Pathway Database - Signaling pathways, updated by 2015/10/26
+create_time	2015/10/1
+create_user	system
+update_time	2015/10/28
+update_user	system
+public	TRUE
+organism	Homo sapiens
+
+net	name	description	category	rank
+1	A47IS	a4b7 Integrin signaling	Cell adhesion	1
+2	A61AA64IS	a6b1 and a6b4 Integrin signaling	Cell adhesion	2
+3	A4B1ISE	Alpha4 beta1 integrin signaling events	Cell adhesion	3
+4	A6B4II	Alpha6 beta4 integrin-ligand interactions	Cell adhesion	4
+5	A9B1ISE	Alpha9 beta1 integrin signaling events	Cell adhesion	5
+6	AB7ICSI	AlphaE beta7 integrin cell surface interactions	Cell adhesion	6
+7	A2IS	amb2 Integrin signaling	Cell adhesion	7
+8	B1ICSI	Beta1 integrin cell surface interactions	Cell adhesion	8
+9	B2ICSI	Beta2 integrin cell surface interactions	Cell adhesion	9
+10	B3ICSI	Beta3 integrin cell surface interactions	Cell adhesion	10
+11	B5B6B7AB8ICSI	Beta5 beta6 beta7 and beta8 integrin cell surface interactions	Cell adhesion	11
+12	DOBC	Degradation of beta catenin	Cell adhesion	12
+13	ESE	E-cadherin signaling events	Cell adhesion	13
+14	ESIK	E-cadherin signaling in keratinocytes	Cell adhesion	14
+15	ESITNAJ	E-cadherin signaling in the nascent adherens junction	Cell adhesion	15
+16	E2FS	EPHA2 forward signaling	Cell adhesion	16
+17	EFS	EPHA forward signaling	Cell adhesion	17
+18	EFS	EPHB forward signaling	Cell adhesion	18
+19	EA	Ephrin A  reverse signaling	Cell adhesion	19
+20	EBRS	Ephrin B reverse signaling	Cell adhesion	20
+21	IFCSI	Integrin family cell surface interactions	Cell adhesion	21
+22	IKS	Integrin-linked kinase signaling	Cell adhesion	22
+23	IIA	Integrins in angiogenesis	Cell adhesion	23
+24	NSE	N-cadherin signaling events	Cell adhesion	24
+25	NAP	Nectin adhesion pathway	Cell adhesion	25
+26	N1SITKP	Nephrin/Neph1 signaling in the kidney podocyte	Cell adhesion	26
+27	NHN	Notch-mediated HES/HEY network	Cell adhesion	27
+28	NSP	Notch signaling pathway	Cell adhesion	28
+29	OE	Osteopontin-mediated events	Cell adhesion	29
+30	PROAJSAD	Posttranslational regulation of adherens junction stability and dissassembly	Cell adhesion	30
+31	SEMBFAK	Signaling events mediated by focal adhesion kinase	Cell adhesion	31
+32	SAEOTEAJ	Stabilization and expansion of the E-cadherin adherens junction	Cell adhesion	32
+33	UPA(AUS	Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling	Cell adhesion	33
+34	C4040S	CD40/CD40L signaling	Cytokine and chemokine	34
+35	C3SE	CXCR3-mediated signaling events	Cytokine and chemokine	35
+36	C4SE	CXCR4-mediated signaling events	Cytokine and chemokine	36
+37	ESP	EPO signaling pathway	Cytokine and chemokine	37
+38	F(95SP	FAS (CD95) signaling pathway	Cytokine and chemokine	38
+39	GSE	GMCSF-mediated signaling events	Cytokine and chemokine	39
+40	H1NNEOFAT	HIV-1 Nef: Negative effector of Fas and TNF-alpha	Cytokine and chemokine	40
+41	IP	IFN-gamma pathway	Cytokine and chemokine	41
+42	I12SE	IL12-mediated signaling events	Cytokine and chemokine	42
+43	I12SMBS4	IL12 signaling mediated by STAT4	Cytokine and chemokine	43
+44	I1SE	IL1-mediated signaling events	Cytokine and chemokine	44
+45	I23SE	IL23-mediated signaling events	Cytokine and chemokine	45
+46	I27SE	IL27-mediated signaling events	Cytokine and chemokine	46
+47	I2SE	IL2-mediated signaling events	Cytokine and chemokine	47
+48	I2SEMBP3	IL2 signaling events mediated by PI3K	Cytokine and chemokine	48
+49	I2SEMBS5	IL2 signaling events mediated by STAT5	Cytokine and chemokine	49
+50	I3SE	IL3-mediated signaling events	Cytokine and chemokine	50
+51	I4SE	IL4-mediated signaling events	Cytokine and chemokine	51
+52	I5SE	IL5-mediated signaling events	Cytokine and chemokine	52
+53	I6SE	IL6-mediated signaling events	Cytokine and chemokine	53
+54	I8AC1SE	IL8- and CXCR1-mediated signaling events	Cytokine and chemokine	54
+55	I8AC2SE	IL8- and CXCR2-mediated signaling events	Cytokine and chemokine	55
+56	SEMBSCFR(	Signaling events mediated by Stem cell factor receptor (c-Kit)	Cytokine and chemokine	56
+57	TRSP	TNF receptor signaling pathway 	Cytokine and chemokine	57
+58	TSP	TRAIL signaling pathway	Cytokine and chemokine	58
+59	G11N	Glypican 1 network	Glycoconjugated protein signaling pathway	59
+60	G22N	Glypican 2 network	Glycoconjugated protein signaling pathway	60
+61	G33N	Glypican 3 network	Glycoconjugated protein signaling pathway	61
+62	A1P	ALK1 pathway	Growth factor	62
+63	A1SE	ALK1 signaling events	Growth factor	63
+64	A2SE	ALK2 signaling events	Growth factor	64
+65	ART2S	Angiopoietin receptor Tie2-mediated signaling	Growth factor	65
+66	BRS	BMP receptor signaling	Growth factor	66
+67	E1DS	ErbB1 downstream signaling	Growth factor	67
+68	E23SE	ErbB2/ErbB3 signaling events	Growth factor	68
+69	E4SE	ErbB4 signaling events	Growth factor	69
+70	ERSN	ErbB receptor signaling network	Growth factor	70
+71	FSP	FGF signaling pathway	Growth factor	71
+72	IOE1	Internalization of ErbB1	Growth factor	72
+73	PSP	PDGFR-alpha signaling pathway	Growth factor	73
+74	PSP	PDGFR-beta signaling pathway	Growth factor	74
+75	PRSN	PDGF receptor signaling network	Growth factor	75
+76	P1S	Plexin-D1 Signaling	Growth factor	76
+77	RONBCSATGT	Regulation of nuclear beta catenin signaling and target gene transcription	Growth factor	77
+78	SEMBHGFR(	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)	Growth factor	78
+79	SEMBV1AV2	Signaling events mediated by VEGFR1 and VEGFR2	Growth factor	79
+80	SERBRTK	Signaling events regulated by Ret tyrosine kinase	Growth factor	80
+81	TRS	TGF-beta receptor signaling	Growth factor	81
+82	VAVSN	VEGF and VEGFR signaling network	Growth factor	82
+83	V1SS	VEGFR1 specific signals	Growth factor	83
+84	V3SILE	VEGFR3 signaling in lymphatic endothelium	Growth factor	84
+85	COARA	Coregulation of Androgen receptor activity	Hormone	85
+86	EESE	EGFR-dependent Endothelin signaling events	Hormone	86
+87	E	Endothelins	Hormone	87
+88	GRRN	Glucocorticoid receptor regulatory network	Hormone	88
+89	I1P	IGF1 pathway	Hormone	89
+90	IGT	Insulin-mediated glucose transport	Hormone	90
+91	IP	Insulin Pathway	Hormone	91
+92	L4SE	LPA4-mediated signaling events	Hormone	92
+93	LRME	LPA receptor mediated events	Hormone	93
+94	NAS	Nongenotropic Androgen signaling	Hormone	94
+95	PMERS	Plasma membrane estrogen receptor signaling	Hormone	95
+96	RGS	Rapid glucocorticoid signaling	Hormone	96
+97	ROARA	Regulation of Androgen receptor activity	Hormone	97
+98	RARS	Retinoic acid receptors-mediated signaling	Hormone	98
+99	RARHWONR	RXR and RAR heterodimerization with other nuclear receptor	Hormone	99
+100	TA2RS	Thromboxane A2 receptor signaling	Hormone	100
+101	VNERAN	Validated nuclear estrogen receptor alpha network	Hormone	101
+102	VNERBN	Validated nuclear estrogen receptor beta network	Hormone	102
+103	P38MSP	p38 MAPK signaling pathway	Mitogen activated protein kinase	103
+104	P38SMBMK	p38 signaling mediated by MAPKAP kinases	Mitogen activated protein kinase	104
+105	ROP38AP38	Regulation of p38-alpha and p38-beta	Mitogen activated protein kinase	105
+106	SMBP38AP38	Signaling mediated by p38-alpha and p38-beta	Mitogen activated protein kinase	106
+107	SMBP38AP38	Signaling mediated by p38-gamma and p38-delta	Mitogen activated protein kinase	107
+108	MSP	mTOR signaling pathway	mTOR signaling pathway	108
+109	CNTIL	Calcineurin-regulated NFAT-dependent transcription in lymphocytes	Phosphatase	109
+110	ROCNSIL	Role of Calcineurin-dependent NFAT signaling in lymphocytes	Phosphatase	110
+111	S2S	SHP2 signaling	Phosphatase	111
+112	SEMBP	Signaling events mediated by PRL	Phosphatase	112
+113	SEMBP1	Signaling events mediated by PTP1B	Phosphatase	113
+114	SEMBT	Signaling events mediated by TCPTP	Phosphatase	114
+115	A1P	Arf1 pathway	Ras superfamily	115
+116	A6DP	Arf6 downstream pathway	Ras superfamily	116
+117	A6SE	Arf6 signaling events	Ras superfamily	117
+118	A6TE	Arf6 trafficking events	Ras superfamily	118
+119	C42SE	CDC42 signaling events	Ras superfamily	119
+120	R1SP	RAC1 signaling pathway	Ras superfamily	120
+121	ROC42A	Regulation of CDC42 activity	Ras superfamily	121
+122	ROR1A	Regulation of RAC1 activity	Ras superfamily	122
+123	RORFA	Regulation of Ras family activation	Ras superfamily	123
+124	RORA	Regulation of RhoA activity	Ras superfamily	124
+125	RSP	RhoA signaling pathway	Ras superfamily	125
+126	CSP	Ceramide signaling pathway	Second messengers	126
+127	CIP3NKE	Class IB PI3K non-lipid kinase events	Second messengers	127
+128	CIP3SE	Class I PI3K signaling events	Second messengers	128
+129	CIP3SEMBA	Class I PI3K signaling events mediated by Akt	Second messengers	129
+130	L1SE	LKB1 signaling events	Second messengers	130
+131	S11P	S1P1 pathway	Second messengers	131
+132	S12P	S1P2 pathway	Second messengers	132
+133	S13P	S1P3 pathway	Second messengers	133
+134	S14P	S1P4 pathway	Second messengers	134
+135	S15P	S1P5 pathway	Second messengers	135
+136	S11(1P	Sphingosine 1-phosphate (S1P) pathway	Second messengers	136
+137	CWSP	Canonical Wnt signaling pathway	Development	137
+138	HSEMBGP	Hedgehog signaling events mediated by Gli proteins	Development	138
+139	LG(1INMAD	Lissencephaly gene (LIS1) in neuronal migration and development	Development	139
+140	NWSP	Noncanonical Wnt signaling pathway	Development	140
+141	PAINAWS	Presenilin action in Notch and Wnt signaling	Development	141
+142	SEMBTHF	Signaling events mediated by the Hedgehog family	Development	142
+143	WSN	Wnt signaling network	Development	143
+144	AS	Alpha-synuclein signaling	Brain	144
+145	CRP	Circadian rhythm pathway	Brain	145
+146	EOBT	Effects of Botulinum toxin	Brain	146
+147	NSE	Netrin-mediated signaling events	Brain	147
+148	NFTRS	Neurotrophic factor-mediated Trk receptor signaling	Brain	148
+149	P75S	p75(NTR)-mediated signaling	Brain	149
+150	RSP	Reelin signaling pathway	Brain	150
+151	TRSMBP3AP	Trk receptor signaling mediated by PI3K and PLC-gamma	Brain	151
+152	TRSMBTMP	Trk receptor signaling mediated by the MAPK pathway	Brain	152
+153	VSTC	Visual signal transduction: Cones	Brain	153
+154	VSTR	Visual signal transduction: Rods	Brain	154
+155	ANP	Alternative NF-kappaB pathway	Transcription factor	155
+156	A1TFN	AP-1 transcription factor network	Transcription factor	156
+157	A2TFN	ATF-2 transcription factor network	Transcription factor	157
+158	ANP	Atypical NF-kappaB pathway	Transcription factor	158
+159	CNP	Canonical NF-kappaB pathway	Transcription factor	159
+160	CTFN	C-MYB transcription factor network	Transcription factor	160
+161	CP	C-MYC pathway	Transcription factor	161
+162	DP53E	Direct p53 effectors	Transcription factor	162
+163	E2TFN	E2F transcription factor network	Transcription factor	163
+164	ETS	Endogenous TLR signaling	Transcription factor	164
+165	F1TFN	FOXA1 transcription factor network	Transcription factor	165
+166	F2AF3TFN	FOXA2 and FOXA3 transcription factor networks	Transcription factor	166
+167	F1TFN	FOXM1 transcription factor network	Transcription factor	167
+168	FFS	FoxO family signaling	Transcription factor	168
+169	H1TFN	HIF-1-alpha transcription factor network	Transcription factor	169
+170	H2TFN	HIF-2-alpha transcription factor network	Transcription factor	170
+171	HAOHROH1	Hypoxic and oxygen homeostasis regulation of HIF-1-alpha	Transcription factor	171
+172	P53P	p53 pathway	Transcription factor	172
+173	ROCANS23S	Regulation of cytoplasmic and nuclear SMAD2/3 signaling	Transcription factor	173
+174	RONS23S	Regulation of nuclear SMAD2/3 signaling	Transcription factor	174
+175	S1SE	Syndecan-1-mediated signaling events	Transcription factor	175
+176	S2SE	Syndecan-2-mediated signaling events	Transcription factor	176
+177	S3SE	Syndecan-3-mediated signaling events	Transcription factor	177
+178	S4SE	Syndecan-4-mediated signaling events	Transcription factor	178
+179	VTOCTA	Validated targets of C-MYC transcriptional activation	Transcription factor	179
+180	VTOCTR	Validated targets of C-MYC transcriptional repression	Transcription factor	180
+181	VTTOA1FMF1AF2	Validated transcriptional targets of AP1 family members Fra1 and Fra2	Transcription factor	181

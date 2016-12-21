@@ -1,0 +1,26 @@
+ID	Description	Category	Edge Count	Node Count
+1	CD40/CD40L signaling	Cytokine and chemokine	213	34
+2	CXCR3-mediated signaling events	Cytokine and chemokine	107	31
+3	CXCR4-mediated signaling events	Cytokine and chemokine	372	66
+4	EPO signaling pathway	Cytokine and chemokine	139	31
+5	FAS (CD95) signaling pathway	Cytokine and chemokine	132	33
+6	GMCSF-mediated signaling events	Cytokine and chemokine	192	34
+7	HIV-1 Nef: Negative effector of Fas and TNF-alpha	Cytokine and chemokine	213	33
+8	IFN-gamma pathway	Cytokine and chemokine	122	34
+9	IL12-mediated signaling events	Cytokine and chemokine	409	60
+10	IL12 signaling mediated by STAT4	Cytokine and chemokine	82	27
+11	IL1-mediated signaling events	Cytokine and chemokine	249	34
+12	IL23-mediated signaling events	Cytokine and chemokine	237	37
+13	IL27-mediated signaling events	Cytokine and chemokine	140	26
+14	IL2-mediated signaling events	Cytokine and chemokine	505	45
+15	IL2 signaling events mediated by PI3K	Cytokine and chemokine	317	37
+16	IL2 signaling events mediated by STAT5	Cytokine and chemokine	224	30
+17	IL3-mediated signaling events	Cytokine and chemokine	148	27
+18	IL4-mediated signaling events	Cytokine and chemokine	253	60
+19	IL5-mediated signaling events	Cytokine and chemokine	70	14
+20	IL6-mediated signaling events	Cytokine and chemokine	247	47
+21	IL8- and CXCR1-mediated signaling events	Cytokine and chemokine	71	20
+22	IL8- and CXCR2-mediated signaling events	Cytokine and chemokine	101	27
+23	Signaling events mediated by Stem cell factor receptor (c-Kit)	Cytokine and chemokine	133	51
+24	TNF receptor signaling pathway 	Cytokine and chemokine	251	36
+25	TRAIL signaling pathway	Cytokine and chemokine	110	25

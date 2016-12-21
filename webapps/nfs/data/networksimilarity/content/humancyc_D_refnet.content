@@ -1,0 +1,11 @@
+ID	Description	Category	Edge Count	Node Count
+1	2-oxobutanoate degradation I	Degradation	22	6
+2	3-phosphoinositide degradation	Degradation	81	21
+3	adenosine nucleotides degradation II	Degradation	11	8
+4	chondroitin sulfate degradation (metazoa)	Degradation	19	6
+5	D-myo-inositol (1,4,5)-trisphosphate degradation	Degradation	12	13
+6	glycolysis	Degradation	34	20
+7	noradrenaline and adrenaline degradation	Degradation	24	11
+8	purine nucleotides degradation II (aerobic)	Degradation	22	12
+9	putrescine degradation III	Degradation	16	10
+10	triacylglycerol degradation	Degradation	30	13

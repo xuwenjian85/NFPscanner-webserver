@@ -1,0 +1,19 @@
+id	nci_D_refnet
+name	nci pathways - Development
+network_sum	7
+description	Reference networks from nci database - Development updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	CWSP	Canonical Wnt signaling pathway	Development	73
+2	HSEMBGP	Hedgehog signaling events mediated by Gli proteins	Development	74
+3	LG(1INMAD	Lissencephaly gene (LIS1) in neuronal migration and development	Development	75
+4	NWSP	Noncanonical Wnt signaling pathway	Development	76
+5	PAINAWS	Presenilin action in Notch and Wnt signaling	Development	77
+6	SEMBTHF	Signaling events mediated by the Hedgehog family	Development	78
+7	WSN	Wnt signaling network	Development	79

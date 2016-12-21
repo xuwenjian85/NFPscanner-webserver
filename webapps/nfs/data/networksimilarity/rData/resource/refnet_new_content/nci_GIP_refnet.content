@@ -1,0 +1,41 @@
+ID	Description	Category	Edge Count	Node Count
+1	Alpha9 beta1 integrin signaling events	Genetic Information Processing	94	25
+2	Alternative NF-kappaB pathway	Genetic Information Processing	11	6
+3	AP-1 transcription factor network	Genetic Information Processing	187	70
+4	ATF-2 transcription factor network	Genetic Information Processing	114	59
+5	ATM pathway	Genetic Information Processing	223	34
+6	ATR signaling pathway	Genetic Information Processing	461	37
+7	Atypical NF-kappaB pathway	Genetic Information Processing	39	14
+8	Aurora A signaling	Genetic Information Processing	63	30
+9	Aurora B signaling	Genetic Information Processing	172	41
+10	Aurora C signaling	Genetic Information Processing	12	5
+11	BARD1 signaling events	Genetic Information Processing	173	28
+12	Canonical NF-kappaB pathway	Genetic Information Processing	86	23
+13	C-MYB transcription factor network	Genetic Information Processing	134	78
+14	C-MYC pathway	Genetic Information Processing	164	25
+15	Direct p53 effectors	Genetic Information Processing	182	129
+16	DNA-PK pathway in nonhomologous end joining	Genetic Information Processing	124	13
+17	E2F transcription factor network	Genetic Information Processing	155	63
+18	Fanconi anemia pathway	Genetic Information Processing	854	46
+19	FOXA1 transcription factor network	Genetic Information Processing	54	34
+20	FOXA2 and FOXA3 transcription factor networks	Genetic Information Processing	39	35
+21	FOXM1 transcription factor network	Genetic Information Processing	58	38
+22	FoxO family signaling	Genetic Information Processing	62	32
+23	IFN-gamma pathway	Genetic Information Processing	122	34
+24	mTOR signaling pathway	Genetic Information Processing	227	44
+25	p53 pathway	Genetic Information Processing	102	47
+26	p73 transcription factor network	Genetic Information Processing	101	77
+27	PAR1-mediated thrombin signaling events	Genetic Information Processing	73	26
+28	PAR4-mediated thrombin signaling events	Genetic Information Processing	17	8
+29	PLK1 signaling events	Genetic Information Processing	110	44
+30	Regulation of nuclear SMAD2/3 signaling	Genetic Information Processing	427	70
+31	Regulation of retinoblastoma protein	Genetic Information Processing	134	51
+32	Signaling events mediated by HDAC Class I	Genetic Information Processing	386	51
+33	Signaling events mediated by HDAC Class II	Genetic Information Processing	105	32
+34	Signaling events mediated by HDAC Class III	Genetic Information Processing	64	37
+35	Sumoylation by RanBP2 regulates transcriptional repression	Genetic Information Processing	54	11
+36	Validated targets of C-MYC transcriptional activation	Genetic Information Processing	310	79
+37	Validated targets of C-MYC transcriptional repression	Genetic Information Processing	197	64
+38	Validated transcriptional targets of AP1 family members Fra1 and Fra2	Genetic Information Processing	113	37
+39	Validated transcriptional targets of deltaNp63 isoforms	Genetic Information Processing	53	47
+40	Validated transcriptional targets of TAp63 isoforms	Genetic Information Processing	65	54

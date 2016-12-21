@@ -1,0 +1,34 @@
+id	reactome_GIP_refnet
+name	Reactome pathways - Genetic Information Processing
+network_sum	22
+description	Reference networks from Reactome database - Genetic Information Processing updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	R-HSA-5696398	Nucleotide Excision Repair	Genetic Information Processing	47
+2	R-HSA-73884	Base Excision Repair	Genetic Information Processing	49
+3	R-HSA-69239	Synthesis of DNA	Genetic Information Processing	53
+4	R-HSA-69304	Regulation of DNA replication	Genetic Information Processing	54
+5	R-HSA-68874	M/G1 Transition	Genetic Information Processing	52
+6	R-HSA-379724	tRNA Aminoacylation	Genetic Information Processing	59
+7	R-HSA-72766	Translation	Genetic Information Processing	67
+8	R-HSA-504046	RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription	Genetic Information Processing	63
+9	R-HSA-73857	RNA Polymerase II Transcription	Genetic Information Processing	68
+10	R-HSA-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	Genetic Information Processing	62
+11	R-HSA-75067	Processing of Capped Intronless Pre-mRNA	Genetic Information Processing	69
+12	R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	Genetic Information Processing	65
+13	R-HSA-927802	Nonsense-Mediated Decay (NMD)	Genetic Information Processing	71
+14	R-HSA-72086	mRNA Capping	Genetic Information Processing	64
+15	R-HSA-212436	Generic Transcription Pathway	Genetic Information Processing	58
+16	R-HSA-212165	Epigenetic regulation of gene expression	Genetic Information Processing	57
+17	R-HSA-429914	Deadenylation-dependent mRNA decay	Genetic Information Processing	61
+18	R-HSA-381119	Unfolded Protein Response (UPR)	Genetic Information Processing	74
+19	R-HSA-391251	Protein folding	Genetic Information Processing	76
+20	R-HSA-597592	Post-translational protein modification	Genetic Information Processing	78
+21	R-HSA-2980736	Peptide hormone metabolism	Genetic Information Processing	73
+22	R-HSA-1268020	Mitochondrial protein import	Genetic Information Processing	72

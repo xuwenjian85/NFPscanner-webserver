@@ -1,0 +1,72 @@
+id	nci_regulatory_refnet60
+name	nci regulatory pathways - All
+network_sum	60
+description	Reference networks from nci regulatory Database, updated by 2015/11/05
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/05
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	ROT	Regulation of Telomerase	Cellular Processes	1
+2	CCIA	Caspase Cascade in Apoptosis	Cellular Processes	2
+3	F(95SP	FAS (CD95) signaling pathway	Cellular Processes	3
+4	P75S	p75(NTR)-mediated signaling	Cellular Processes	4
+5	TRSP	TNF receptor signaling pathway 	Cellular Processes	5
+6	TSP	TRAIL signaling pathway	Cellular Processes	6
+7	H1TFN	HIF-1-alpha transcription factor network	Cellular Processes	7
+8	H2TFN	HIF-2-alpha transcription factor network	Cellular Processes	8
+9	HAOHROH1	Hypoxic and oxygen homeostasis regulation of HIF-1-alpha	Cellular Processes	9
+10	BSP	BCR signaling pathway	Immune response	10
+11	CNTIL	Calcineurin-regulated NFAT-dependent transcription in lymphocytes	Immune response	11
+12	CSITC4TP	Calcium signaling in the CD4+ TCR pathway	Immune response	12
+13	DSIN00C8TC	Downstream signaling in naïve CD8+ T cells	Immune response	14
+14	ETS	Endogenous TLR signaling	Immune response	15
+15	FRISIMC	Fc-epsilon receptor I signaling in mast cells	Immune response	16
+16	JSITC4TP	JNK signaling in the CD4+ TCR pathway	Immune response	17
+17	RSITC4TP	Ras signaling in the CD4+ TCR pathway	Immune response	18
+18	ROCNSIL	Role of Calcineurin-dependent NFAT signaling in lymphocytes	Immune response	19
+19	TSIN00C4TC	TCR signaling in naïve CD4+ T cells	Immune response	20
+20	TSIN00C8TC	TCR signaling in naïve CD8+ T cells	Immune response	21
+21	A9B1ISE	Alpha9 beta1 integrin signaling events	Genetic Information Processing	22
+22	ANP	Alternative NF-kappaB pathway	Genetic Information Processing	23
+23	A1TFN	AP-1 transcription factor network	Genetic Information Processing	24
+24	A2TFN	ATF-2 transcription factor network	Genetic Information Processing	25
+25	AP	ATM pathway	Genetic Information Processing	26
+26	ASP	ATR signaling pathway	Genetic Information Processing	27
+27	ANP	Atypical NF-kappaB pathway	Genetic Information Processing	28
+28	AAS	Aurora A signaling	Genetic Information Processing	29
+29	ABS	Aurora B signaling	Genetic Information Processing	30
+30	ACS	Aurora C signaling	Genetic Information Processing	31
+31	B1SE	BARD1 signaling events	Genetic Information Processing	32
+32	CNP	Canonical NF-kappaB pathway	Genetic Information Processing	33
+33	CTFN	C-MYB transcription factor network	Genetic Information Processing	34
+34	CP	C-MYC pathway	Genetic Information Processing	35
+35	DP53E	Direct p53 effectors	Genetic Information Processing	36
+36	DPINEJ	DNA-PK pathway in nonhomologous end joining	Genetic Information Processing	37
+37	E2TFN	E2F transcription factor network	Genetic Information Processing	38
+38	FAP	Fanconi anemia pathway	Genetic Information Processing	39
+39	F1TFN	FOXA1 transcription factor network	Genetic Information Processing	40
+40	F2AF3TFN	FOXA2 and FOXA3 transcription factor networks	Genetic Information Processing	41
+41	F1TFN	FOXM1 transcription factor network	Genetic Information Processing	42
+42	FFS	FoxO family signaling	Genetic Information Processing	43
+43	IP	IFN-gamma pathway	Genetic Information Processing	44
+44	MSP	mTOR signaling pathway	Genetic Information Processing	45
+45	P53P	p53 pathway	Genetic Information Processing	46
+46	P73TFN	p73 transcription factor network	Genetic Information Processing	47
+47	P1TSE	PAR1-mediated thrombin signaling events	Genetic Information Processing	48
+48	P4TSE	PAR4-mediated thrombin signaling events	Genetic Information Processing	49
+49	P1SE	PLK1 signaling events	Genetic Information Processing	50
+50	RONS23S	Regulation of nuclear SMAD2/3 signaling	Genetic Information Processing	53
+51	RORP	Regulation of retinoblastoma protein	Genetic Information Processing	54
+52	SEMBHCI	Signaling events mediated by HDAC Class I	Genetic Information Processing	55
+53	SEMBHCI	Signaling events mediated by HDAC Class II	Genetic Information Processing	56
+54	SEMBHCI	Signaling events mediated by HDAC Class III	Genetic Information Processing	57
+55	SBR2RTR	Sumoylation by RanBP2 regulates transcriptional repression	Genetic Information Processing	58
+56	VTOCTA	Validated targets of C-MYC transcriptional activation	Genetic Information Processing	59
+57	VTOCTR	Validated targets of C-MYC transcriptional repression	Genetic Information Processing	60
+58	VTTOA1FMF1AF2	Validated transcriptional targets of AP1 family members Fra1 and Fra2	Genetic Information Processing	61
+59	VTTOD63I	Validated transcriptional targets of deltaNp63 isoforms	Genetic Information Processing	62
+60	VTTOT63I	Validated transcriptional targets of TAp63 isoforms	Genetic Information Processing	63

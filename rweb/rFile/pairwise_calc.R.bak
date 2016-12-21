@@ -1,0 +1,79 @@
+argv <- commandArgs(TRUE);
+s=c('stringr','plyr','KEGGgraph','igraph','apcluster','ggplot2','dplyr','magrittr')
+lapply(s,library,character.only = TRUE)
+# install these packages, if not, install by command like this: install.packages("stringr")
+
+setwd(argv[1])
+
+mock_calc_net_finger_print <- function(net,refnet,option = data.frame)
+  # dataframe as option
+  
+  {  if (class(net) != 'igraph')
+    stop("Please ensure your network is in graphNEL class")
+  if (class(refnet) == 'list'){
+    # calc netfingerprint and each cluster information
+    print("Do some work here")
+    print("some intermediate data will be kept for later visualization use")
+  }
+  netfingerprint <- rnorm(length(refnet),mean = 1,sd=2)
+     # 可以绘制指纹图
+  netnode_cluster_index <- rep(1:10,len =length(V(net)))
+     # 表示net某个点属于某个cluster，形状或颜色
+  refnetnode_cluster_index <- llply(refnet,function(x) rep(1:10,len =length(V(x))))
+     # 表示refnet某个点属于某个cluster，形状或颜色
+  score_of_cluster <- rnorm(10,mean = 1,sd=2)
+     # 表示cluster得分，显示在cluster之间的横线上
+  result <- list(netfingerprint=netfingerprint
+                 ,netnode_cluster_index=netnode_cluster_index
+                 ,refnetnode_cluster_index=refnetnode_cluster_index
+                 ,score_of_cluster=score_of_cluster)
+  print("return netfinger print and each node's cluster information")
+  return(result)# 返回所有结果的列表
+}
+
+# for visualization of cluster on webserver
+mock_retrieve_cluster_score <- function(net,refnet,option =data.frame)
+{
+  #net must be igraph class. and refnet must be a list
+  #Use this function for cluster visualization
+  node_score_in_net <- rnorm(length(V(net)),mean = 1,sd=2)
+    #cluster的比对视图中，需要按照这个分数对其中的点排序，选前五个显示，其余隐藏，等待用户点扩展按钮
+  node_score_in_refnet <- llply(refnet,function(x)rnorm(length(V(x)),mean = 1,sd=2))
+    #cluster对比视图，点排序，前五个，其余隐藏
+  result <- list(node_score_in_net = node_score_in_net,
+                 node_score_in_refnet = node_score_in_refnet)
+  return (result)
+}
+
+# 两两网络比较：两个网络的输入文件分别是net1.graphml和net2.graphml
+# 读入net1网络
+net1<-read.graph("net1.graphml", format = c("graphml"))
+# net1网络属性
+v<-length(V(net1))  #节点数为29
+e<-length(E(net1))  #边数为0
+d<-graph.density(net1) # 网络密度为0，Density (No of edges / possible edges)
+t<-transitivity(net1, type="global") # 聚类系数为NaN，Global clustering coefficient
+net1.info <- list(v,e,d,t)
+if (file.exists("net1.info")) file.remove("net1.info")
+lapply(net1.info, write, "net1.info", append=TRUE)
+# net1缩略图展示
+jpeg(filename = "net1.jpg")
+plot <- plot(net1, layout=layout.fruchterman.reingold, vertex.label=NA, vertex.size=8, edge.arrow.size=0.2)
+print(plot)
+dev.off()
+# 读入net2网络
+net2<-read.graph("net2.graphml", format = c("graphml"))
+# net2网络属性
+v <- length(V(net2))  #节点数为155
+e <- length(E(net2))  #边数为868
+d <- graph.density(net2) # 网络密度为0.03636364，Density (No of edges / possible edges)
+t <- transitivity(net2, type="global") # 聚类系数为0.1968713，Global clustering coefficient
+net2.info <- list(v,e,d,t)
+if (file.exists("net2.info")) file.remove("net2.info")
+lapply(net2.info, write, "net2.info", append=TRUE)
+# net2缩略图展示
+jpeg(filename = "net2.jpg")
+plot <- plot(net2, layout=layout.fruchterman.reingold, vertex.label=NA, vertex.size=8, edge.arrow.size=0.2)
+print(plot)
+dev.off()
+net2list<-list(net2) #将net2转换为列表

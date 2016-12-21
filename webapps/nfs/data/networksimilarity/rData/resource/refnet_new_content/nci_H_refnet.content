@@ -1,0 +1,17 @@
+ID	Description	Category	Edge Count	Node Count
+1	Coregulation of Androgen receptor activity	Hormone	94	61
+2	EGFR-dependent Endothelin signaling events	Hormone	39	9
+3	Endothelins	Hormone	113	34
+4	Glucocorticoid receptor regulatory network	Hormone	181	77
+5	IGF1 pathway	Hormone	143	30
+6	Insulin-mediated glucose transport	Hormone	61	20
+7	Insulin Pathway	Hormone	240	43
+8	LPA receptor mediated events	Hormone	133	43
+9	Nongenotropic Androgen signaling	Hormone	53	20
+10	Plasma membrane estrogen receptor signaling	Hormone	101	25
+11	Regulation of Androgen receptor activity	Hormone	79	46
+12	Retinoic acid receptors-mediated signaling	Hormone	48	24
+13	RXR and RAR heterodimerization with other nuclear receptor	Hormone	12	11
+14	Thromboxane A2 receptor signaling	Hormone	107	38
+15	Validated nuclear estrogen receptor alpha network	Hormone	160	64
+16	Validated nuclear estrogen receptor beta network	Hormone	46	15

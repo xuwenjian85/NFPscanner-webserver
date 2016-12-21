@@ -1,0 +1,24 @@
+ID	Description	Category	Edge Count	Node Count
+1	Meiosis	Cellular Processes	6449	116
+2	Chromosome Maintenance	Cellular Processes	4200	98
+3	Cell Cycle, Mitotic	Cellular Processes	26562	477
+4	Cell Cycle Checkpoints	Cellular Processes	3259	118
+5	Signal regulatory protein (SIRP) family interactions	Cellular Processes	36	13
+6	Nephrin interactions	Cellular Processes	115	22
+7	DSCAM interactions	Cellular Processes	29	10
+8	Cell junction organization	Cellular Processes	308	63
+9	Chromatin modifying enzymes	Cellular Processes	8778	217
+10	Transcriptional regulation of white adipocyte differentiation	Cellular Processes	2071	78
+11	Transcriptional regulation of pluripotent stem cells	Cellular Processes	129	21
+12	Signaling by NODAL	Cellular Processes	115	19
+13	Regulation of beta-cell development	Cellular Processes	36	32
+14	Myogenesis	Cellular Processes	344	30
+15	Axon guidance	Cellular Processes	3970	324
+16	Non-integrin membrane-ECM interactions	Cellular Processes	183	40
+17	Laminin interactions	Cellular Processes	242	23
+18	Integrin cell surface interactions	Cellular Processes	323	66
+19	Elastic fibre formation	Cellular Processes	162	35
+20	ECM proteoglycans	Cellular Processes	192	52
+21	Degradation of the extracellular matrix	Cellular Processes	247	83
+22	Collagen formation	Cellular Processes	912	86
+23	Mitochondrial biogenesis	Cellular Processes	259	54

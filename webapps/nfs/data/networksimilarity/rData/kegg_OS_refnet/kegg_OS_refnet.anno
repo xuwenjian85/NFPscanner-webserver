@@ -1,0 +1,73 @@
+id	kegg_OS_refnet
+name	KEGG - Organismal Systems
+network_sum	61
+description	Reference networks from KEGG Pathway Database - Organismal Systems, updated by 2015/11/05
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/05
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	Complement_and_coagulation_cascades	Complement and coagulation cascades	Organismal Systems	67
+2	Platelet_activation	Platelet activation	Organismal Systems	68
+3	Toll-like_receptor_signaling_pathway	Toll-like receptor signaling pathway	Organismal Systems	69
+4	NOD-like_receptor_signaling_pathway	NOD-like receptor signaling pathway	Organismal Systems	70
+5	RIG-I-like_receptor_signaling_pathway	RIG-I-like receptor signaling pathway	Organismal Systems	71
+6	Cytosolic_DNA-sensing_pathway	Cytosolic DNA-sensing pathway	Organismal Systems	72
+7	Natural_killer_cell_mediated_cytotoxicity	Natural killer cell mediated cytotoxicity	Organismal Systems	73
+8	Antigen_processing_and_presentation	Antigen processing and presentation	Organismal Systems	74
+9	T_cell_receptor_signaling_pathway	T cell receptor signaling pathway	Organismal Systems	75
+10	B_cell_receptor_signaling_pathway	B cell receptor signaling pathway	Organismal Systems	76
+11	Fc_epsilon_RI_signaling_pathway	Fc epsilon RI signaling pathway	Organismal Systems	77
+12	Fc_gamma_R-mediated_phagocytosis	Fc gamma R-mediated phagocytosis	Organismal Systems	78
+13	Leukocyte_transendothelial_migration	Leukocyte transendothelial migration	Organismal Systems	79
+14	Intestinal_immune_network_for_IgA_production	Intestinal immune network for IgA production	Organismal Systems	80
+15	Chemokine_signaling_pathway	Chemokine signaling pathway	Organismal Systems	81
+16	Insulin_secretion	Insulin secretion	Organismal Systems	82
+17	Insulin_signaling_pathway	Insulin signaling pathway	Organismal Systems	83
+18	Glucagon_signaling_pathway	Glucagon signaling pathway	Organismal Systems	84
+19	Regulation_of_lipolysis_in_adipocytes	Regulation of lipolysis in adipocytes	Organismal Systems	85
+20	Adipocytokine_signaling_pathway	Adipocytokine signaling pathway	Organismal Systems	86
+21	PPAR_signaling_pathway	PPAR signaling pathway	Organismal Systems	87
+22	GnRH_signaling_pathway	GnRH signaling pathway	Organismal Systems	88
+23	Ovarian_steroidogenesis	Ovarian steroidogenesis	Organismal Systems	89
+24	Estrogen_signaling_pathway	Estrogen signaling pathway	Organismal Systems	90
+25	Progesterone-mediated_oocyte_maturation	Progesterone-mediated oocyte maturation	Organismal Systems	91
+26	Prolactin_signaling_pathway	Prolactin signaling pathway	Organismal Systems	92
+27	Oxytocin_signaling_pathway	Oxytocin signaling pathway	Organismal Systems	93
+28	Thyroid_hormone_synthesis	Thyroid hormone synthesis	Organismal Systems	94
+29	Thyroid_hormone_signaling_pathway	Thyroid hormone signaling pathway	Organismal Systems	95
+30	Melanogenesis	Melanogenesis	Organismal Systems	96
+31	Renin_secretion	Renin secretion	Organismal Systems	97
+32	Aldosterone_synthesis_and_secretion	Aldosterone synthesis and secretion	Organismal Systems	99
+33	Cardiac_muscle_contraction	Cardiac muscle contraction	Organismal Systems	100
+34	Adrenergic_signaling_in_cardiomyocytes	Adrenergic signaling in cardiomyocytes	Organismal Systems	101
+35	Vascular_smooth_muscle_contraction	Vascular smooth muscle contraction	Organismal Systems	102
+36	Salivary_secretion	Salivary secretion	Organismal Systems	103
+37	Gastric_acid_secretion	Gastric acid secretion	Organismal Systems	104
+38	Pancreatic_secretion	Pancreatic secretion	Organismal Systems	105
+39	Bile_secretion	Bile secretion	Organismal Systems	106
+40	Fat_digestion_and_absorption	Fat digestion and absorption	Organismal Systems	109
+41	Vasopressin-regulated_water_reabsorption	Vasopressin-regulated water reabsorption	Organismal Systems	112
+42	Aldosterone-regulated_sodium_reabsorption	Aldosterone-regulated sodium reabsorption	Organismal Systems	113
+43	Endocrine_and_other_factor-regulated_calcium_reabsorption	Endocrine and other factor-regulated calcium reabsorption	Organismal Systems	114
+44	Glutamatergic_synapse	Glutamatergic synapse	Organismal Systems	117
+45	GABAergic_synapse	GABAergic synapse	Organismal Systems	118
+46	Cholinergic_synapse	Cholinergic synapse	Organismal Systems	119
+47	Dopaminergic_synapse	Dopaminergic synapse	Organismal Systems	120
+48	Serotonergic_synapse	Serotonergic synapse	Organismal Systems	121
+49	Long-term_potentiation	Long-term potentiation	Organismal Systems	122
+50	Long-term_depression	Long-term depression	Organismal Systems	123
+51	Retrograde_endocannabinoid_signaling	Retrograde endocannabinoid signaling	Organismal Systems	124
+52	Synaptic_vesicle_cycle	Synaptic vesicle cycle	Organismal Systems	125
+53	Neurotrophin_signaling_pathway	Neurotrophin signaling pathway	Organismal Systems	126
+54	Olfactory_transduction	Olfactory transduction	Organismal Systems	127
+55	Taste_transduction	Taste transduction	Organismal Systems	128
+56	Inflammatory_mediator_regulation_of_TRP_channels	Inflammatory mediator regulation of TRP channels	Organismal Systems	129
+57	Dorso-ventral_axis_formation	Dorso-ventral axis formation	Organismal Systems	130
+58	Axon_guidance	Axon guidance	Organismal Systems	131
+59	Osteoclast_differentiation	Osteoclast differentiation	Organismal Systems	132
+60	Circadian_rhythm	Circadian rhythm	Organismal Systems	133
+61	Circadian_entrainment	Circadian entrainment	Organismal Systems	134

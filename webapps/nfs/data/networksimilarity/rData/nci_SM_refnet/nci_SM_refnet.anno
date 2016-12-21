@@ -1,0 +1,20 @@
+id	nci_SM_refnet
+name	nci pathways - Second messengers
+network_sum	8
+description	Reference networks from nci database - Second messengers updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	CSP	Ceramide signaling pathway	Second messengers	144
+2	CIP3SE	Class I PI3K signaling events	Second messengers	146
+3	CIP3SEMBA	Class I PI3K signaling events mediated by Akt	Second messengers	147
+4	L1SE	LKB1 signaling events	Second messengers	148
+5	S11P	S1P1 pathway	Second messengers	149
+6	S12P	S1P2 pathway	Second messengers	150
+7	S13P	S1P3 pathway	Second messengers	151
+8	S14P	S1P4 pathway	Second messengers	152

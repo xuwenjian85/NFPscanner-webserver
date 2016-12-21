@@ -1,0 +1,7 @@
+ID	Description	Category	Edge Count	Node Count
+1	Apoptosis	Programmed Cell Death	158	74
+2	Apoptosis_anti_apoptosis	Programmed Cell Death	282	131
+3	Apoptosis_In_The_Ear	Programmed Cell Death	353	189
+4	autophagy	Programmed Cell Death	584	308
+5	Caspases_Cascade	Programmed Cell Death	707	360
+6	DAPk_family	Programmed Cell Death	735	380

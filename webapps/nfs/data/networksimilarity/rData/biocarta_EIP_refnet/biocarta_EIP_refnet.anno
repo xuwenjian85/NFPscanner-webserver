@@ -1,0 +1,41 @@
+id	biocarta_EIP_refnet
+name	biocarta pathways - Environmental Information Processing
+network_sum	29
+description	Reference networks from biocarta database - Environmental Information Processing updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	ASIRTDD	apoptotic signaling in response to dna damage	Environmental Information Processing	56
+2	ABSPIIPA	aspirin blocks signaling pathway involved in platelet activation	Environmental Information Processing	57
+3	CIDSAPIM	cadmium induces dna synthesis and proliferation in macrophages	Environmental Information Processing	58
+4	CSBHOHBV	calcium signaling by hbx of hepatitis b virus	Environmental Information Processing	59
+5	CPAR	cardiac protection against ros	Environmental Information Processing	60
+6	CCIA	caspase cascade in apoptosis	Environmental Information Processing	61
+7	CSP	ceramide signaling pathway	Environmental Information Processing	62
+8	CMISP	chaperones modulate interferon signaling pathway	Environmental Information Processing	63
+9	CRBCAC	chrebp regulation by carbohydrates and camp	Environmental Information Processing	64
+10	EOCIKD	effects of calcineurin in keratinocyte differentiation	Environmental Information Processing	65
+11	FICGEIH1C	fmlp induced chemokine gene expression in hmc-1 cells	Environmental Information Processing	66
+12	H1NNEOFAT	hiv-1 nef: negative effector of fas and tnf	Environmental Information Processing	69
+13	HDSHAC	how does salmonella hijack a cell	Environmental Information Processing	70
+14	HPITOM	how progesterone initiates the oocyte maturation	Environmental Information Processing	71
+15	HCAMKP	human cytomegalovirus and map kinase pathways	Environmental Information Processing	72
+16	HAP53ITCS	hypoxia and p53 in the cardiovascular system	Environmental Information Processing	73
+17	HFITCS	hypoxia-inducible factor in the cardivascular system	Environmental Information Processing	74
+18	IOATD3AD45DR	induction of apoptosis through dr3 and dr4/5 death receptors	Environmental Information Processing	75
+19	IOCPBG	inhibition of cellular proliferation by gleevec	Environmental Information Processing	76
+20	MOGRBPPVP	mechanism of gene regulation by peroxisome proliferators via ppara	Environmental Information Processing	80
+21	NABNHI	nfkb activation by nontypeable hemophilus influenzae	Environmental Information Processing	81
+22	NOSP	nitric oxide signaling pathway	Environmental Information Processing	82
+23	RTSSIRTDD	rb tumor suppressor/checkpoint signaling in response to dna damage	Environmental Information Processing	86
+24	SABCRTAA	stathmin and breast cancer resistance to antimicrotubule agents	Environmental Information Processing	87
+25	SIOHR	stress induction of hsp regulation	Environmental Information Processing	88
+26	TRS	tnf/stress related signaling	Environmental Information Processing	89
+27	TFCAIES	transcription factor creb and its extracellular signals	Environmental Information Processing	90
+28	TRBMOC1	transcription regulation by methyltransferase of carm1	Environmental Information Processing	91
+29	WNV	west nile virus	Environmental Information Processing	92

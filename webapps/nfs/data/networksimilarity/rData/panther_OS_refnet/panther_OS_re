@@ -1,0 +1,38 @@
+id	panther_OS_refnet
+name	panther pathways - Organismal Systems
+network_sum	26
+description	Reference networks from panther database - Organismal Systems updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	551TRMSP	 5HT1 type receptor mediated signaling pathway	Organismal Systems	57
+2	552TRMSP	 5HT2 type receptor mediated signaling pathway	Organismal Systems	58
+3	A	Activinbetasignaling_pathway	Organismal Systems	60
+4	AARSP	Alpha adrenergic receptor signaling pathway	Organismal Systems	62
+5	ADSP	Alzheimer disease-amyloid secretase pathway	Organismal Systems	63
+6	ADP	Alzheimer disease-presenilin pathway	Organismal Systems	64
+7	A	Angiogenesis	Organismal Systems	65
+8	BCA	B cell activation	Organismal Systems	66
+9	BC	Blood coagulation	Organismal Systems	67
+10	CCS	Circadian clock system	Organismal Systems	68
+11	ER	Enkephalin release	Organismal Systems	69
+12	HD	Huntington disease	Organismal Systems	70
+13	ISP	Interferon-gamma signaling pathway	Organismal Systems	71
+14	ISP	Interleukin signaling pathway	Organismal Systems	72
+15	IGRP	Ionotropic glutamate receptor pathway	Organismal Systems	73
+16	MGRGIP	Metabotropic glutamate receptor group III pathway	Organismal Systems	74
+17	MGRGIP	Metabotropic glutamate receptor group II pathway	Organismal Systems	75
+18	MGRGIP	Metabotropic glutamate receptor group I pathway	Organismal Systems	76
+19	MAR11A33SP	Muscarinic acetylcholine receptor 1 and 3 signaling pathway	Organismal Systems	77
+20	MAR22A44SP	Muscarinic acetylcholine receptor 2 and 4 signaling pathway	Organismal Systems	78
+21	PD	Parkinson disease	Organismal Systems	79
+22	PSP	PDGF signaling pathway	Organismal Systems	80
+23	PAC	Plasminogen activating cascade	Organismal Systems	81
+24	TCA	T cell activation	Organismal Systems	82
+25	THRSP	Thyrotropin-releasing hormone receptor signaling pathway	Organismal Systems	83
+26	TRSP	Toll receptor signaling pathway	Organismal Systems	84

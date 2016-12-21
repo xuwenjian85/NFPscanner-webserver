@@ -1,0 +1,28 @@
+id	panther_EIP_refnet
+name	panther pathways - Enviromental Information Processing
+network_sum	16
+description	Reference networks from panther database - Enviromental Information Processing updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	IMBCACSP	Inflammation mediated by chemokine and cytokine signaling pathway	Enviromental Information Processing	31
+2	IPAPKKKC	Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade	Enviromental Information Processing	32
+3	IPKBSC	Insulin/IGF pathway-protein kinase B signaling cascade	Enviromental Information Processing	33
+4	JSP	JAK/STAT signaling pathway	Enviromental Information Processing	34
+5	NPP	Nicotine pharmacodynamics pathway	Enviromental Information Processing	35
+6	NARSP	Nicotinic acetylcholine receptor signaling pathway	Enviromental Information Processing	36
+7	NSP	Notch signaling pathway	Enviromental Information Processing	37
+8	OPP	Opioid proenkephalin pathway	Enviromental Information Processing	38
+9	OPP	Opioid proopiomelanocortin pathway	Enviromental Information Processing	39
+10	ORMSP	Oxytocin receptor mediated signaling pathway	Enviromental Information Processing	41
+11	P53P	p53 pathway	Enviromental Information Processing	43
+12	P53PFL11	P53 pathway feedback loops 1	Enviromental Information Processing	45
+13	P53PFL22	p53 pathway feedback loops 2	Enviromental Information Processing	46
+14	P3KP	PI3 kinase pathway	Enviromental Information Processing	47
+15	TSP	TGF-beta signaling pathway	Enviromental Information Processing	49
+16	WSP	Wnt signaling pathway	Enviromental Information Processing	51

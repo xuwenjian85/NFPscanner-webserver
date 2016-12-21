@@ -1,0 +1,13 @@
+id	humancyc_ST_refnet
+name	humancyc pathways - Signal Transduction
+network_sum	1
+description	Reference networks from humancyc database - Signal Transduction updated on 2015/11/13
+create_time	2015/10/1
+create_user	system
+update_time	2015/11/13
+update_user	system
+public	TRUE
+organism	Homo sapiens
+	
+id	name	description	category	rank
+1	BSP	BMP Signalling Pathway	Signal Transduction	177
